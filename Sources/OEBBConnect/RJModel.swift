@@ -166,3 +166,25 @@ public struct Station: Decodable, TrainStation {
         return nil
     }
 }
+
+public struct Status: Decodable {
+    public let latitude: Double
+    public let longitude: Double
+    public let speed: Numeric
+    
+    public var currentConnectivity: String? {
+        return "Unknown"
+    }
+    
+    public var connectedDevices: Int? {
+        nil
+    }
+    
+    public var trainType: TrainType {
+        return TrainType(trainModel: "Railjet")
+    }
+    
+    public var currentSpeed: Measurement<UnitSpeed> {
+        Measurement<UnitSpeed>(value: self.speed, unit: .kilometersPerHour)
+    }
+}

@@ -76,4 +76,14 @@ public class RJDataController: NSObject, TrainDataController {
             }
         }
     }
+    
+    public func loadTrainStatus(demoMode: Bool, completionHandler: @escaping (TrainStatus?, Error?) -> ()) {
+        self.loadCombined(demoMode: demoMode) { combined, error in
+            if let combined = combined {
+                completionHandler(Status(latitude: combined.latestStatus.gpsPosition.latitude, longitude: combined.latestStatus.gpsPosition.longitude, speed: combined.latestStatus.speed), nil)
+            }
+        }
+    }
+    
+    //TODO: loadSpeed?
 }
