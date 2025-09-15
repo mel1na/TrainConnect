@@ -6,7 +6,6 @@
 //
 
 import XCTest
-@testable import ICE_Buddy
 @testable import DBConnect
 
 class ICE_BuddyTests: XCTestCase {
