@@ -68,7 +68,7 @@ public struct ICETrainType: TrainType {
         case .BR403, .BR406, .BR407:
             return "ICE 3"
         case .BR408:
-            return "ICE 3 Neo"
+            return "ICE 3neo"
         case .BR411, .BR415:
             return "ICE T"
         case .BR412:
