@@ -192,13 +192,26 @@ public struct JourneyStationName: Codable {
 }
 
 public struct LatestStatus: Codable {
-    public let dateTime: String
+    public var dateTime: String
     public let situation: Situation
     public let gpsPosition: GPSPosition
     public let speed: Int
     public let distance: Distance
     public let totalDelay: Int //in seconds?
     public let comment: String?
+    
+    public init(from decoder: any Decoder) throws {
+        let container = try decoder.container(keyedBy: CodingKeys.self)
+        self.dateTime = try container.decode(String.self, forKey: .dateTime)
+        self.situation = try container.decode(Situation.self, forKey: .situation)
+        self.gpsPosition = try container.decode(GPSPosition.self, forKey: .gpsPosition)
+        self.speed = try container.decode(Int.self, forKey: .speed)
+        self.distance = try container.decode(Distance.self, forKey: .distance)
+        self.totalDelay = try container.decode(Int.self, forKey: .totalDelay)
+        self.comment = try container.decodeIfPresent(String.self, forKey: .comment)
+        
+        currentTrainDate = ISO8601DateFormatter().date(from: dateTime) ?? Date()
+    }
 }
 
 public struct Situation: Codable {
