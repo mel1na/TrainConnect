@@ -75,18 +75,7 @@ public struct Stop: Codable, TrainStop {
     public var hasPassed: Bool {
         (self.progress?.progressPercentage ?? 0) >= 100
     }
-    
-    public var departureDelay: String {
-        if isDelayed {
-            return "+\(self.delay)"
-        } else {
-            return ""
-        }
-    }
-    
-    public var arrivalDelay: String {
-        self.departureDelay
-    }
+
     
     public var trainTrack: TrainTrack? {
         if let platform = platform {

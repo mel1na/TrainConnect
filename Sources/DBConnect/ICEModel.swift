@@ -71,14 +71,7 @@ public struct JourneyStop: Decodable, Hashable, Identifiable, TrainStop {
     public var trainTrack: TrainTrack? {
         self.track
     }
-    
-    public var departureDelay: String {
-        self.timetable.departureDelay
-    }
-    
-    public var arrivalDelay: String {
-        self.timetable.arrivalDelay
-    }
+
     
     public var hasPassed: Bool {
         self.info.passed
