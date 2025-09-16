@@ -84,6 +84,4 @@ public class RJDataController: NSObject, TrainDataController {
             }
         }
     }
-    
-    //TODO: loadSpeed?
 }

@@ -17,7 +17,7 @@ import SwiftUI
 
 // MARK: CombinedResponse
 
-public var currentTrainDate: Date = Date() //TODO: populate this with real data?
+public var currentTrainDate: Date = Date() //TODO: replace this with a ride start date if possible?
 
 public struct CombinedResponse: Codable, TrainTrip {
     public var finalStopInfo: TrainFinalStopInfo? {
@@ -297,8 +297,22 @@ struct OEBBTrainType: TrainType {
         return "Railjet"
     }
     
+    #if os(macOS)
     var trainIcon: NSImage? {
-        nil
+        Bundle.module.image(forResource: self.icon)!
+    }
+    #endif
+
+    #if os(iOS)
+    @available(iOS 13.0, *)
+    var trainIcon: Image? {
+    
+        Image(self.icon, bundle: Bundle.module)
+    }
+    #endif
+    
+    private var icon: String {
+        return "railjet-2"
     }
     
 }
@@ -331,5 +345,6 @@ func nextOccurrence(of timeString: String, from: Date) -> Date? {
     /*if target <= from {
         target = calendar.date(byAdding: .day, value: 1, to: target)!
     }*/
+    //TODO: Fix edge case - over-night rides (23:59 to 00:00 will break the logic, since currentTrainDate is the CURRENT date, not the one when the ride started.)
     return target
 }
