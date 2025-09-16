@@ -217,21 +217,31 @@ public struct Situation: Codable {
 }
 
 public struct GPSPosition: Codable {
-    public var latitude: Double
-    public let longitude: Double
-    public let orientation: Double?
+    public var latString: String
+    public var lonString: String
+    public var orientString: String?
     
-    public init(from decoder: Decoder) throws {
-        let container = try decoder.container(keyedBy: CodingKeys.self)
-        self.latitude = try container.decode(Double.self, forKey: .latitude)
-        self.longitude = try container.decode(Double.self, forKey: .latitude)
-        self.orientation = try container.decode(Double.self, forKey: .orientation)
+    public let latitude: Double
+    public let longitude: Double
+    public var orientation: Double? {
+        if let orientString {
+            return Double(orientString)
+        }
+        return nil
+    }
+    
+    enum CodingKeys: String, CodingKey {
+        case latString = "latitude"
+        case lonString = "longitude"
     }
 
-    private enum CodingKeys: String, CodingKey {
-        case latitude
-        case longitude
-        case orientation
+    public init(from decoder: Decoder) throws {
+        let container = try decoder.container(keyedBy: CodingKeys.self)
+        latString = try container.decode(String.self, forKey: .latString)
+        lonString = try container.decode(String.self, forKey: .lonString)
+
+        latitude = Double(latString)!
+        longitude = Double(lonString)!
     }
 }
 
