@@ -17,7 +17,7 @@ import SwiftUI
 
 // MARK: CombinedResponse
 
-public var currentTrainDate: Date = Date()
+public var currentTrainDate: Date = Date() //TODO: populate this with real data?
 
 public struct CombinedResponse: Codable, TrainTrip {
     public var finalStopInfo: TrainFinalStopInfo? {
@@ -38,7 +38,7 @@ public struct CombinedResponse: Codable, TrainTrip {
     public let startStation: String
     
     public let destination: JourneyStationName
-    public let stations: [JourneyStop]
+    public var stations: [JourneyStop]
     
     public var trainStops: [TrainStop] {
         self.stations
@@ -48,40 +48,30 @@ public struct CombinedResponse: Codable, TrainTrip {
     public let currentStation, nextStation: JourneyStop
     public let nextStationProgress: Int
     
-    init(lineNumber: String, tripNumber: String, trainType: String, startStation: String, destination: JourneyStationName, stations: [JourneyStop], latestStatus: LatestStatus, currentStation: JourneyStop, nextStation: JourneyStop, nextStationProgress: Int) {
-        var hitPassed = false
-        currentTrainDate = ISO8601DateFormatter().date(from: latestStatus.dateTime) ?? Date()
-        
-        self.lineNumber = lineNumber
-        self.tripNumber = tripNumber
-        self.trainType = trainType
-        self.startStation = startStation
-        self.destination = destination
-        self.stations = stations.map { stop in
-            var updatedStop = stop
-            //if (latestStatus.situation.type == "drive-to")
-            if (latestStatus.situation.type == "drive-to" && latestStatus.situation.station == stop.evaNr || hitPassed) {
-                hitPassed = true
-            } else {
-                updatedStop.hasPassed = true
+    public init(from decoder: Decoder) throws {
+        let container = try decoder.container(keyedBy: CodingKeys.self)
+            
+        self.stations = try container.decode([JourneyStop].self, forKey: .stations)
+        self.latestStatus = try container.decode(LatestStatus.self, forKey: .latestStatus)
+        self.currentStation = try container.decode(JourneyStop.self, forKey: .currentStation)
+        self.nextStation = try container.decode(JourneyStop.self, forKey: .nextStation)
+        self.lineNumber = try container.decode(String.self, forKey: .lineNumber)
+        self.tripNumber = try container.decode(String.self, forKey: .tripNumber)
+        self.trainType = try container.decode(String.self, forKey: .trainType)
+        self.startStation = try container.decode(String.self, forKey: .startStation)
+        self.destination = try container.decode(JourneyStationName.self, forKey: .destination)
+        self.nextStationProgress = try container.decode(Int.self, forKey: .nextStationProgress)
+            
+        if let nextIndex = stations.firstIndex(where: { $0.evaNr == nextStation.evaNr }) {
+            for i in 0..<stations.count {
+                stations[i].hasPassed = i < nextIndex
             }
-            return updatedStop
         }
-        self.latestStatus = latestStatus
-        self.currentStation = currentStation
-        self.nextStation = nextStation
-        self.nextStationProgress = nextStationProgress
     }
     
-    /*var endPassed = false
-    for i in 0..<stations.count {
-        if (currentStation.id != stations[i].id && latestStatus.speed != 0) {
-            stations[i].hasPassed = true
-        } else if (currentStation.id == stations[i].id || endPassed) {
-            //stations[i].hasPassed = false
-            endPassed = true
+    private enum CodingKeys: String, CodingKey {
+            case stations, latestStatus, currentStation, nextStation, lineNumber, tripNumber, trainType, startStation, destination, nextStationProgress
         }
-    }*/
 }
 
 // MARK: Stop
