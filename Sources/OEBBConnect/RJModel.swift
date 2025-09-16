@@ -60,10 +60,10 @@ public struct CombinedResponse: Codable, TrainTrip {
         self.stations = stations.map { stop in
             var updatedStop = stop
             //if (latestStatus.situation.type == "drive-to")
-            if (currentStation.evaNr != stop.evaNr && latestStatus.speed != 0) {
-                updatedStop.hasPassed = true
-            } else if (currentStation.id == stop.id && latestStatus.situation.type == "stop" || hitPassed) {
+            if (latestStatus.situation.type == "drive-to" && latestStatus.situation.station == stop.evaNr || hitPassed) {
                 hitPassed = true
+            } else {
+                updatedStop.hasPassed = true
             }
             return updatedStop
         }
@@ -152,7 +152,7 @@ public struct JourneyStop: Codable, TrainStop {
         let container = try decoder.container(keyedBy: CodingKeys.self)
         self.evaNr = try container.decode(String.self, forKey: .id)
         self.arrival = try container.decode(JourneyStopTime.self, forKey: .arrival)
-        self.departure = try container.decode(JourneyStopTime.self, forKey: .arrival)
+        self.departure = try container.decode(JourneyStopTime.self, forKey: .departure)
         self.track = try container.decode(Track.self, forKey: .track)
         self.name = try container.decode(JourneyStationName.self, forKey: .name)
     }
