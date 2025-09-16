@@ -92,7 +92,6 @@ public struct JourneyStop: Codable, TrainStop {
     public let arrival, departure: JourneyStopTime
     public let track: Track
     public let name: JourneyStationName
-    public let station: Station
     
     public var evaNr: String
 
@@ -156,7 +155,6 @@ public struct JourneyStop: Codable, TrainStop {
         self.departure = try container.decode(JourneyStopTime.self, forKey: .arrival)
         self.track = try container.decode(Track.self, forKey: .track)
         self.name = try container.decode(JourneyStationName.self, forKey: .name)
-        self.station = try container.decode(Station.self, forKey: .station)
     }
 
     private enum CodingKeys: String, CodingKey {
@@ -165,7 +163,6 @@ public struct JourneyStop: Codable, TrainStop {
         case departure
         case track
         case name
-        case station
     }
 }
 
