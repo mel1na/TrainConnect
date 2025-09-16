@@ -43,6 +43,7 @@ public class RJDataController: NSObject, TrainDataController {
     }
     private func loadCombined(demoMode: Bool, completionHandler: @escaping (CombinedResponse?, Error?) -> ()){
         let provider = getProvider(demoMode: demoMode)
+        provider.session.session.configuration.timeoutIntervalForRequest = 2
         provider.session.session.configuration.timeoutIntervalForResource = 2
         provider.request(.combined) { result in
             switch result {

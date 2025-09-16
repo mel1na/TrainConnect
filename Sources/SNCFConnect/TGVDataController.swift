@@ -45,6 +45,7 @@ public class TGVDataController: NSObject, TrainDataController {
     private func loadDetails(demoMode: Bool, completionHandler: @escaping (DetailsResponse?, Error?) -> ()){
         
         let provider = getProvider(demoMode: demoMode)
+        provider.session.session.configuration.timeoutIntervalForRequest = 2
         provider.session.session.configuration.timeoutIntervalForResource = 2
         provider.request(.details) { result in
             switch result {
@@ -104,6 +105,7 @@ public class TGVDataController: NSObject, TrainDataController {
     
     private func loadGPS(demoMode: Bool = false, completionHandler: @escaping (GPSResponse?, Error?) -> ()) {
         let provider = getProvider(demoMode: demoMode)
+        provider.session.session.configuration.timeoutIntervalForRequest = 2
         provider.session.session.configuration.timeoutIntervalForResource = 2
         provider.request(.gps) { result in
             switch result {
@@ -139,6 +141,7 @@ public class TGVDataController: NSObject, TrainDataController {
     
     private func loadStatistics(demoMode: Bool = false, completionHandler: @escaping (StatisticsResponse?, Error?) -> ()) {
         let provider = getProvider(demoMode: demoMode)
+        provider.session.session.configuration.timeoutIntervalForRequest = 2
         provider.session.session.configuration.timeoutIntervalForResource = 2
         provider.request(.statistics) { result in
             switch result {
