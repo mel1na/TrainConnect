@@ -60,7 +60,7 @@ public struct CombinedResponse: Codable, TrainTrip {
         self.stations = stations.map { stop in
             var updatedStop = stop
             //if (latestStatus.situation.type == "drive-to")
-            if (currentStation.id != stop.id && latestStatus.speed != 0) {
+            if (currentStation.evaNr != stop.evaNr && latestStatus.speed != 0) {
                 updatedStop.hasPassed = true
             } else if (currentStation.id == stop.id && latestStatus.situation.type == "stop" || hitPassed) {
                 hitPassed = true
@@ -88,14 +88,14 @@ public struct CombinedResponse: Codable, TrainTrip {
 public struct JourneyStop: Codable, TrainStop {
     public var delayReason: String?
     
-    public var id = UUID()
+    public var id: UUID = UUID()
     public let arrival, departure: JourneyStopTime
     public let track: Track
     public let name: JourneyStationName
     public let station: Station
     
-    public var evaNr: Int //evaNr
-    
+    public var evaNr: String
+
     public var scheduledArrival: Date? {
         if (self.arrival.scheduled != nil) {
             return nextOccurrence(of: self.arrival.scheduled!, from: currentTrainDate)
@@ -133,7 +133,7 @@ public struct JourneyStop: Codable, TrainStop {
     }
     
     public var trainStation: TrainStation {
-        return Station(evaNr: station.evaNr, name: station.name, geocoordinates: nil)
+        return Station(evaNr: evaNr, name: name.de, geocoordinates: nil)
     }
     
     public var hasPassed: Bool = false
@@ -148,6 +148,25 @@ public struct JourneyStop: Codable, TrainStop {
     
     public var exitSide: String?
     public var distanceFromPrevious: Int?
+    
+    public init(from decoder: Decoder) throws {
+        let container = try decoder.container(keyedBy: CodingKeys.self)
+        self.evaNr = try container.decode(String.self, forKey: .id)
+        self.arrival = try container.decode(JourneyStopTime.self, forKey: .arrival)
+        self.departure = try container.decode(JourneyStopTime.self, forKey: .arrival)
+        self.track = try container.decode(Track.self, forKey: .track)
+        self.name = try container.decode(JourneyStationName.self, forKey: .name)
+        self.station = try container.decode(Station.self, forKey: .station)
+    }
+
+    private enum CodingKeys: String, CodingKey {
+        case id
+        case arrival
+        case departure
+        case track
+        case name
+        case station
+    }
 }
 
 public struct Track: Codable, TrainTrack {
