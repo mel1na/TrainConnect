@@ -19,7 +19,7 @@ import UIKit
 public struct ICETrainType: TrainType {
   
     enum Model: CaseIterable {
-        case BR401, BR402, BR403, BR406, BR407, BR408, BR411, BR415, BR412, unknown
+        case BR401, BR402, BR403, BR407, BR408, BR411, BR415, BR412, unknown
         
         var triebZugNummern: [Int] {
             switch self {
@@ -29,8 +29,6 @@ public struct ICETrainType: TrainType {
                 return [Int](201...299)
             case .BR403:
                 return [Int](301...399)
-            case .BR406:
-                return [Int](4601...4699)
             case .BR407:
                 return [Int](701...799) + [Int](4701...4799)
             case .BR408:
@@ -65,7 +63,7 @@ public struct ICETrainType: TrainType {
             return "ICE 1"
         case .BR402:
             return "ICE 2"
-        case .BR403, .BR406, .BR407:
+        case .BR403, .BR407:
             return "ICE 3"
         case .BR408:
             return "ICE 3neo"
@@ -92,8 +90,6 @@ public struct ICETrainType: TrainType {
             return Image("BR402", bundle: Bundle.module)
         case .BR403:
             return Image("BR403", bundle: Bundle.module)
-        case .BR406:
-            return Image("BR406", bundle: Bundle.module)
         case .BR407:
             return Image("BR407", bundle: Bundle.module)
         case .BR408:
@@ -119,8 +115,6 @@ public struct ICETrainType: TrainType {
             return Bundle.module.image(forResource: "BR402")!
         case .BR403:
             return Bundle.module.image(forResource: "BR403")!
-        case .BR406:
-            return Bundle.module.image(forResource: "BR406")!
         case .BR407:
             return Bundle.module.image(forResource: "BR407")!
         case .BR408:
