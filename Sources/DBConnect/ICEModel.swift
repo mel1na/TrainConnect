@@ -40,7 +40,7 @@ public struct JourneyStopInfo: Decodable, TrainFinalStopInfo {
 }
 
 public struct JourneyStop: Decodable, Hashable, Identifiable, TrainStop {
-    public var id = UUID()
+    public let id = UUID()
     public let station: Station
     public let timetable: Timetable
     public let track: Track

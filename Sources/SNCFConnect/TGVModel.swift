@@ -48,7 +48,7 @@ public struct AdditionalServices: Codable {
 
 // MARK: - Stop
 public struct Stop: Codable, TrainStop {
-    public var id: UUID = UUID()
+    public let id: UUID = UUID()
     
     public var trainStation: TrainStation {
         Station(code: self.code,
