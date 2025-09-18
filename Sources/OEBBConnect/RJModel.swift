@@ -140,10 +140,10 @@ public struct JourneyStop: Codable, TrainStop {
     
     public init(from decoder: Decoder) throws {
         let container = try decoder.container(keyedBy: CodingKeys.self)
-        self.evaNr = try container.decode(String.self, forKey: .id)
-        self.arrival = try container.decode(JourneyStopTime.self, forKey: .arrival)
-        self.departure = try container.decode(JourneyStopTime.self, forKey: .departure)
-        self.track = try container.decode(Track.self, forKey: .track)
+        self.evaNr = try container.decodeIfPresent(String.self, forKey: .id) ?? "0"
+        self.arrival = try container.decodeIfPresent(JourneyStopTime.self, forKey: .arrival) ?? JourneyStopTime(scheduled: "00:00", forecast: "00:00")
+        self.departure = try container.decodeIfPresent(JourneyStopTime.self, forKey: .departure) ?? JourneyStopTime(scheduled: "00:00", forecast: "00:00")
+        self.track = try container.decodeIfPresent(Track.self, forKey: .track) ?? Track(de: "1337")
         self.name = try container.decode(JourneyStationName.self, forKey: .name)
     }
 
