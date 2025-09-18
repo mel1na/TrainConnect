@@ -76,14 +76,14 @@ public struct CombinedResponse: Codable, TrainTrip {
 
 // MARK: Stop
 public struct JourneyStop: Codable, TrainStop {
-    public var delayReason: String?
+    public let delayReason: String?
     
-    public var id: UUID = UUID()
+    public let id: UUID
     public let arrival, departure: JourneyStopTime
     public let track: Track
     public let name: JourneyStationName
     
-    public var evaNr: String
+    public let evaNr: String
 
     public var scheduledArrival: Date? {
         if (self.arrival.scheduled != nil) {
@@ -139,20 +139,30 @@ public struct JourneyStop: Codable, TrainStop {
     public var distanceFromPrevious: Int?
     
     public init(from decoder: Decoder) throws {
-        let container = try decoder.container(keyedBy: CodingKeys.self)
-        self.evaNr = try container.decodeIfPresent(String.self, forKey: .id) ?? "0"
-        self.arrival = try container.decodeIfPresent(JourneyStopTime.self, forKey: .arrival) ?? JourneyStopTime(scheduled: "00:00", forecast: "00:00")
-        self.departure = try container.decodeIfPresent(JourneyStopTime.self, forKey: .departure) ?? JourneyStopTime(scheduled: "00:00", forecast: "00:00")
-        self.track = try container.decodeIfPresent(Track.self, forKey: .track) ?? Track(de: "1337")
-        self.name = try container.decode(JourneyStationName.self, forKey: .name)
+        let c = try decoder.container(keyedBy: CodingKeys.self)
+        let stationCode = try c.decode(String.self, forKey: .id)
+        self.evaNr = stationCode
+        self.id = UUID()
+        self.arrival = try c.decodeIfPresent(JourneyStopTime.self, forKey: .arrival) ?? JourneyStopTime(scheduled: nil, forecast: nil)
+        self.departure = try c.decodeIfPresent(JourneyStopTime.self, forKey: .departure) ?? JourneyStopTime(scheduled: nil, forecast: nil)
+        self.track = try c.decodeIfPresent(Track.self, forKey: .track) ?? Track(de: "?")
+        self.name = try c.decode(JourneyStationName.self, forKey: .name)
+        self.delayReason = nil
+    }
+    
+    public func encode(to encoder: Encoder) throws {
+        var c = encoder.container(keyedBy: CodingKeys.self)
+        try c.encode(evaNr, forKey: .evaNr)
+        try c.encode(arrival, forKey: .arrival)
+        try c.encode(departure, forKey: .departure)
+        try c.encode(track, forKey: .track)
+        try c.encode(name, forKey: .name)
     }
 
     private enum CodingKeys: String, CodingKey {
         case id
-        case arrival
-        case departure
-        case track
-        case name
+        case evaNr
+        case arrival, departure, track, name
     }
 }
 
