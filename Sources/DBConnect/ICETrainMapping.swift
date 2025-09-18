@@ -19,7 +19,7 @@ import UIKit
 public struct ICETrainType: TrainType {
   
     enum Model: CaseIterable {
-        case BR401, BR402, BR403, BR407, BR408, BR411, BR415, BR412, unknown
+        case BR401, BR402, BR403, BR407, BR408, BR411_1, BR411_2, BR412, BR415, unknown
         
         var triebZugNummern: [Int] {
             switch self {
@@ -33,12 +33,14 @@ public struct ICETrainType: TrainType {
                 return [Int](701...799) + [Int](4701...4799)
             case .BR408:
                 return [Int](8001...8079)
-            case .BR411:
-                return [Int](1101...1199)
-            case .BR415:
-                return [Int](1501...1599)
+            case .BR411_1:
+                return [Int](1101...1150)
+            case .BR411_2:
+                return [Int](1151...1199)
             case .BR412:
                 return [Int](9001...9999)
+            case .BR415:
+                return [Int](1501...1599)
             case .unknown:
                 return []
             }
@@ -67,7 +69,7 @@ public struct ICETrainType: TrainType {
             return "ICE 3"
         case .BR408:
             return "ICE 3neo"
-        case .BR411, .BR415:
+        case .BR411_1, .BR411_2, .BR415:
             return "ICE T"
         case .BR412:
             return "ICE 4"
@@ -94,12 +96,14 @@ public struct ICETrainType: TrainType {
             return Image("BR407", bundle: Bundle.module)
         case .BR408:
             return Image("BR408", bundle: Bundle.module)
-        case .BR411:
-            return Image("BR411", bundle: Bundle.module)
-        case .BR415:
-            return Image("BR415", bundle: Bundle.module)
+        case .BR411_1:
+            return Image("BR411-1", bundle: Bundle.module)
+        case .BR411_2:
+            return Image("BR411-2", bundle: Bundle.module)
         case .BR412:
             return Image("BR412", bundle: Bundle.module)
+        case .BR415:
+            return Image("BR415", bundle: Bundle.module)
         case .unknown:
             return Image("BR401", bundle: Bundle.module)
         }
@@ -119,12 +123,14 @@ public struct ICETrainType: TrainType {
             return Bundle.module.image(forResource: "BR407")!
         case .BR408:
             return Bundle.module.image(forResource: "BR408")!
-        case .BR411:
-            return Bundle.module.image(forResource: "BR411")!
-        case .BR415:
-            return Bundle.module.image(forResource: "BR415")!
+        case .BR411_1:
+            return Bundle.module.image(forResource: "BR411-1")!
+        case .BR411_2:
+            return Bundle.module.image(forResource: "BR411-2")!
         case .BR412:
             return Bundle.module.image(forResource: "BR412")!
+        case .BR415:
+            return Bundle.module.image(forResource: "BR415")!
         case .unknown:
             return Bundle.module.image(forResource: "BR401")!
         }
