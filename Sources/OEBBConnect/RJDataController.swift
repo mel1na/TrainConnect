@@ -51,8 +51,8 @@ public class RJDataController: NSObject, TrainDataController {
                 do {
                     let response = try response.filterSuccessfulStatusCodes()
                     let decoder = JSONDecoder()
-                    print(DateFormatter.rjFormatter.string(from: .init()))
-                    decoder.dateDecodingStrategy = .formatted(DateFormatter.rjFormatter)
+                    //print(DateFormatter.rjFormatter.string(from: .init()))
+                    //decoder.dateDecodingStrategy = .formatted(DateFormatter.rjFormatter)
                     let trip = try decoder.decode(CombinedResponse.self, from: response.data)
                     completionHandler(trip, nil)
                 } catch DecodingError.dataCorrupted(let context) {
