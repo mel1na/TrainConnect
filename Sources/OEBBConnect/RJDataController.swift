@@ -56,6 +56,10 @@ public class RJDataController: NSObject, TrainDataController {
                     let trip = try decoder.decode(CombinedResponse.self, from: response.data)
                     completionHandler(trip, nil)
                 } catch DecodingError.dataCorrupted(let context) {
+                    if response.response?.allHeaderFields["Content-Type"] as! String == "text/html;charset=UTF-8" {
+                        completionHandler(nil, TrainConnectionError.notConnected)
+                        break
+                    }
                     print(context)
                 } catch DecodingError.keyNotFound(let key, let context) {
                     print("Key '\(key)' not found:", context.debugDescription)
