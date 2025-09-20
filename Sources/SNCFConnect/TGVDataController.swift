@@ -74,6 +74,10 @@ public class TGVDataController: NSObject, TrainDataController {
                 }
                 break
             case .failure(let error):
+                if error.errorCode == -1003 {
+                    completionHandler(nil, error)
+                    break
+                }
                 print(error.localizedDescription)
                 completionHandler(nil, error)
                 break
