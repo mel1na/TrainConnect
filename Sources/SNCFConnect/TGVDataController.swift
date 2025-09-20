@@ -23,6 +23,17 @@ extension DateFormatter {
     }()
 }
 
+extension MoyaError {
+    var isMoyaHostnameNotFound: Bool {
+        if case let .underlying(afError, _) = self,
+           let afError = afError as? AFError,
+           case let .sessionTaskFailed(urlError) = afError {
+            return (urlError as NSError).code == NSURLErrorCannotFindHost
+        }
+        return false
+    }
+}
+
 public class TGVDataController: NSObject, TrainDataController {
     public static let shared = TGVDataController()
     
@@ -75,18 +86,7 @@ public class TGVDataController: NSObject, TrainDataController {
                 }
                 break
             case .failure(let error):
-                let isHostnameNotFound = {
-                    if case let .underlying(afError, _) = error,
-                       let afError = afError as? AFError,
-                       case let .sessionTaskFailed(urlError) = afError,
-                       (urlError as NSError).code == NSURLErrorCannotFindHost {
-                        return true
-                    }
-                    return false
-                }()
-
-                
-                if isHostnameNotFound {
+                if error.isMoyaHostnameNotFound {
                     completionHandler(nil, error)
                     break
                 }
@@ -148,6 +148,10 @@ public class TGVDataController: NSObject, TrainDataController {
                 }
                 break
             case .failure(let error):
+                if error.isMoyaHostnameNotFound {
+                    completionHandler(nil, error)
+                    break
+                }
                 print(error.localizedDescription)
                 completionHandler(nil, error)
                 break
@@ -184,6 +188,10 @@ public class TGVDataController: NSObject, TrainDataController {
                 }
                 break
             case .failure(let error):
+                if error.isMoyaHostnameNotFound {
+                    completionHandler(nil, error)
+                    break
+                }
                 print(error.localizedDescription)
                 completionHandler(nil, error)
                 break
