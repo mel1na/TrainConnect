@@ -43,17 +43,23 @@ public class RJDataController: NSObject, TrainDataController {
     }
     private func loadCombined(demoMode: Bool, completionHandler: @escaping (CombinedResponse?, Error?) -> ()){
         let provider = getProvider(demoMode: demoMode)
+        provider.session.session.configuration.timeoutIntervalForRequest = 2
+        provider.session.session.configuration.timeoutIntervalForResource = 2
         provider.request(.combined) { result in
             switch result {
             case .success(let response):
                 do {
                     let response = try response.filterSuccessfulStatusCodes()
                     let decoder = JSONDecoder()
-                    print(DateFormatter.rjFormatter.string(from: .init()))
+                    //decodes latestStatus.dateTime
                     decoder.dateDecodingStrategy = .formatted(DateFormatter.rjFormatter)
                     let trip = try decoder.decode(CombinedResponse.self, from: response.data)
                     completionHandler(trip, nil)
                 } catch DecodingError.dataCorrupted(let context) {
+                    if response.response?.allHeaderFields["Content-Type"] as! String != "application/octet-stream" {
+                        completionHandler(nil, TrainConnectionError.notConnected)
+                        break
+                    }
                     print(context)
                 } catch DecodingError.keyNotFound(let key, let context) {
                     print("Key '\(key)' not found:", context.debugDescription)
@@ -73,6 +79,14 @@ public class RJDataController: NSObject, TrainDataController {
                 print(error.localizedDescription)
                 completionHandler(nil, error)
                 break
+            }
+        }
+    }
+    
+    public func loadTrainStatus(demoMode: Bool, completionHandler: @escaping (TrainStatus?, Error?) -> ()) {
+        self.loadCombined(demoMode: demoMode) { combined, error in
+            if let combined = combined {
+                completionHandler(Status(latitude: combined.latestStatus.gpsPosition.latitude, longitude: combined.latestStatus.gpsPosition.longitude, speed: combined.latestStatus.speed), nil)
             }
         }
     }

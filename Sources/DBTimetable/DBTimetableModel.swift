@@ -28,7 +28,7 @@ public struct TimetableSection: Hashable {
 }
 
 public struct TimetableTrip: Decodable, Hashable {
-    public var id = UUID()
+    public let id = UUID()
     public let when: Date?
     public let plannedWhen: Date?
     public let delay: Int?
