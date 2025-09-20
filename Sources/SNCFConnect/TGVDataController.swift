@@ -74,7 +74,7 @@ public class TGVDataController: NSObject, TrainDataController {
                 }
                 break
             case .failure(let error):
-                if error.errorCode == -1003 {
+                if ((error.asAFError?.underlyingError?.asAFError?.isSessionTaskError) != nil) {
                     completionHandler(nil, error)
                     break
                 }
