@@ -51,12 +51,12 @@ public class RJDataController: NSObject, TrainDataController {
                 do {
                     let response = try response.filterSuccessfulStatusCodes()
                     let decoder = JSONDecoder()
-                    //print(DateFormatter.rjFormatter.string(from: .init()))
-                    //decoder.dateDecodingStrategy = .formatted(DateFormatter.rjFormatter)
+                    print(DateFormatter.rjFormatter.string(from: .init())) //decodes latestStatus.dateTime
+                    decoder.dateDecodingStrategy = .formatted(DateFormatter.rjFormatter)
                     let trip = try decoder.decode(CombinedResponse.self, from: response.data)
                     completionHandler(trip, nil)
                 } catch DecodingError.dataCorrupted(let context) {
-                    if response.response?.allHeaderFields["Content-Type"] as! String == "text/html;charset=UTF-8" {
+                    if response.response?.allHeaderFields["Content-Type"] as! String != "application/octet-stream" {
                         completionHandler(nil, TrainConnectionError.notConnected)
                         break
                     }
