@@ -8,6 +8,7 @@
 import Foundation
 import Combine
 import Moya
+import Alamofire
 import TrainConnect
 
 extension DateFormatter {
@@ -74,7 +75,18 @@ public class TGVDataController: NSObject, TrainDataController {
                 }
                 break
             case .failure(let error):
-                if ((error.asAFError?.isSessionTaskError) != nil) {
+                let isHostnameNotFound = {
+                    if case let .underlying(afError, _) = error,
+                       let afError = afError as? AFError,
+                       case let .sessionTaskFailed(urlError) = afError,
+                       (urlError as NSError).code == NSURLErrorCannotFindHost {
+                        return true
+                    }
+                    return false
+                }()
+
+                
+                if isHostnameNotFound {
                     completionHandler(nil, error)
                     break
                 }
