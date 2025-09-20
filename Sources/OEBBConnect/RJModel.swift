@@ -17,7 +17,7 @@ import SwiftUI
 
 // MARK: CombinedResponse
 
-public var currentTrainDate: Date = Date() //TODO: replace this with a ride start date if possible?
+public var currentTrainDate: Date?
 
 public struct CombinedResponse: Codable, TrainTrip {
     public var finalStopInfo: TrainFinalStopInfo? {
@@ -61,6 +61,25 @@ public struct CombinedResponse: Codable, TrainTrip {
         self.startStation = try container.decode(String.self, forKey: .startStation)
         self.destination = try container.decode(JourneyStationName.self, forKey: .destination)
         self.nextStationProgress = try container.decode(Int.self, forKey: .nextStationProgress)
+        
+        // check currentdate. if hh:ss of the first stop is higher than hh:ss of the current day (for example, the stop is on the next day at 00:01), assume it happened on the next day (12h diff?)
+        
+        // test cases:
+        // hh:ss of first stop higher than current date (15:00 & 01:00) (next day)
+        // hh:ss of first stop lower than current date (15:00 & 16:00) (normal)
+        
+        if currentTrainDate == nil {
+            let formatter = DateFormatter()
+            formatter.dateFormat = "HH:mm"
+            
+            let firstStopDate = stations[0].departure.scheduled ?? "00:00"
+            
+            let parsed: Date = formatter.date(from: firstStopDate)!
+            currentTrainDate = parsed
+            /*if target <= from {
+                target = calendar.date(byAdding: .day, value: 1, to: target)!
+            }*/
+        }
             
         if let nextIndex = stations.firstIndex(where: { $0.evaNr == nextStation.evaNr }) {
             for i in 0..<stations.count {
@@ -87,7 +106,7 @@ public struct JourneyStop: Codable, TrainStop {
 
     public var scheduledArrival: Date? {
         if (self.arrival.scheduled != nil) {
-            return nextOccurrence(of: self.arrival.scheduled!, from: currentTrainDate)
+            return nextOccurrence(of: self.arrival.scheduled!, from: currentTrainDate!)
         } else {
             return nil
         }
@@ -96,7 +115,7 @@ public struct JourneyStop: Codable, TrainStop {
     
     public var actualArrival: Date? {
         if (self.arrival.forecast != nil) {
-            return nextOccurrence(of: self.arrival.forecast!, from: currentTrainDate)
+            return nextOccurrence(of: self.arrival.forecast!, from: currentTrainDate!)
         } else {
             return nil
         }
@@ -105,7 +124,7 @@ public struct JourneyStop: Codable, TrainStop {
     
     public var scheduledDeparture: Date? {
         if (self.departure.scheduled != nil) {
-            return nextOccurrence(of: self.departure.scheduled!, from: currentTrainDate)
+            return nextOccurrence(of: self.departure.scheduled!, from: currentTrainDate!)
         } else {
             return nil
         }
@@ -114,7 +133,7 @@ public struct JourneyStop: Codable, TrainStop {
     
     public var actualDeparture: Date? {
         if (self.departure.forecast != nil) {
-            return nextOccurrence(of: self.departure.forecast!, from: currentTrainDate)
+            return nextOccurrence(of: self.departure.forecast!, from: currentTrainDate!)
         } else {
             return nil
         }
@@ -325,18 +344,6 @@ struct OEBBTrainType: TrainType {
     
 }
 
-func getDate(timeString: String) -> Date? {
-    let formatter = DateFormatter()
-    formatter.dateFormat = "yyyy-MM-dd'T'HH:mm:ssZZZZZ"
-    formatter.calendar = Calendar(identifier: .iso8601)
-    formatter.locale = Locale(identifier: "en_US_POSIX")
-    if let date = formatter.date(from: timeString) {
-        return date
-    } else {
-        return nil
-    }
-}
-
 func nextOccurrence(of timeString: String, from: Date) -> Date? {
     let formatter = DateFormatter()
     formatter.dateFormat = "HH:mm"
@@ -353,6 +360,5 @@ func nextOccurrence(of timeString: String, from: Date) -> Date? {
     /*if target <= from {
         target = calendar.date(byAdding: .day, value: 1, to: target)!
     }*/
-    //TODO: Fix edge case - over-night rides (23:59 to 00:00 will break the logic, since currentTrainDate is the CURRENT date, not the one when the ride started.)
     return target
 }
