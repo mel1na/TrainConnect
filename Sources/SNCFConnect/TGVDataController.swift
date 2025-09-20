@@ -65,7 +65,6 @@ public class TGVDataController: NSObject, TrainDataController {
                 do {
                     let response = try response.filterSuccessfulStatusCodes()
                     let decoder = JSONDecoder()
-                    print(DateFormatter.tgvFormatter.string(from: .init()))
                     decoder.dateDecodingStrategy = .formatted(DateFormatter.tgvFormatter)
                     let trip = try decoder.decode(DetailsResponse.self, from: response.data)
                     completionHandler(trip, nil)
