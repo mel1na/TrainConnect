@@ -357,8 +357,8 @@ func nextOccurrence(of timeString: String, from: Date) -> Date? {
     
     var target = calendar.date(bySettingHour: hour, minute: minute, second: 0, of: from)!
     
-    /*if target <= from {
+    if target <= from {
         target = calendar.date(byAdding: .day, value: 1, to: target)!
-    }*/
+    }
     return target
 }
