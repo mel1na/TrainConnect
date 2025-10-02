@@ -9,7 +9,7 @@ import Foundation
 import SwiftUI
 
 public struct TimetableSection: Hashable {
-    public let id = UUID()
+    public var id = UUID()
     public let productName: String
     public let departures: [TimetableTrip]
     
