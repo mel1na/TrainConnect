@@ -36,9 +36,6 @@ public protocol TrainStop {
     var scheduledDeparture: Date? { get }
     var actualDeparture: Date? { get }
     
-    var departureDelay: String { get }
-    var arrivalDelay: String { get }
-    
     var trainTrack: TrainTrack? { get }
     
     var hasPassed: Bool { get }

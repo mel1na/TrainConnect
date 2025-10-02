@@ -8,6 +8,7 @@
 import Foundation
 import Combine
 import Moya
+import Alamofire
 import TrainConnect
 
 extension DateFormatter {
@@ -20,6 +21,17 @@ extension DateFormatter {
         formatter.locale = Locale(identifier: "en_US_POSIX")
         return formatter
     }()
+}
+
+extension MoyaError {
+    var isMoyaHostnameNotFound: Bool {
+        if case let .underlying(afError, _) = self,
+           let afError = afError as? AFError,
+           case let .sessionTaskFailed(urlError) = afError {
+            return (urlError as NSError).code == NSURLErrorCannotFindHost
+        }
+        return false
+    }
 }
 
 public class TGVDataController: NSObject, TrainDataController {
@@ -45,13 +57,14 @@ public class TGVDataController: NSObject, TrainDataController {
     private func loadDetails(demoMode: Bool, completionHandler: @escaping (DetailsResponse?, Error?) -> ()){
         
         let provider = getProvider(demoMode: demoMode)
+        provider.session.session.configuration.timeoutIntervalForRequest = 2
+        provider.session.session.configuration.timeoutIntervalForResource = 2
         provider.request(.details) { result in
             switch result {
             case .success(let response):
                 do {
                     let response = try response.filterSuccessfulStatusCodes()
                     let decoder = JSONDecoder()
-                    print(DateFormatter.tgvFormatter.string(from: .init()))
                     decoder.dateDecodingStrategy = .formatted(DateFormatter.tgvFormatter)
                     let trip = try decoder.decode(DetailsResponse.self, from: response.data)
                     completionHandler(trip, nil)
@@ -72,6 +85,10 @@ public class TGVDataController: NSObject, TrainDataController {
                 }
                 break
             case .failure(let error):
+                if error.isMoyaHostnameNotFound {
+                    completionHandler(nil, error)
+                    break
+                }
                 print(error.localizedDescription)
                 completionHandler(nil, error)
                 break
@@ -103,6 +120,8 @@ public class TGVDataController: NSObject, TrainDataController {
     
     private func loadGPS(demoMode: Bool = false, completionHandler: @escaping (GPSResponse?, Error?) -> ()) {
         let provider = getProvider(demoMode: demoMode)
+        provider.session.session.configuration.timeoutIntervalForRequest = 2
+        provider.session.session.configuration.timeoutIntervalForResource = 2
         provider.request(.gps) { result in
             switch result {
             case .success(let response):
@@ -128,6 +147,10 @@ public class TGVDataController: NSObject, TrainDataController {
                 }
                 break
             case .failure(let error):
+                if error.isMoyaHostnameNotFound {
+                    completionHandler(nil, error)
+                    break
+                }
                 print(error.localizedDescription)
                 completionHandler(nil, error)
                 break
@@ -137,6 +160,8 @@ public class TGVDataController: NSObject, TrainDataController {
     
     private func loadStatistics(demoMode: Bool = false, completionHandler: @escaping (StatisticsResponse?, Error?) -> ()) {
         let provider = getProvider(demoMode: demoMode)
+        provider.session.session.configuration.timeoutIntervalForRequest = 2
+        provider.session.session.configuration.timeoutIntervalForResource = 2
         provider.request(.statistics) { result in
             switch result {
             case .success(let response):
@@ -162,6 +187,10 @@ public class TGVDataController: NSObject, TrainDataController {
                 }
                 break
             case .failure(let error):
+                if error.isMoyaHostnameNotFound {
+                    completionHandler(nil, error)
+                    break
+                }
                 print(error.localizedDescription)
                 completionHandler(nil, error)
                 break

@@ -1,0 +1,921 @@
+// Source: https://railnetregio.oebb.at/api/v1/admin/trains/4
+{
+    "id":4,
+    "translatable":{
+        "de":{
+            "name":"Talent1 4-teilig"
+        },
+        "en":{
+            "name":"Talent1 4-teilig"
+        }
+    },
+    "train_head_image":"\/assets\/uploads\/services\/CJ_Talent_01-01@2x.png",
+    "highlight_color":"#ff0000",
+    "created_at":"2025-05-13 14:52:58",
+    "updated_at":"2025-05-14 11:46:37",
+    "train_tail_image":"\/assets\/uploads\/services\/CJ_Talent_01-02@2x.png",
+    "show_carriage_summary":true,
+    "show_next_carriage_card":false,
+    "carriages":[
+        {
+            "id":48,
+            "train_id":"4",
+            "order":"0",
+            "translatable":{
+                "de":{
+                    "label":"Wagen A",
+                    "number":""
+                },
+                "en":{
+                    "label":"Wagon A",
+                    "number":""
+                }
+            },
+            "windows":false,
+            "created_at":"2025-05-14 11:46:37",
+            "updated_at":"2025-05-14 11:46:37",
+            "door_config":[
+                
+            ],
+            "width":"350",
+            "layout_config":{
+                "label":{
+                    "position":217
+                },
+                "number":{
+                    "position":0
+                }
+            },
+            "number_of_windows":"12",
+            "carriage_services":[
+                {
+                    "id":12,
+                    "image":"\/assets\/uploads\/zugleisten\/talent1\/Triebwagen_talent1_v1.jpg",
+                    "highlight_color":null,
+                    "icon":null,
+                    "translatable":{
+                        "de":{
+                            "name":"Triebwagen Talent1",
+                            "type_1":"text",
+                            "type_2":"text",
+                            "weight_1":"normal",
+                            "size_1":"large",
+                            "link_type_1":null,
+                            "body_1":"Talent 1",
+                            "label_1":"TRIEBWAGEN",
+                            "weight_2":"normal",
+                            "size_2":"large",
+                            "link_type_2":null,
+                            "body_2":"1.958",
+                            "label_2":"LEISTUNG IN PS",
+                            "background_image_alt":"Talent Triebwagen an einem Bahnhof"
+                        },
+                        "en":{
+                            "name":"Triebwagen Talent1",
+                            "type_1":"text",
+                            "weight_1":"normal",
+                            "size_1":"large",
+                            "link_type_1":null,
+                            "body_1":"Talent 1",
+                            "label_1":"Driving car",
+                            "type_2":"text",
+                            "weight_2":"normal",
+                            "size_2":"large",
+                            "link_type_2":null,
+                            "body_2":"1.958",
+                            "label_2":"Power in KW",
+                            "background_image_alt":"Talent railcar at a station"
+                        }
+                    },
+                    "created_at":"2025-05-13 13:01:29",
+                    "updated_at":"2025-06-26 20:29:57",
+                    "show_icon_on_image":true,
+                    "order":"0",
+                    "show_on_train":false,
+                    "show_on_train_config":{
+                        "position":0
+                    },
+                    "pivot":{
+                        "train_carriage_id":"48",
+                        "train_carriage_service_id":"12",
+                        "order":"0",
+                        "show_on_train":"0",
+                        "show_on_train_config":"{\"position\":0}",
+                        "created_at":"2025-05-14 11:46:37",
+                        "updated_at":"2025-05-14 11:46:37"
+                    }
+                },
+                {
+                    "id":13,
+                    "image":"\/assets\/uploads\/zugleisten\/talent1\/speed_talent1.jpg",
+                    "highlight_color":null,
+                    "icon":null,
+                    "translatable":{
+                        "de":{
+                            "name":"Speed Talent1",
+                            "type_1":"text",
+                            "type_2":"text",
+                            "weight_1":"normal",
+                            "size_1":"large",
+                            "link_type_1":null,
+                            "body_1":"140 km\/h",
+                            "label_1":"TOP SPEED",
+                            "weight_2":"normal",
+                            "size_2":"large",
+                            "link_type_2":null,
+                            "body_2":"151",
+                            "label_2":"SITZPL\u00c4TZE",
+                            "background_image_alt":"Talent Triebwagen von der Seite"
+                        },
+                        "en":{
+                            "name":"Speed Talent1",
+                            "type_1":"text",
+                            "type_2":"text",
+                            "weight_1":"normal",
+                            "size_1":"large",
+                            "link_type_1":null,
+                            "body_1":"140 km\/h",
+                            "label_1":"TOP SPEED",
+                            "weight_2":"normal",
+                            "size_2":"large",
+                            "link_type_2":null,
+                            "body_2":"151",
+                            "label_2":"Seats",
+                            "background_image_alt":"Talent railcar shown from the side"
+                        }
+                    },
+                    "created_at":"2025-05-13 13:03:36",
+                    "updated_at":"2025-06-26 20:30:32",
+                    "show_icon_on_image":true,
+                    "order":"1",
+                    "show_on_train":false,
+                    "show_on_train_config":{
+                        "position":0
+                    },
+                    "pivot":{
+                        "train_carriage_id":"48",
+                        "train_carriage_service_id":"13",
+                        "order":"1",
+                        "show_on_train":"0",
+                        "show_on_train_config":"{\"position\":0}",
+                        "created_at":"2025-05-14 11:46:37",
+                        "updated_at":"2025-05-14 11:46:37"
+                    }
+                },
+                {
+                    "id":14,
+                    "image":"\/assets\/uploads\/zugleisten\/talent1\/barrierefreies WC_talent1.jpg",
+                    "highlight_color":null,
+                    "icon":"\/assets\/uploads\/icons\/Neu 2024\/Rollstuhl_H40px_7D7D7D.svg",
+                    "translatable":{
+                        "de":{
+                            "name":"Barrierefreies WC Talent1",
+                            "type_1":"text",
+                            "type_2":"icon",
+                            "weight_1":"normal",
+                            "size_1":"small",
+                            "link_type_1":null,
+                            "body_1":"Barrierefreies WC",
+                            "label_1":"AUSSTATTUNG",
+                            "background_image_alt":"Universal WC und Blick in den Zug",
+                            "icon_alt":"Rollstuhl Icon "
+                        },
+                        "en":{
+                            "name":"Barrierefreies WC Talent1",
+                            "type_1":"text",
+                            "type_2":"icon",
+                            "weight_1":"normal",
+                            "size_1":"small",
+                            "link_type_1":null,
+                            "body_1":"Barrier-free WC",
+                            "label_1":"Equipment",
+                            "background_image_alt":"Universal WC and view into the train",
+                            "icon_alt":"Wheelchair icon"
+                        }
+                    },
+                    "created_at":"2025-05-13 13:05:03",
+                    "updated_at":"2025-06-26 20:31:20",
+                    "show_icon_on_image":false,
+                    "order":"2",
+                    "show_on_train":true,
+                    "show_on_train_config":{
+                        "position":217
+                    },
+                    "pivot":{
+                        "train_carriage_id":"48",
+                        "train_carriage_service_id":"14",
+                        "order":"2",
+                        "show_on_train":"1",
+                        "show_on_train_config":"{\"position\":217}",
+                        "created_at":"2025-05-14 11:46:37",
+                        "updated_at":"2025-05-14 11:46:37"
+                    }
+                },
+                {
+                    "id":5,
+                    "image":"\/assets\/uploads\/zugleisten\/desiroMl\/Mehrzweckbereich.jpg",
+                    "highlight_color":null,
+                    "icon":"\/assets\/uploads\/icons\/Neu 2024\/Fahrrad_H40px_7D7D7D.svg",
+                    "translatable":{
+                        "de":{
+                            "name":"Mehrzweckbereich",
+                            "type_1":"text",
+                            "type_2":"icon",
+                            "weight_1":"normal",
+                            "size_1":"small",
+                            "link_type_1":null,
+                            "body_1":"Mehrzweckbereich",
+                            "label_1":"Ausstattung",
+                            "background_image_alt":"Rennrad steht im Mehrzweckbereich",
+                            "icon_alt":"Fahrrad Icon"
+                        },
+                        "en":{
+                            "name":"Mehrzweckbereich",
+                            "type_1":"text",
+                            "type_2":"icon",
+                            "weight_1":"normal",
+                            "size_1":"small",
+                            "link_type_1":null,
+                            "body_1":"multipurpose area",
+                            "label_1":"Equipment",
+                            "background_image_alt":"Racing bike in the multi-purpose area",
+                            "icon_alt":"Bicycle icon"
+                        }
+                    },
+                    "created_at":"2025-05-13 11:30:56",
+                    "updated_at":"2025-06-26 20:24:20",
+                    "show_icon_on_image":false,
+                    "order":"3",
+                    "show_on_train":true,
+                    "show_on_train_config":{
+                        "position":299
+                    },
+                    "pivot":{
+                        "train_carriage_id":"48",
+                        "train_carriage_service_id":"5",
+                        "order":"3",
+                        "show_on_train":"1",
+                        "show_on_train_config":"{\"position\":299}",
+                        "created_at":"2025-05-14 11:46:37",
+                        "updated_at":"2025-05-14 11:46:37"
+                    }
+                },
+                {
+                    "id":15,
+                    "image":"\/assets\/uploads\/zugleisten\/talent1\/FIS-Monitor_talent1.jpg",
+                    "highlight_color":null,
+                    "icon":null,
+                    "translatable":{
+                        "de":{
+                            "name":"FIS Talent1",
+                            "type_1":"text",
+                            "weight_1":"normal",
+                            "size_1":"small",
+                            "link_type_1":null,
+                            "body_1":"Die n\u00e4chsten Halte auf einen Blick",
+                            "label_1":"INFORMATION IM ZUG",
+                            "background_image_alt":"Monitor mit Fahrgastinformationen "
+                        },
+                        "en":{
+                            "name":"FIS Talent1",
+                            "type_1":"text",
+                            "weight_1":"normal",
+                            "size_1":"small",
+                            "link_type_1":null,
+                            "body_1":"The next stops at a glance",
+                            "label_1":"information on the train",
+                            "background_image_alt":"Monitor with passenger information"
+                        }
+                    },
+                    "created_at":"2025-05-13 13:35:14",
+                    "updated_at":"2025-06-26 20:31:53",
+                    "show_icon_on_image":true,
+                    "order":"4",
+                    "show_on_train":false,
+                    "show_on_train_config":{
+                        "position":0
+                    },
+                    "pivot":{
+                        "train_carriage_id":"48",
+                        "train_carriage_service_id":"15",
+                        "order":"4",
+                        "show_on_train":"0",
+                        "show_on_train_config":"{\"position\":0}",
+                        "created_at":"2025-05-14 11:46:37",
+                        "updated_at":"2025-05-14 11:46:37"
+                    }
+                },
+                {
+                    "id":16,
+                    "image":"\/assets\/uploads\/zugleisten\/talent1\/barrierefreier Zustieg_talent1.jpg",
+                    "highlight_color":null,
+                    "icon":"\/assets\/uploads\/icons\/Neu 2024\/Kinderwagen_H40px_7D7D7D.svg",
+                    "translatable":{
+                        "de":{
+                            "name":"Einstieg Talent1",
+                            "type_1":"text",
+                            "type_2":"icon",
+                            "weight_1":"normal",
+                            "size_1":"small",
+                            "link_type_1":null,
+                            "body_1":"Barrierefreier Zustieg",
+                            "label_1":"EINSTIEG",
+                            "background_image_alt":"Personen steigen in Zug ein",
+                            "icon_alt":"Kinderwagen Icon"
+                        },
+                        "en":{
+                            "name":"Einstieg Talent1",
+                            "type_1":"text",
+                            "type_2":"icon",
+                            "weight_1":"normal",
+                            "size_1":"small",
+                            "link_type_1":null,
+                            "body_1":"Barrier-free access",
+                            "label_1":"Access",
+                            "background_image_alt":"People entering the train",
+                            "icon_alt":"Baby carriage icon"
+                        }
+                    },
+                    "created_at":"2025-05-13 13:50:07",
+                    "updated_at":"2025-06-27 07:33:57",
+                    "show_icon_on_image":false,
+                    "order":"5",
+                    "show_on_train":true,
+                    "show_on_train_config":{
+                        "position":250
+                    },
+                    "pivot":{
+                        "train_carriage_id":"48",
+                        "train_carriage_service_id":"16",
+                        "order":"5",
+                        "show_on_train":"1",
+                        "show_on_train_config":"{\"position\":250}",
+                        "created_at":"2025-05-14 11:46:37",
+                        "updated_at":"2025-05-14 11:46:37"
+                    }
+                },
+                {
+                    "id":6,
+                    "image":"\/assets\/uploads\/zugleisten\/desiroMl\/WLAN_eng.jpg",
+                    "highlight_color":null,
+                    "icon":null,
+                    "translatable":{
+                        "de":{
+                            "name":"WLAN",
+                            "type_1":"text",
+                            "weight_1":"normal",
+                            "size_1":"small",
+                            "link_type_1":null,
+                            "body_1":"Gratis WLAN",
+                            "label_1":"BESONDERHEITEN",
+                            "background_image_alt":"Wlan Symbol mit Schriftzug free wifi auf schwarzem Hintergrund"
+                        },
+                        "en":{
+                            "name":"WLAN",
+                            "type_1":"text",
+                            "weight_1":"normal",
+                            "size_1":"small",
+                            "link_type_1":null,
+                            "body_1":"free WIFI",
+                            "label_1":"special features",
+                            "background_image_alt":"Wifi symbol with the words free wifi on a black background"
+                        }
+                    },
+                    "created_at":"2025-05-13 11:32:43",
+                    "updated_at":"2025-06-26 20:25:10",
+                    "show_icon_on_image":true,
+                    "order":"6",
+                    "show_on_train":false,
+                    "show_on_train_config":{
+                        "position":0
+                    },
+                    "pivot":{
+                        "train_carriage_id":"48",
+                        "train_carriage_service_id":"6",
+                        "order":"6",
+                        "show_on_train":"0",
+                        "show_on_train_config":"{\"position\":0}",
+                        "created_at":"2025-05-14 11:46:37",
+                        "updated_at":"2025-05-14 11:46:37"
+                    }
+                }
+            ]
+        },
+        {
+            "id":49,
+            "train_id":"4",
+            "order":"0",
+            "translatable":{
+                "de":{
+                    "label":"Wagen B",
+                    "number":""
+                },
+                "en":{
+                    "label":"Wagon B",
+                    "number":""
+                }
+            },
+            "windows":false,
+            "created_at":"2025-05-14 11:46:37",
+            "updated_at":"2025-05-14 11:46:37",
+            "door_config":[
+                
+            ],
+            "width":"250",
+            "layout_config":{
+                "label":{
+                    "position":39
+                },
+                "number":{
+                    "position":0
+                }
+            },
+            "number_of_windows":"12",
+            "carriage_services":[
+                {
+                    "id":15,
+                    "image":"\/assets\/uploads\/zugleisten\/talent1\/FIS-Monitor_talent1.jpg",
+                    "highlight_color":null,
+                    "icon":null,
+                    "translatable":{
+                        "de":{
+                            "name":"FIS Talent1",
+                            "type_1":"text",
+                            "weight_1":"normal",
+                            "size_1":"small",
+                            "link_type_1":null,
+                            "body_1":"Die n\u00e4chsten Halte auf einen Blick",
+                            "label_1":"INFORMATION IM ZUG",
+                            "background_image_alt":"Monitor mit Fahrgastinformationen "
+                        },
+                        "en":{
+                            "name":"FIS Talent1",
+                            "type_1":"text",
+                            "weight_1":"normal",
+                            "size_1":"small",
+                            "link_type_1":null,
+                            "body_1":"The next stops at a glance",
+                            "label_1":"information on the train",
+                            "background_image_alt":"Monitor with passenger information"
+                        }
+                    },
+                    "created_at":"2025-05-13 13:35:14",
+                    "updated_at":"2025-06-26 20:31:53",
+                    "show_icon_on_image":true,
+                    "order":"0",
+                    "show_on_train":false,
+                    "show_on_train_config":{
+                        "position":0
+                    },
+                    "pivot":{
+                        "train_carriage_id":"49",
+                        "train_carriage_service_id":"15",
+                        "order":"0",
+                        "show_on_train":"0",
+                        "show_on_train_config":"{\"position\":0}",
+                        "created_at":"2025-05-14 11:46:38",
+                        "updated_at":"2025-05-14 11:46:38"
+                    }
+                },
+                {
+                    "id":16,
+                    "image":"\/assets\/uploads\/zugleisten\/talent1\/barrierefreier Zustieg_talent1.jpg",
+                    "highlight_color":null,
+                    "icon":"\/assets\/uploads\/icons\/Neu 2024\/Kinderwagen_H40px_7D7D7D.svg",
+                    "translatable":{
+                        "de":{
+                            "name":"Einstieg Talent1",
+                            "type_1":"text",
+                            "type_2":"icon",
+                            "weight_1":"normal",
+                            "size_1":"small",
+                            "link_type_1":null,
+                            "body_1":"Barrierefreier Zustieg",
+                            "label_1":"EINSTIEG",
+                            "background_image_alt":"Personen steigen in Zug ein",
+                            "icon_alt":"Kinderwagen Icon"
+                        },
+                        "en":{
+                            "name":"Einstieg Talent1",
+                            "type_1":"text",
+                            "type_2":"icon",
+                            "weight_1":"normal",
+                            "size_1":"small",
+                            "link_type_1":null,
+                            "body_1":"Barrier-free access",
+                            "label_1":"Access",
+                            "background_image_alt":"People entering the train",
+                            "icon_alt":"Baby carriage icon"
+                        }
+                    },
+                    "created_at":"2025-05-13 13:50:07",
+                    "updated_at":"2025-06-27 07:33:57",
+                    "show_icon_on_image":false,
+                    "order":"1",
+                    "show_on_train":false,
+                    "show_on_train_config":{
+                        "position":250
+                    },
+                    "pivot":{
+                        "train_carriage_id":"49",
+                        "train_carriage_service_id":"16",
+                        "order":"1",
+                        "show_on_train":"0",
+                        "show_on_train_config":"{\"position\":250}",
+                        "created_at":"2025-05-14 11:46:38",
+                        "updated_at":"2025-05-14 11:46:38"
+                    }
+                },
+                {
+                    "id":6,
+                    "image":"\/assets\/uploads\/zugleisten\/desiroMl\/WLAN_eng.jpg",
+                    "highlight_color":null,
+                    "icon":null,
+                    "translatable":{
+                        "de":{
+                            "name":"WLAN",
+                            "type_1":"text",
+                            "weight_1":"normal",
+                            "size_1":"small",
+                            "link_type_1":null,
+                            "body_1":"Gratis WLAN",
+                            "label_1":"BESONDERHEITEN",
+                            "background_image_alt":"Wlan Symbol mit Schriftzug free wifi auf schwarzem Hintergrund"
+                        },
+                        "en":{
+                            "name":"WLAN",
+                            "type_1":"text",
+                            "weight_1":"normal",
+                            "size_1":"small",
+                            "link_type_1":null,
+                            "body_1":"free WIFI",
+                            "label_1":"special features",
+                            "background_image_alt":"Wifi symbol with the words free wifi on a black background"
+                        }
+                    },
+                    "created_at":"2025-05-13 11:32:43",
+                    "updated_at":"2025-06-26 20:25:10",
+                    "show_icon_on_image":true,
+                    "order":"2",
+                    "show_on_train":false,
+                    "show_on_train_config":{
+                        "position":0
+                    },
+                    "pivot":{
+                        "train_carriage_id":"49",
+                        "train_carriage_service_id":"6",
+                        "order":"2",
+                        "show_on_train":"0",
+                        "show_on_train_config":"{\"position\":0}",
+                        "created_at":"2025-05-14 11:46:38",
+                        "updated_at":"2025-05-14 11:46:38"
+                    }
+                }
+            ]
+        },
+        {
+            "id":50,
+            "train_id":"4",
+            "order":"0",
+            "translatable":{
+                "de":{
+                    "label":"Wagen C",
+                    "number":""
+                },
+                "en":{
+                    "label":"Wagon C",
+                    "number":""
+                }
+            },
+            "windows":false,
+            "created_at":"2025-05-14 11:46:38",
+            "updated_at":"2025-05-14 11:46:38",
+            "door_config":[
+                
+            ],
+            "width":"250",
+            "layout_config":{
+                "label":{
+                    "position":35
+                },
+                "number":{
+                    "position":0
+                }
+            },
+            "number_of_windows":"12",
+            "carriage_services":[
+                {
+                    "id":15,
+                    "image":"\/assets\/uploads\/zugleisten\/talent1\/FIS-Monitor_talent1.jpg",
+                    "highlight_color":null,
+                    "icon":null,
+                    "translatable":{
+                        "de":{
+                            "name":"FIS Talent1",
+                            "type_1":"text",
+                            "weight_1":"normal",
+                            "size_1":"small",
+                            "link_type_1":null,
+                            "body_1":"Die n\u00e4chsten Halte auf einen Blick",
+                            "label_1":"INFORMATION IM ZUG",
+                            "background_image_alt":"Monitor mit Fahrgastinformationen "
+                        },
+                        "en":{
+                            "name":"FIS Talent1",
+                            "type_1":"text",
+                            "weight_1":"normal",
+                            "size_1":"small",
+                            "link_type_1":null,
+                            "body_1":"The next stops at a glance",
+                            "label_1":"information on the train",
+                            "background_image_alt":"Monitor with passenger information"
+                        }
+                    },
+                    "created_at":"2025-05-13 13:35:14",
+                    "updated_at":"2025-06-26 20:31:53",
+                    "show_icon_on_image":true,
+                    "order":"0",
+                    "show_on_train":false,
+                    "show_on_train_config":{
+                        "position":0
+                    },
+                    "pivot":{
+                        "train_carriage_id":"50",
+                        "train_carriage_service_id":"15",
+                        "order":"0",
+                        "show_on_train":"0",
+                        "show_on_train_config":"{\"position\":0}",
+                        "created_at":"2025-05-14 11:46:38",
+                        "updated_at":"2025-05-14 11:46:38"
+                    }
+                },
+                {
+                    "id":16,
+                    "image":"\/assets\/uploads\/zugleisten\/talent1\/barrierefreier Zustieg_talent1.jpg",
+                    "highlight_color":null,
+                    "icon":"\/assets\/uploads\/icons\/Neu 2024\/Kinderwagen_H40px_7D7D7D.svg",
+                    "translatable":{
+                        "de":{
+                            "name":"Einstieg Talent1",
+                            "type_1":"text",
+                            "type_2":"icon",
+                            "weight_1":"normal",
+                            "size_1":"small",
+                            "link_type_1":null,
+                            "body_1":"Barrierefreier Zustieg",
+                            "label_1":"EINSTIEG",
+                            "background_image_alt":"Personen steigen in Zug ein",
+                            "icon_alt":"Kinderwagen Icon"
+                        },
+                        "en":{
+                            "name":"Einstieg Talent1",
+                            "type_1":"text",
+                            "type_2":"icon",
+                            "weight_1":"normal",
+                            "size_1":"small",
+                            "link_type_1":null,
+                            "body_1":"Barrier-free access",
+                            "label_1":"Access",
+                            "background_image_alt":"People entering the train",
+                            "icon_alt":"Baby carriage icon"
+                        }
+                    },
+                    "created_at":"2025-05-13 13:50:07",
+                    "updated_at":"2025-06-27 07:33:57",
+                    "show_icon_on_image":false,
+                    "order":"1",
+                    "show_on_train":false,
+                    "show_on_train_config":{
+                        "position":250
+                    },
+                    "pivot":{
+                        "train_carriage_id":"50",
+                        "train_carriage_service_id":"16",
+                        "order":"1",
+                        "show_on_train":"0",
+                        "show_on_train_config":"{\"position\":250}",
+                        "created_at":"2025-05-14 11:46:38",
+                        "updated_at":"2025-05-14 11:46:38"
+                    }
+                },
+                {
+                    "id":6,
+                    "image":"\/assets\/uploads\/zugleisten\/desiroMl\/WLAN_eng.jpg",
+                    "highlight_color":null,
+                    "icon":null,
+                    "translatable":{
+                        "de":{
+                            "name":"WLAN",
+                            "type_1":"text",
+                            "weight_1":"normal",
+                            "size_1":"small",
+                            "link_type_1":null,
+                            "body_1":"Gratis WLAN",
+                            "label_1":"BESONDERHEITEN",
+                            "background_image_alt":"Wlan Symbol mit Schriftzug free wifi auf schwarzem Hintergrund"
+                        },
+                        "en":{
+                            "name":"WLAN",
+                            "type_1":"text",
+                            "weight_1":"normal",
+                            "size_1":"small",
+                            "link_type_1":null,
+                            "body_1":"free WIFI",
+                            "label_1":"special features",
+                            "background_image_alt":"Wifi symbol with the words free wifi on a black background"
+                        }
+                    },
+                    "created_at":"2025-05-13 11:32:43",
+                    "updated_at":"2025-06-26 20:25:10",
+                    "show_icon_on_image":true,
+                    "order":"2",
+                    "show_on_train":false,
+                    "show_on_train_config":{
+                        "position":0
+                    },
+                    "pivot":{
+                        "train_carriage_id":"50",
+                        "train_carriage_service_id":"6",
+                        "order":"2",
+                        "show_on_train":"0",
+                        "show_on_train_config":"{\"position\":0}",
+                        "created_at":"2025-05-14 11:46:38",
+                        "updated_at":"2025-05-14 11:46:38"
+                    }
+                }
+            ]
+        },
+        {
+            "id":51,
+            "train_id":"4",
+            "order":"0",
+            "translatable":{
+                "de":{
+                    "label":"Wagen D",
+                    "number":""
+                },
+                "en":{
+                    "label":"Wagon D",
+                    "number":""
+                }
+            },
+            "windows":false,
+            "created_at":"2025-05-14 11:46:38",
+            "updated_at":"2025-05-14 11:46:38",
+            "door_config":[
+                
+            ],
+            "width":"300",
+            "layout_config":{
+                "label":{
+                    "position":31
+                },
+                "number":{
+                    "position":0
+                }
+            },
+            "number_of_windows":"12",
+            "carriage_services":[
+                {
+                    "id":15,
+                    "image":"\/assets\/uploads\/zugleisten\/talent1\/FIS-Monitor_talent1.jpg",
+                    "highlight_color":null,
+                    "icon":null,
+                    "translatable":{
+                        "de":{
+                            "name":"FIS Talent1",
+                            "type_1":"text",
+                            "weight_1":"normal",
+                            "size_1":"small",
+                            "link_type_1":null,
+                            "body_1":"Die n\u00e4chsten Halte auf einen Blick",
+                            "label_1":"INFORMATION IM ZUG",
+                            "background_image_alt":"Monitor mit Fahrgastinformationen "
+                        },
+                        "en":{
+                            "name":"FIS Talent1",
+                            "type_1":"text",
+                            "weight_1":"normal",
+                            "size_1":"small",
+                            "link_type_1":null,
+                            "body_1":"The next stops at a glance",
+                            "label_1":"information on the train",
+                            "background_image_alt":"Monitor with passenger information"
+                        }
+                    },
+                    "created_at":"2025-05-13 13:35:14",
+                    "updated_at":"2025-06-26 20:31:53",
+                    "show_icon_on_image":true,
+                    "order":"0",
+                    "show_on_train":false,
+                    "show_on_train_config":{
+                        "position":0
+                    },
+                    "pivot":{
+                        "train_carriage_id":"51",
+                        "train_carriage_service_id":"15",
+                        "order":"0",
+                        "show_on_train":"0",
+                        "show_on_train_config":"{\"position\":0}",
+                        "created_at":"2025-05-14 11:46:38",
+                        "updated_at":"2025-05-14 11:46:38"
+                    }
+                },
+                {
+                    "id":16,
+                    "image":"\/assets\/uploads\/zugleisten\/talent1\/barrierefreier Zustieg_talent1.jpg",
+                    "highlight_color":null,
+                    "icon":"\/assets\/uploads\/icons\/Neu 2024\/Kinderwagen_H40px_7D7D7D.svg",
+                    "translatable":{
+                        "de":{
+                            "name":"Einstieg Talent1",
+                            "type_1":"text",
+                            "type_2":"icon",
+                            "weight_1":"normal",
+                            "size_1":"small",
+                            "link_type_1":null,
+                            "body_1":"Barrierefreier Zustieg",
+                            "label_1":"EINSTIEG",
+                            "background_image_alt":"Personen steigen in Zug ein",
+                            "icon_alt":"Kinderwagen Icon"
+                        },
+                        "en":{
+                            "name":"Einstieg Talent1",
+                            "type_1":"text",
+                            "type_2":"icon",
+                            "weight_1":"normal",
+                            "size_1":"small",
+                            "link_type_1":null,
+                            "body_1":"Barrier-free access",
+                            "label_1":"Access",
+                            "background_image_alt":"People entering the train",
+                            "icon_alt":"Baby carriage icon"
+                        }
+                    },
+                    "created_at":"2025-05-13 13:50:07",
+                    "updated_at":"2025-06-27 07:33:57",
+                    "show_icon_on_image":false,
+                    "order":"1",
+                    "show_on_train":true,
+                    "show_on_train_config":{
+                        "position":32
+                    },
+                    "pivot":{
+                        "train_carriage_id":"51",
+                        "train_carriage_service_id":"16",
+                        "order":"1",
+                        "show_on_train":"1",
+                        "show_on_train_config":"{\"position\":32}",
+                        "created_at":"2025-05-14 11:46:38",
+                        "updated_at":"2025-05-14 11:46:38"
+                    }
+                },
+                {
+                    "id":6,
+                    "image":"\/assets\/uploads\/zugleisten\/desiroMl\/WLAN_eng.jpg",
+                    "highlight_color":null,
+                    "icon":null,
+                    "translatable":{
+                        "de":{
+                            "name":"WLAN",
+                            "type_1":"text",
+                            "weight_1":"normal",
+                            "size_1":"small",
+                            "link_type_1":null,
+                            "body_1":"Gratis WLAN",
+                            "label_1":"BESONDERHEITEN",
+                            "background_image_alt":"Wlan Symbol mit Schriftzug free wifi auf schwarzem Hintergrund"
+                        },
+                        "en":{
+                            "name":"WLAN",
+                            "type_1":"text",
+                            "weight_1":"normal",
+                            "size_1":"small",
+                            "link_type_1":null,
+                            "body_1":"free WIFI",
+                            "label_1":"special features",
+                            "background_image_alt":"Wifi symbol with the words free wifi on a black background"
+                        }
+                    },
+                    "created_at":"2025-05-13 11:32:43",
+                    "updated_at":"2025-06-26 20:25:10",
+                    "show_icon_on_image":true,
+                    "order":"2",
+                    "show_on_train":false,
+                    "show_on_train_config":{
+                        "position":0
+                    },
+                    "pivot":{
+                        "train_carriage_id":"51",
+                        "train_carriage_service_id":"6",
+                        "order":"2",
+                        "show_on_train":"0",
+                        "show_on_train_config":"{\"position\":0}",
+                        "created_at":"2025-05-14 11:46:38",
+                        "updated_at":"2025-05-14 11:46:38"
+                    }
+                }
+            ]
+        }
+    ]
+}

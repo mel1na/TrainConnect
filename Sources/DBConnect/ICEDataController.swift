@@ -34,6 +34,8 @@ public final class ICEDataController: NSObject, TrainDataController {
     
     public func loadTripData(demoMode: Bool = false, completionHandler: @escaping (TripResponse?, Error?) -> ()){
         let provider = getProvider(demoMode: demoMode)
+        provider.session.session.configuration.timeoutIntervalForRequest = 2
+        provider.session.session.configuration.timeoutIntervalForResource = 2
         provider.request(.trip) { result in
             switch result {
             case .success(let response):
@@ -81,6 +83,8 @@ public final class ICEDataController: NSObject, TrainDataController {
     
     public func loadStatus(demoMode: Bool = false, completionHandler: @escaping (Status?, Error?) -> ()) {
         let provider = getProvider(demoMode: demoMode)
+        provider.session.session.configuration.timeoutIntervalForRequest = 2
+        provider.session.session.configuration.timeoutIntervalForResource = 2
         provider.request(.status) { result in
             switch result {
             case .success(let response):
