@@ -1,1 +1,2186 @@
-{"total":57,"per_page":"500","current_page":1,"last_page":1,"next_page_url":null,"prev_page_url":null,"from":1,"to":57,"data":[{"id":1,"image":"\/assets\/uploads\/zugleisten\/DANI\/Taurus Lok.png","highlight_color":null,"icon":null,"translatable":{"de":{"name":"Taurus Lok","type_1":"text","type_2":"text","weight_1":"normal","size_1":"large","link_type_1":null,"body_1":"Taurus","label_1":"Lok","weight_2":"normal","size_2":"large","link_type_2":null,"body_2":"8.700","label_2":"Leistung in PS","background_image_alt":"Taurus Lok am Wiener Hauptbahnhof "},"en":{"name":"Taurus Lok","type_1":"text","type_2":"text","weight_1":"normal","size_1":"large","link_type_1":null,"body_1":"Taurus","label_1":"Locomotive","weight_2":"normal","size_2":"large","link_type_2":null,"body_2":"8.700","label_2":"Power in hp","background_image_alt":"Taurus Locomotive at Vienna main station "}},"created_at":"2024-12-06 15:58:42","updated_at":"2025-06-25 14:47:51","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":2,"image":"\/assets\/uploads\/zugleisten\/DANI\/Speed.png","highlight_color":null,"icon":null,"translatable":{"de":{"name":"Taurus Speed","type_1":"text","type_2":"speed","weight_1":"normal","size_1":"large","link_type_1":null,"body_1":"230 km\/h","label_1":"                                               Top Speed","weight_2":"normal","size_2":"large","label_2":"Aktuelle Geschwindigkeit","background_image_alt":"Railjet f\u00e4hrt in gr\u00fcner Landschaft "},"en":{"name":"Taurus Speed","type_1":"text","type_2":"speed","weight_1":"normal","size_1":"large","link_type_1":null,"body_1":"230 km\/h","label_1":"Top Speed","weight_2":"normal","size_2":"large","label_2":"Current speed","background_image_alt":"Railjet travels through green landscape "}},"created_at":"2024-12-06 16:01:29","updated_at":"2025-06-25 14:58:52","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":3,"image":"\/assets\/uploads\/services\/FZ\/_L3C2567_(c)ZdjelarDijana-Kinderkino_03.jpg","highlight_color":null,"icon":"\/assets\/uploads\/icons\/Neu 2024\/Kinderwagen_H40px_7D7D7D.svg","translatable":{"de":{"name":"Kinderkino","type_1":"text","type_2":"icon","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Kinderkino","label_1":"Familienzone","background_image_alt":"Kinder sitzen vor Kinderkino im Railjet ","icon_alt":"Kinderwagen Icon"},"en":{"name":"Kinderkino","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Children's cinema","label_1":"Family zone","background_image_alt":"Children sit in front of the children's cinema in the Railjet ","icon_alt":"Icon baby carriage "}},"created_at":"2024-12-06 16:03:04","updated_at":"2025-06-25 14:59:40","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":4,"image":"\/assets\/uploads\/zugleisten\/DANI\/Spieltische.jpg","highlight_color":null,"icon":null,"translatable":{"de":{"name":"Spieltische DANI neu","type_1":"text","type_2":null,"weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Spieltische","label_1":"Familienzone","background_image_alt":"Familie mit zwei Kindern spielt am Spieltisch "},"en":{"name":"Spieltische DANI neu","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Gaming tables","label_1":"Family Zone","background_image_alt":"Family with two children playing at the gaming table"}},"created_at":"2024-12-06 16:16:04","updated_at":"2025-06-25 15:00:05","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":5,"image":"\/assets\/uploads\/services\/FZ\/FZneu_0029_Kinderwagenabstellplatz_02.jpg","highlight_color":null,"icon":"\/assets\/uploads\/icons\/Neu 2024\/Kinderwagen_H40px_7D7D7D.svg","translatable":{"de":{"name":"Kinderwagenabstellplatz","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Kinderwagenabstellplatz","label_1":"Familienzone","background_image_alt":"Mutter mit Kinderwagen und Kind","icon_alt":"Kinderwagen Icon"},"en":{"name":"Kinderwagenabstellplatz","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Pushchair parking space","label_1":"Family zone","background_image_alt":"Mother with baby carriage and child ","icon_alt":"Icon baby carriage"}},"created_at":"2024-12-06 16:17:50","updated_at":"2025-06-25 15:00:45","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":6,"image":"\/assets\/uploads\/services\/Railjet_Fahrradabteil_c_OEBB_Wegscheider.png","highlight_color":null,"icon":"\/assets\/uploads\/icons\/Neu 2024\/Fahrrad_H40px_7D7D7D.svg","translatable":{"de":{"name":"Fahrradpl\u00e4tze RG","type_1":"icon","type_2":"text","label_1":"Fahrradmitnahme","weight_2":"normal","size_2":"large","link_type_2":null,"body_2":"5","label_2":"Abstellpl\u00e4tze","background_image_alt":"Zwei Fahrr\u00e4der aufgehangen an Vorrichtung im Railjet ","icon_alt":"Fahrrad Icon"},"en":{"name":"Fahrradpl\u00e4tze RG","type_1":"icon","label_1":"Bicycle transport","type_2":"text","weight_2":"normal","size_2":"large","link_type_2":null,"body_2":"5","label_2":"Parking spaces","background_image_alt":"Two bicycles hanging on a hook in the Railjet ","icon_alt":"Bicycle icon "}},"created_at":"2024-12-10 15:24:34","updated_at":"2025-06-25 15:04:08","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":7,"image":"\/assets\/uploads\/services\/Storycard_0013_2Klasse02.png","highlight_color":null,"icon":null,"translatable":{"de":{"name":"Multifunktionstische","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Multifunktionstische","label_1":"Ausstattung","background_image_alt":"Multifunktionstisch im Railjet mit Laptop und Unterlagen  "},"en":{"name":"Multifunktionstische","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Multifunctional tables","label_1":"Equipment","background_image_alt":"Multifunctional table in railjet with laptop and documents"}},"created_at":"2024-12-11 10:18:39","updated_at":"2025-06-25 15:04:36","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":8,"image":"\/assets\/uploads\/services\/allg. neu\/\u00d6BB_railjet_Gep\u00e4ckablage_(c)ZdjelarDijana_01.jpg","highlight_color":null,"icon":null,"translatable":{"de":{"name":"Gep\u00e4ckablagen","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Gro\u00dfz\u00fcgige Gep\u00e4ckablagen","label_1":"Ausstattung","background_image_alt":"Gep\u00e4ckablagen mit drei silbernen Koffern "},"en":{"name":"Gep\u00e4ckablagen","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Luggage racks","label_1":"Equipment","background_image_alt":"Luggage racks with three silver suitcases "}},"created_at":"2024-12-11 10:20:35","updated_at":"2025-06-25 15:05:01","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":9,"image":"\/assets\/uploads\/services\/_Q5L8894_Blindenhundeplatz.png","highlight_color":null,"icon":null,"translatable":{"de":{"name":"Blindenhundsitz","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Blindenhundsitz","label_1":"Besonderheiten","background_image_alt":"Vierer Sitzgruppe im Railjet "},"en":{"name":"Blindenhundsitz","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Guide Dog Seat","label_1":"special features","background_image_alt":"Group of four seats in the Railjet"}},"created_at":"2024-12-11 10:22:58","updated_at":"2025-06-25 15:05:29","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":10,"image":"\/assets\/uploads\/services\/RZ\/RZneu_0022_2Klasse_02_02.jpg","highlight_color":null,"icon":"\/assets\/uploads\/icons\/Neu 2024\/Ruhezone_INFRA_H40px_7D7D7D.svg","translatable":{"de":{"name":"Ruhezone","type_1":"text","type_2":"icon","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Entspannt reisen oder in Ruhe arbeiten","label_1":"Ruhezone","background_image_alt":"Fahrg\u00e4ste in der Ruhezone"},"en":{"name":"Ruhezone","type_1":"text","weight_1":"normal","size_1":"small","label_1":"Quiet Zone","link_type_1":null,"body_1":"Relaxed travelling or working in tranquillity","background_image_alt":"Passengers in the quiet zone"}},"created_at":"2024-12-11 15:08:38","updated_at":"2025-06-25 15:05:53","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":11,"image":"\/assets\/uploads\/services\/RZ\/_R0A0297_(c)ZdjelarDijana-Spielregeln RZ_02.jpg","highlight_color":null,"icon":null,"translatable":{"de":{"name":"Ruhezone Spielregeln","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Spielregeln f\u00fcr eine funktionierende Ruhezone","label_1":"Ruhezone","background_image_alt":"Schild der Ruhezone Spielregeln mit Icons, die die Fahrg\u00e4ste auffordern ruhig zu sein, das Handy auf lautlos zu stellen und Kopfh\u00f6rer leise zu stellen "},"en":{"name":"Ruhezone Spielregeln","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"label_1":"Quiet zone","body_1":"Rules for a functioning quiet zone","background_image_alt":"Sign for the quiet zone Rules of the game with icons asking passengers to be quiet, put their cell phones on silent and turn down their headphones"}},"created_at":"2024-12-11 15:20:42","updated_at":"2025-06-25 15:06:18","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":12,"image":"\/assets\/uploads\/services\/DoNs\/Storycard_DoNs1.jpg","highlight_color":null,"icon":null,"translatable":{"de":{"name":"Bordrestaurant","type_1":"text","type_2":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Mit Bar und 15 Sitzpl\u00e4tzen","label_1":"Bordrestaurant","weight_2":"normal","size_2":"small","link_type_2":"link","body_2":"zum Download","label_2":"Speisekarte","background_image_alt":"Mann und Frau sitzen sich im Bordrestaurant gegen\u00fcber und fr\u00fchsticken "},"en":{"name":"Bordrestaurant","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"With 15 seats","label_1":"On-board restaurant","background_image_alt":"Man and woman sitting opposite each other in the on-board restaurant and having breakfast "}},"created_at":"2024-12-11 15:22:40","updated_at":"2025-06-25 15:06:44","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":13,"image":"\/assets\/uploads\/services\/DoNs\/Storycard_DoNs2.jpg","highlight_color":null,"icon":"\/assets\/uploads\/icons\/Neu 2024\/Restaurant_H40px_7D7D7D.svg","translatable":{"de":{"name":"Bordrestaurant 2","type_1":"icon","type_2":"text","label_1":"Boardrestaurant","weight_2":"normal","size_2":"small","link_type_2":"link","body_2":"Link zum Men\u00fc","label_2":"Speisekarte","link_2":"https:\/\/bistro.dons.travel\/","body_1":"mit 15 Pl\u00e4tzen ","background_image_alt":"Mann und Frau sitzen im Bordrestaurant und bekommen Fr\u00fchst\u00fcck serviert","icon_alt":"Gekreuztes Messer und Gabel Icon "},"en":{"name":"Bordrestaurant 2","type_1":"icon","label_1":"board restaurant","type_2":"text","weight_2":"normal","size_2":"small","link_type_2":"link","label_2":"Menu","body_2":"Link to menu","link_2":"https:\/\/bistro.dons.travel\/","background_image_alt":"Man and woman sitting in the on-board restaurant and being served breakfast ","icon_alt":"Crossed knife and fork icon"}},"created_at":"2024-12-11 15:28:50","updated_at":"2025-06-25 15:07:28","show_icon_on_image":false,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":14,"image":"\/assets\/uploads\/services\/_L3C6601_02_Rollstuhlplatz neu.jpg","highlight_color":null,"icon":"\/assets\/uploads\/icons\/Neu 2024\/Rollstuhl_H40px_7D7D7D.svg","translatable":{"de":{"name":"Rollstuhlplatz 1.Klasse","type_1":"text","type_2":"icon","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Rollstuhplatz in der 1.Klasse","label_1":"Besonderheiten","background_image_alt":"Rollstuhlfahrer sitzt am Rollstuhlplatz in 1. Klasse und schaut aus dem Fenster des Railjets","icon_alt":"Rollstuhl Icon "},"en":{"name":"Rollstuhlplatz 1.Klasse","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Wheelchair Space in 1.Class","label_1":"Special features","type_2":"icon","background_image_alt":"Wheelchair user sitting at the wheelchair seat in 1st class and looking out of the window of the Railjet ","icon_alt":"Wheelchair icon"}},"created_at":"2024-12-11 15:31:00","updated_at":"2025-06-25 15:08:48","show_icon_on_image":false,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":15,"image":"\/assets\/uploads\/services\/o\u0302BB-railjet-first_Tisch-Kaffee.png","highlight_color":null,"icon":null,"translatable":{"de":{"name":"Ledersitze","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Individuell verstellbare Ledersitze, angenehme Beinfreiheit, Steckdose an jedem Platz","label_1":"Ausstattung","background_image_alt":"Zwei Ledersitze im Railjet mit einer Tasse Kaffee auf dem Klapptisch "},"en":{"name":"Ledersitze","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Individually adjustable leather seats, comfortable legroom, power sockets at every seat","label_1":"Equipment","background_image_alt":"Two leather seats in the Railjet with a cup of coffee on the folding table "}},"created_at":"2024-12-11 15:33:23","updated_at":"2025-06-25 15:09:13","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":16,"image":"\/assets\/uploads\/services\/DoNs\/Storycard_DoNs3.jpg","highlight_color":null,"icon":null,"translatable":{"de":{"name":"Bordservice","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Am Platz-Service: Speisen und Getr\u00e4nke werden serviert","label_1":"Besonderheiten","background_image_alt":"DONs Mitarbeiterin serviert einen Paar Essen in der 1. Klasse "},"en":{"name":"Bordservice","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"At-Seat Service: Food and drinks are served","label_1":"Special features","background_image_alt":"DON's employee serving a couple meals in 1st class"}},"created_at":"2024-12-11 15:37:12","updated_at":"2025-06-25 15:09:38","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":17,"image":"\/assets\/uploads\/zugleisten\/DANI\/DANI Komfortsitze.jpg","highlight_color":null,"icon":null,"translatable":{"de":{"name":"Komfortsitze mit Klapptisch und Ladefunktion","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Komfortsitze mit Klapptisch und Ladefunktion","label_1":"Ausstattung","background_image_alt":"Sitzr\u00fcckseite mit ausgeklapptem Klapptisch und Ladefunktion"},"en":{"name":"Comfort seats with folding table and loading function","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Comfort seats with folding table and loading function","label_1":"Equipment","background_image_alt":"Seat back with fold-out folding table and charging function"}},"created_at":"2024-12-11 17:31:15","updated_at":"2025-06-25 15:10:05","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":18,"image":"\/assets\/uploads\/zugleisten\/DANI\/Dani Gep\u00e4cksicherung.jpg","highlight_color":null,"icon":null,"translatable":{"de":{"name":"Gep\u00e4ckablagen mit NFC Gep\u00e4cksicherung","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Gep\u00e4ckablagen mit NFC Gep\u00e4cksicherung","label_1":"Ausstattung","background_image_alt":"Koffer liegt in Gep\u00e4ckablage und ist mit einem Kabel gesichert "},"en":{"name":"Luggage racks with NFC luggage security","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Luggage racks with NFC luggage security","label_1":"Equipment","background_image_alt":"Suitcase lies in luggage rack and is secured with a cable "}},"created_at":"2025-01-03 11:02:33","updated_at":"2025-06-25 15:10:33","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":19,"image":"\/assets\/uploads\/zugleisten\/DANI\/Abteil Familie.jpg","highlight_color":null,"icon":"\/assets\/uploads\/icons\/Smiley_Family_2.png","translatable":{"de":{"name":"Familienzone Abteile","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Abteile","label_1":"Familienzone","background_image_alt":"Familie mit zwei Kindern sitzt in einem Familienabteil und spielt ein Spiel"},"en":{"name":"Familienzone Abteile","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Compartments","label_1":"Family Zone","background_image_alt":"Family with two children sitting in a family compartment playing a game "}},"created_at":"2025-01-03 11:06:01","updated_at":"2025-06-25 15:10:57","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":20,"image":"\/assets\/uploads\/zugleisten\/DANI\/Automat.jpg","highlight_color":null,"icon":"\/assets\/uploads\/icons\/Neu 2024\/Snackautomat_H40px_7D7D7D.svg","translatable":{"de":{"name":"Automat","type_1":"text","type_2":"icon","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Automat","label_1":"Ausstattung","background_image_alt":"Mann steht vor einem Getr\u00e4nkeautomaten und w\u00e4hlt etwas  ","icon_alt":"Getr\u00e4nk und Burger Icon"},"en":{"name":"Automat","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Vending machine","label_1":"Equipment","background_image_alt":"Man stands in front of a drinks machine and selects a drink ","icon_alt":"Drink and burger icon"}},"created_at":"2025-01-03 11:08:48","updated_at":"2025-06-25 15:11:37","show_icon_on_image":false,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":21,"image":"\/assets\/uploads\/zugleisten\/DANI\/Fahrradstellplatz.jpg","highlight_color":null,"icon":"\/assets\/uploads\/icons\/Neu 2024\/Fahrrad_H40px_7D7D7D.svg","translatable":{"de":{"name":"Fahrradmitnahme 6 Pl\u00e4tze","type_1":"icon","type_2":"text","label_2":"Abstellpl\u00e4tze","label_1":"Fahrradmitnahme","weight_2":"normal","size_2":"large","link_type_2":null,"body_2":"6","background_image_alt":"Fahrrad steht im Multifunktionsbereich des Railjets ","icon_alt":"Fahrrad Icon "},"en":{"name":"Fahrradmitnahme 6 Pl\u00e4tze","type_1":"icon","type_2":"text","label_1":"Bicycle transport","weight_2":"normal","size_2":"large","link_type_2":null,"body_2":"6","label_2":"Parking spaces","background_image_alt":"Bicycle is parked in the multifunctional area of the Railjet ","icon_alt":"Bicycle icon "}},"created_at":"2025-01-03 11:10:57","updated_at":"2025-06-25 15:12:25","show_icon_on_image":false,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":22,"image":"\/assets\/uploads\/zugleisten\/Nightjet\/NJ Skihalterung  3.jpg","highlight_color":null,"icon":"\/assets\/uploads\/icons\/Zugleiste 2023\/Ski_H40px_7D7D7D.svg","translatable":{"de":{"name":"Skihalterung separat","type_1":"icon","label_1":"Skihalterung","background_image_alt":"Skihalterung im Railjet ","icon_alt":"Ski Icon"},"en":{"name":"Skihalterung separat","type_1":"icon","label_1":"Ski rack","background_image_alt":"Ski holder in the Railjet ","icon_alt":"Ski icon "}},"created_at":"2025-01-03 15:37:57","updated_at":"2025-06-25 15:13:03","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":23,"image":"\/assets\/uploads\/zugleisten\/DANI\/Dani Rollstuhlpl\u00e4tze.png","highlight_color":null,"icon":"\/assets\/uploads\/icons\/Neu 2024\/Rollstuhl_H40px_7D7D7D.svg","translatable":{"de":{"name":"3 Rollstuhlpl\u00e4tze","type_1":"text","type_2":"icon","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"3 Rollstuhl-stellpl\u00e4tze","label_1":"Besonderheiten","background_image_alt":"Rollstuhlbereich im Railjet ","icon_alt":"Rollstuhl Icon "},"en":{"name":"3 Rollstuhlpl\u00e4tze","type_1":"text","type_2":"icon","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"3 wheelchair spaces","label_1":"Special features","background_image_alt":"Wheelchair area in the Railjet ","icon_alt":"Wheelchair icon "}},"created_at":"2025-01-03 15:40:07","updated_at":"2025-06-25 15:13:57","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":24,"image":"\/assets\/uploads\/zugleisten\/Nightjet\/PRM WC.jpg","highlight_color":null,"icon":"\/assets\/uploads\/icons\/Neu 2024\/Rollstuhl_H40px_7D7D7D.svg","translatable":{"de":{"name":"PRM WC","type_1":"text","type_2":"icon","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Universal WC","label_1":"Besonderheiten","background_image_alt":"Universal WC mit Piktogramm eines Rollstuhlfahrers auf der T\u00fcr ","icon_alt":"Rollstuhl Icon "},"en":{"name":"PRM WC","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Universal Toilet","label_1":"Special features","type_2":"icon","background_image_alt":"Universal WC with pictogram of a wheelchair user on the door ","icon_alt":"Wheelchair icon"}},"created_at":"2025-01-03 15:41:51","updated_at":"2025-06-25 15:14:43","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":25,"image":"\/assets\/uploads\/zugleisten\/DANI\/Defi.jpg","highlight_color":null,"icon":null,"translatable":{"de":{"name":"DEFI","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Defibrillator","label_1":"Besonderheiten","background_image_alt":"Gr\u00fcner Defibrillator neben einer T\u00fcr mit Fluchtweg-Symbol im Railjet "},"en":{"name":"DEFI","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Defibrillator","label_1":"Special features","background_image_alt":"Green defibrillator next to a door with escape route symbol in the Railjet"}},"created_at":"2025-01-03 15:43:34","updated_at":"2025-06-25 15:15:08","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":26,"image":"\/assets\/uploads\/zugleisten\/DANI\/Dani Restaurant.jpg","highlight_color":null,"icon":"\/assets\/uploads\/icons\/Neu 2024\/Restaurant_H40px_7D7D7D.svg","translatable":{"de":{"name":"Bordrestaurant mit 12 Pl\u00e4tzen neu","type_1":"text","type_2":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Mit 12 Sitzpl\u00e4tzen","label_1":"Bordrestaurant","weight_2":"normal","size_2":"small","link_type_2":"link","body_2":"Jetzt ansehen","label_2":"Speisekarte","link_2":"https:\/\/bistro.dons.travel\/","background_image_alt":"Bordrestaurant im Railjet "},"en":{"name":"Bordrestaurant mit 12 Pl\u00e4tzen neu","type_1":"text","type_2":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"With 12 seats\n","label_1":"On-board restaurant","weight_2":"normal","size_2":"small","link_type_2":"link","body_2":"View now","label_2":"Menu","link_2":"https:\/\/bistro.dons.travel\/","background_image_alt":"On-board restaurant in the Railjet "}},"created_at":"2025-01-03 15:45:16","updated_at":"2025-06-25 15:15:33","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":27,"image":"\/assets\/uploads\/zugleisten\/DANI\/Zugbegleiter.jpg","highlight_color":null,"icon":null,"translatable":{"de":{"name":"Zugbegleiter:innenabteil","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Zugbegleiter:innenabteil","label_1":"Ausstattung","background_image_alt":"Zugbegleiter steht im Gang des Railjets "},"en":{"name":"Zugbegleiter:innenabteil","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Train attendant compartment","label_1":"Equipment","background_image_alt":"Train attendant standing in the aisle of the Railjet "}},"created_at":"2025-01-03 15:47:19","updated_at":"2025-06-25 15:16:05","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":28,"image":"\/assets\/uploads\/zugleisten\/DANI\/Dani Multifunktionstische.jpg","highlight_color":null,"icon":null,"translatable":{"de":{"name":"Multifunktionstische Dani neu","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Multifunktionstische","label_1":"Ausstattung","background_image_alt":"Mann und Frau sitzen an einem Multifunktionstisch und lesen gemeinsam ein Buch"},"en":{"name":"Multifunktionstische Dani neu","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Multifunctional tables","label_1":"Equipment","background_image_alt":"Man and woman sitting at a multifunctional table reading a book together "}},"created_at":"2025-01-03 16:13:58","updated_at":"2025-06-25 15:16:30","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":29,"image":"\/assets\/uploads\/zugleisten\/DANI\/Dani Raised Seating.jpg","highlight_color":null,"icon":null,"translatable":{"de":{"name":"Raised Seating Dani neu","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Raised Seating","label_1":"Ausstattung","background_image_alt":"Koffer liegt unter erh\u00f6htem Sitz"},"en":{"name":"Raised Seating Dani neu","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Raised Seating","label_1":"Equipment","background_image_alt":"Suitcase lying under a raised seat "}},"created_at":"2025-01-03 16:15:30","updated_at":"2025-06-25 15:17:19","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":30,"image":"\/assets\/uploads\/zugleisten\/DANI\/Ruhezone 2. Klasse.jpg","highlight_color":null,"icon":"\/assets\/uploads\/icons\/Neu 2024\/Ruhezone_INFRA_H40px_7D7D7D.svg","translatable":{"de":{"name":"DANI Neu Ruhezone","type_1":"text","type_2":"icon","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Entspannt reisen oder in Ruhe arbeiten","label_1":"Ruhezone","background_image_alt":"Frau sitzt in der Ruhezone des Railjets und schaut aus dem Fenster "},"en":{"name":"DANI Neu Ruhezone","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Relaxed travelling or working in tranquillity","label_1":"Quiet zone","background_image_alt":"Woman sitting in the rest area of the Railjet and looking out of the window"}},"created_at":"2025-01-03 16:17:01","updated_at":"2025-06-25 15:17:42","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":31,"image":"\/assets\/uploads\/zugleisten\/DANI\/Dani Gro\u00dfraum (2).jpg","highlight_color":null,"icon":"\/assets\/uploads\/icons\/Neu 2024\/Sitzwagen_H40px_7D7D7D.svg","translatable":{"de":{"name":"Gro\u00dfraum Dani neu","type_1":"text","type_2":"icon","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Gro\u00dfraum","label_1":"Ausstattung","background_image_alt":"Gro\u00dfraumbereich des Railjets mit Sitzreihen und Multifunktionstischen ","icon_alt":"Sitz Icon "},"en":{"name":"Gro\u00dfraum Dani neu","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Open-plan","label_1":"Equipment","background_image_alt":"Open-plan area of the Railjet with rows of seats and multifunctional tables ","icon_alt":"Seat Icon"}},"created_at":"2025-01-03 16:19:05","updated_at":"2025-06-25 15:18:25","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":32,"image":"\/assets\/uploads\/zugleisten\/Nightjet\/Kinderwagenabstellplatz DANI.png","highlight_color":null,"icon":"\/assets\/uploads\/icons\/Neu 2024\/Kinderwagen_H40px_7D7D7D.svg","translatable":{"de":{"name":"Kinderwagenabstellplatz DANI","type_1":"text","type_2":"icon","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Kinderwagenabstellplatz integriert im Gep\u00e4ckrack ","label_1":"Familienzone","background_image_alt":"Kinderwagenabstellplatz in dem ein Koffer gelagert ist","icon_alt":"Kinderwagen Icon "},"en":{"name":"Kinderwagenabstellplatz DANI","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Pushchair parking space integrated in luggage rack","label_1":"Family Zone","background_image_alt":"Baby carriage storage area where a suitcase is stored ","icon_alt":"Baby carriage icon "}},"created_at":"2025-01-03 16:20:52","updated_at":"2025-06-25 15:19:04","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":33,"image":"\/assets\/uploads\/zugleisten\/DANI\/First Class.png","highlight_color":null,"icon":null,"translatable":{"de":{"name":"1. Klasse Gro\u00dfraum","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Gro\u00dfraum","label_1":"Ausstattung","background_image_alt":"Frau sitzt mit einem Kaffee in  der 1. Klasse und schaut aus dem Fenster auf einen See "},"en":{"name":"1. Klasse Gro\u00dfraum","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Open-plan","label_1":"Equipment","background_image_alt":"Woman sitting in 1st class with a coffee and looking out of the window at a lake "}},"created_at":"2025-01-03 16:23:52","updated_at":"2025-06-25 15:19:32","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":34,"image":"\/assets\/uploads\/zugleisten\/DANI\/Abteil Business Class.jpg","highlight_color":null,"icon":null,"translatable":{"de":{"name":"Abteile Business Class","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Abteile","label_1":"Business Class","background_image_alt":"Mann und Frau sitzen in einem Business Class Abteil und lesen beide am Tablet und Handy "},"en":{"name":"Abteile Business Class","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Compartments","label_1":"Business Class","background_image_alt":"Man and woman sitting in a Business Class compartment, both reading on a tablet and cell phone "}},"created_at":"2025-01-03 16:24:49","updated_at":"2025-06-25 15:20:05","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":35,"image":"\/assets\/uploads\/zugleisten\/DANI\/Dani Abteile.jpg","highlight_color":null,"icon":null,"translatable":{"de":{"name":"2. Klasse Abteile","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Abteile","label_1":"2. Klasse","background_image_alt":"2. Klasse Abteil des Railjets"},"en":{"name":"2. Klasse Abteile","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Compartments","label_1":"2. Class","background_image_alt":"2nd class compartment of the Railjet "}},"created_at":"2025-01-03 16:25:44","updated_at":"2025-06-25 15:20:36","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":36,"image":"\/assets\/uploads\/zugleisten\/DANI\/NJ Lok.png","highlight_color":null,"icon":null,"translatable":{"de":{"name":"NJ Lok","type_1":"text","type_2":"text","weight_1":"normal","size_1":"large","link_type_1":null,"body_1":"Taurus","label_1":"Lok","weight_2":"normal","size_2":"large","link_type_2":null,"body_2":"8.700","label_2":"Leistung in PS","background_image_alt":"Nightjet Lok f\u00e4hrt \u00fcber Gleise bei abendlicher Stimmung "},"en":{"name":"NJ Lok","type_1":"text","type_2":"text","weight_1":"normal","size_1":"large","link_type_1":null,"body_1":"Taurus","label_1":"Locomotive","weight_2":"normal","size_2":"large","link_type_2":null,"body_2":"8700","label_2":"Power in hp","background_image_alt":"Nightjet locomotive runs over tracks in the evening atmosphere "}},"created_at":"2025-01-08 07:49:29","updated_at":"2025-06-25 15:21:02","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":37,"image":"\/assets\/uploads\/zugleisten\/DANI\/NJ Speed.png","highlight_color":null,"icon":null,"translatable":{"de":{"name":"NJ Speed","type_1":"text","type_2":"speed","weight_1":"normal","size_1":"large","link_type_1":null,"body_1":" 230 km\/h","label_1":"Top Speed","weight_2":"normal","size_2":"large","label_2":"Aktuelle Geschwindigkeit","background_image_alt":"Nightjet f\u00e4hrt durch Schneelandschaft mit Bergen im Hintergrund "},"en":{"name":"NJ Speed","type_1":"text","type_2":"speed","weight_1":"normal","size_1":"large","link_type_1":null,"body_1":"230 km\/h","label_1":"Top Speed","weight_2":"normal","size_2":"large","label_2":"Current Speed","background_image_alt":"Nightjet travels through a snowy landscape with mountains in the background "}},"created_at":"2025-01-08 07:51:12","updated_at":"2025-06-25 15:21:26","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":38,"image":"\/assets\/uploads\/zugleisten\/DANI\/Dani RIS.jpg","highlight_color":null,"icon":null,"translatable":{"de":{"name":"RIS","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Reisendeninformationssystem","label_1":"Ausstattung","background_image_alt":"Bildschirm mit Fahrgastinformationen im Gro\u00dfraum"},"en":{"name":"RIS","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Passenger information system","label_1":"Equipment","background_image_alt":"Screen with passenger information in the open-plan area"}},"created_at":"2025-01-08 07:52:58","updated_at":"2025-06-25 15:21:53","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":39,"image":"\/assets\/uploads\/zugleisten\/DANI\/DANI Wlan Gro\u00dfraum.png","highlight_color":null,"icon":null,"translatable":{"de":{"name":"WLAN","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"WLAN","label_1":"Ausstattung","background_image_alt":"Frau sitzt im Gro\u00dfraumbereich und surft mit ihrem Handy "},"en":{"name":"WLAN","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"WIFI","label_1":"Equipment","background_image_alt":"Woman sitting in the open-plan area and surfing on her cell phone"}},"created_at":"2025-01-08 07:54:34","updated_at":"2025-06-25 15:22:20","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":40,"image":"\/assets\/uploads\/zugleisten\/Nightjet\/Nj Liegewagen Abteil f\u00fcr Rollstuhlfahrerinnen und Begleitperson.jpg","highlight_color":null,"icon":"\/assets\/uploads\/icons\/Neu 2024\/liegewagen_H40px_7D7D7D.svg","translatable":{"de":{"name":"Liegewagen Abteil f\u00fcr Rollstuhlfahrer:innen und Begleitpersonen","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Liegewagen Abteil f\u00fcr Rollstuhlfahrer:innen und Begleitpersonen","label_1":"Abteil barrierefrei comfort","background_image_alt":"Liegewagenabteil f\u00fcr Rollstuhlfahrer:innen und Begleitpersonen mit Hochbett, Klappsitz und Klapptisch"},"en":{"name":"Liegewagen Abteil f\u00fcr Rollstuhlfahrer:innen und Begleitpersonen","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Couchette compartment for wheelchair users and accompanying persons","label_1":"Barrier-free compartment comfort","background_image_alt":"Couchette compartment for wheelchair users and accompanying persons with bunk bed, folding seat and folding table"}},"created_at":"2025-01-08 07:55:41","updated_at":"2025-06-25 15:22:51","show_icon_on_image":false,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":41,"image":"\/assets\/uploads\/zugleisten\/Nightjet\/NJ Mini Cabin.jpg","highlight_color":null,"icon":"\/assets\/uploads\/icons\/Neu 2024\/liegewagen_H40px_7D7D7D.svg","translatable":{"de":{"name":"Mini Cabin","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Neue innovative Schlafkapseln im Liegewagen f\u00fcr Alleinreisende ","label_1":"Mini Cabin","background_image_alt":"Mini Cabin mit Gep\u00e4ckf\u00e4chern und Bettzeug"},"en":{"name":"Mini Cabin","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"New innovative sleeping pods in couchette carriages for solo travellers ","label_1":"Mini Cabin","background_image_alt":"Mini cabin with luggage compartments and bedding"}},"created_at":"2025-01-08 07:58:16","updated_at":"2025-06-25 15:23:17","show_icon_on_image":false,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":42,"image":"\/assets\/uploads\/zugleisten\/Nightjet\/NJ 4er Abteil.jpg","highlight_color":null,"icon":null,"translatable":{"de":{"name":"NJ Liegewagen comfort","type_1":"text","type_2":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"4er-Abteile f\u00fcr Familien &\nGruppen","label_1":"Liegewagen comfort","weight_2":"normal","size_2":"small","link_type_2":null,"body_2":"Kinderbett und Absturzsicherung\nje Bett","label_2":"Option","background_image_alt":"Drei Personen liegen im Liegewagen, lachen und zeigen sich etwas am Handy "},"en":{"name":"NJ Liegewagen comfort","type_1":"text","type_2":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"4-berth compartments for families & groups","label_1":"Couchette car comfort","weight_2":"normal","size_2":"small","link_type_2":null,"body_2":"Cot and guard rail\nper bed","label_2":"Options","background_image_alt":"Three people lying in the couchette car, laughing and showing each other something on a cell phone"}},"created_at":"2025-01-08 08:00:16","updated_at":"2025-06-25 15:23:42","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":43,"image":"\/assets\/uploads\/zugleisten\/Nightjet\/NJ Zwei Toiletten.jpg","highlight_color":null,"icon":null,"translatable":{"de":{"name":"2 Toiletten","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Zwei Toiletten ","label_1":"Ausstattung","background_image_alt":"Toilette mit Waschbecken und Spiegel "},"en":{"name":"2 Toiletten","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Two toilets","label_1":"Equipment","background_image_alt":"Toilet with washbasin and mirror"}},"created_at":"2025-01-08 08:01:45","updated_at":"2025-06-25 15:24:07","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":44,"image":"\/assets\/uploads\/zugleisten\/Nightjet\/Waschraum.png","highlight_color":null,"icon":null,"translatable":{"de":{"name":"1 Waschraum","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Waschraum","label_1":"Ausstattung","background_image_alt":"Waschbecken und Spiegel "},"en":{"name":"1 Waschraum","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Bathroom","label_1":"Equipment","background_image_alt":"Washbasin and mirror "}},"created_at":"2025-01-08 08:05:51","updated_at":"2025-06-25 15:24:39","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":45,"image":"\/assets\/uploads\/zugleisten\/Nightjet\/NJ NFC Zutrittssystem.jpg","highlight_color":null,"icon":null,"translatable":{"de":{"name":"NFC Zutrittssystem","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"NFC Zutrittssystem","label_1":"Besonderheiten","background_image_alt":"Ein Mann h\u00e4lt NFC-Zutrittskarte an das Leseger\u00e4t vor der Mini Cabin "},"en":{"name":"NFC Zutrittssystem","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"NFC access system","label_1":"special features","background_image_alt":"A man holds an NFC access card to the reader in front of the Mini Cabin "}},"created_at":"2025-01-08 08:08:21","updated_at":"2025-06-25 15:25:04","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":46,"image":"\/assets\/uploads\/zugleisten\/Nightjet\/NJ Gep\u00e4ck-Kapseln f\u00fcr gro\u00dfe Gep\u00e4ckst\u00fccke.jpg","highlight_color":null,"icon":null,"translatable":{"de":{"name":"NJ Gep\u00e4ck-Kapseln f\u00fcr gro\u00dfe Gep\u00e4ckst\u00fccke","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Je Mini Cabin zwei Gep\u00e4ckf\u00e4cher f\u00fcr Handgep\u00e4ckstrolleys und Schuhe","label_1":"Ausstattung","background_image_alt":"Ein Mann schaut in das Gep\u00e4ckfach vor der Mini Cabin"},"en":{"name":"NJ Gep\u00e4ck-Kapseln f\u00fcr gro\u00dfe Gep\u00e4ckst\u00fccke","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Two luggage capsules per Mini Cabin for hand luggage trolleys and shoes","label_1":"Equipment","background_image_alt":"A man looks into the luggage compartment in front of the Mini Cabin"}},"created_at":"2025-01-08 08:09:50","updated_at":"2025-06-25 15:25:31","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":47,"image":"\/assets\/uploads\/zugleisten\/Nightjet\/NJ Service Ruf.jpg","highlight_color":null,"icon":null,"translatable":{"de":{"name":"NJ Service Ruf","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Service Ruf f\u00fcr individuelle Bestellw\u00fcnsche","label_1":"Ausstattung","background_image_alt":"Bedienpanel mit verschiedenen Tasten"},"en":{"name":"NJ Service Ruf","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Service call for individual order requests","label_1":"Special features","background_image_alt":"Control panel with various buttons"}},"created_at":"2025-01-08 08:12:13","updated_at":"2025-06-25 15:25:56","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":48,"image":"\/assets\/uploads\/zugleisten\/Nightjet\/NJ Indivieduelle Lichteinstellung.jpg","highlight_color":null,"icon":null,"translatable":{"de":{"name":"NJ Individuelle Licht-, Lautst\u00e4rke- und Temperatursteuerung","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Individuelle Licht-, Lautst\u00e4rke- und Temperatursteuerung","label_1":"Ausstattung","background_image_alt":"Eine Person dr\u00fcckt einen Knopf auf dem Bedienpanel  "},"en":{"name":"NJ Individuelle Licht-, Lautst\u00e4rke- und Temperatursteuerung","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Individual light, volume and temperature control","label_1":"Equipment","background_image_alt":"A person presses a button on the control panel"}},"created_at":"2025-01-08 08:14:11","updated_at":"2025-06-25 15:26:30","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":49,"image":"\/assets\/uploads\/zugleisten\/Nightjet\/NJ Induktives Laden.jpg","highlight_color":null,"icon":null,"translatable":{"de":{"name":"NJ Induktives Laden","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Induktives Laden, Steckdosen, Leselicht, Tasche f\u00fcr Magazine etc.","label_1":"Ausstattung","background_image_alt":"Ausschnitt aus der Mini Cabin  "},"en":{"name":"NJ Induktives Laden","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Inductive charging, sockets, reading light, pocket for magazines etc.","label_1":"Equipment","background_image_alt":"Details of the Mini Cabin "}},"created_at":"2025-01-08 08:16:17","updated_at":"2025-06-25 15:26:58","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":50,"image":"\/assets\/uploads\/zugleisten\/Nightjet\/NJ Rollos und Tisch.png","highlight_color":null,"icon":null,"translatable":{"de":{"name":"NJ Rollos und flexibler Tisch Schlafwagen","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Rollos f\u00fcr Sonnenschutz und Verdunklung sowie flexibler Tisch","label_1":"Ausstattung","background_image_alt":"Mann und Frau sitzen im Liegewagen und fr\u00fchst\u00fccken am Tisch bei geschlossenem Rollo "},"en":{"name":"NJ Rollos und flexibler Tisch Schlafwagen","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Roller blinds for sun protection and blackout and flexible table","label_1":"Equipment","background_image_alt":"Man and woman sitting in the couchette car and having breakfast at the table with the blind closed "}},"created_at":"2025-01-08 08:18:10","updated_at":"2025-06-25 15:27:22","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":51,"image":"\/assets\/uploads\/zugleisten\/Nightjet\/NJ Sclhafwagencomfort plus.jpg","highlight_color":null,"icon":null,"translatable":{"de":{"name":"NJ Comfort Plus (inkl. Detail zu Dusche\/ Sanit\u00e4rbereich)","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Zwei fix montierte Betten und gem\u00fctliche Sitzm\u00f6glichkeiten ","label_1":"Schlafwagen comfort plus","background_image_alt":"Schlafwagen mit Bettzeug und Goodies am Tisch"},"en":{"name":"NJ Comfort Plus (inkl. Detail zu Dusche\/ Sanit\u00e4rbereich)","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Two fixed beds and cosy seating options ","label_1":"Sleeping car comfort plus","background_image_alt":"Sleeping car with bedding and goodies at the table"}},"created_at":"2025-01-08 08:19:44","updated_at":"2025-06-25 15:27:48","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":52,"image":"\/assets\/uploads\/zugleisten\/Nightjet\/NJ Badezimmer Comfort Plus.png","highlight_color":null,"icon":null,"translatable":{"de":{"name":"NJ Badezimmer Comfort Plus","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Privater Sanit\u00e4rbereich mit WC und abgetrennter Dusche","label_1":"Schlafwagen Comfort Plus","background_image_alt":"Badezimmer mit Dusche Waschbecken und Spiegel "},"en":{"name":"NJ Badezimmer Comfort Plus","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Private sanitary area with WC and separate shower","label_1":"Sleeping car comfort plus","background_image_alt":"Bathroom with shower, washbasin and mirror"}},"created_at":"2025-01-08 08:22:03","updated_at":"2025-06-25 15:28:11","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":53,"image":"\/assets\/uploads\/zugleisten\/Nightjet\/NJ Badezimmer Comfort.png","highlight_color":null,"icon":null,"translatable":{"de":{"name":"NJ Badezimmer Comfort","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Privater Sanit\u00e4rbereich mit WC und Duschm\u00f6glichkeit","label_1":"Schlafwagen Comfort ","background_image_alt":"Badezimmer mit WC und Waschbecken"},"en":{"name":"NJ Badezimmer Comfort","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Private sanitary area with WC and shower facilities","label_1":"Sleeping car comfort","background_image_alt":"Bathroom with WC and washbasin"}},"created_at":"2025-01-08 08:23:17","updated_at":"2025-06-25 15:28:38","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":54,"image":"\/assets\/uploads\/zugleisten\/Nightjet\/NJ Garderobenschrank.png","highlight_color":null,"icon":null,"translatable":{"de":{"name":"Nj Garderobenschrank beim Comfort Plus Abteil","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Garderobenschrank","label_1":"Schlafwagen Comfort Plus","background_image_alt":"Schlafwagen mit Garderobenschrank, Tisch und Stockbett "},"en":{"name":"Nj Garderobenschrank beim Comfort Plus Abteil","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Wardrobe","label_1":"Sleeping car comfort plus","background_image_alt":"Sleeping car with wardrobe, table and bunk bed "}},"created_at":"2025-01-08 08:25:14","updated_at":"2025-06-25 15:29:03","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":55,"image":"\/assets\/uploads\/zugleisten\/Nightjet\/NJ Schlafwagen comfort.jpg","highlight_color":null,"icon":"\/assets\/uploads\/icons\/Neu 2024\/Schlafwagen_H40px_7D7D7D.svg","translatable":{"de":{"name":"NJ Comfort (inkl. Detail zu Dusche\/ Sanit\u00e4rbereich)","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Zwei fix montierte Betten und gem\u00fctliche Sitzm\u00f6glichkeiten ","label_1":"Schlafwagen Comfort ","background_image_alt":"Schlafwagen mit Stockbett, Bettzeug und Goodies "},"en":{"name":"NJ Comfort (inkl. Detail zu Dusche\/ Sanit\u00e4rbereich)","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Two fixed beds and cosy seating options ","label_1":"Sleeping car comfort","background_image_alt":"Sleeping car with bunk bed, bedding and goodies"}},"created_at":"2025-01-08 08:28:47","updated_at":"2025-06-25 15:29:31","show_icon_on_image":false,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":56,"image":"\/assets\/uploads\/services\/allg. neu\/_R0A1586_(c)HaraldEisenberger_Business Class_02.jpg","highlight_color":null,"icon":null,"translatable":{"de":{"name":"Business Class Sitzpl\u00e4tze","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"16 Sitzpl\u00e4tze","label_1":"Business Class","background_image_alt":"Mann sitzt in der Business Class und liest am Tablet"},"en":{"name":"Business Class Sitzpl\u00e4tze","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"16 seats","label_1":"Business Class","background_image_alt":"Man sitting in Business Class and reading on a tablet"}},"created_at":"2025-01-08 13:20:52","updated_at":"2025-06-25 15:30:01","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}},{"id":57,"image":"\/assets\/uploads\/services\/FZ\/_R0A3517-Spieltische_02.jpg","highlight_color":null,"icon":null,"translatable":{"de":{"name":"Spieltische RG","type_1":"text","type_2":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Spieltische","label_1":"Familienzone","weight_2":"normal","size_2":"small","link_type_2":null,"body_2":"Erh\u00e4ltlich bei den Zugbegleiter:innen","label_2":"Spielsteine","background_image_alt":"Spieltisch im Railjet "},"en":{"name":"Spieltische RG","type_1":"text","weight_1":"normal","size_1":"small","link_type_1":null,"body_1":"Gaming tables","label_1":"Family Zone","background_image_alt":"Games table in the Railjet "}},"created_at":"2025-01-09 19:09:02","updated_at":"2025-06-25 15:30:23","show_icon_on_image":true,"order":null,"show_on_train":null,"show_on_train_config":{"position":0}}]}
+{
+    "total":57,
+    "per_page":"500",
+    "current_page":1,
+    "last_page":1,
+    "next_page_url":null,
+    "prev_page_url":null,
+    "from":1,
+    "to":57,
+    "data":[
+        {
+            "id":1,
+            "image":"\/assets\/uploads\/zugleisten\/DANI\/Taurus Lok.png",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"Taurus Lok",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"normal",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"Taurus",
+                    "label_1":"Lok",
+                    "weight_2":"normal",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "body_2":"8.700",
+                    "label_2":"Leistung in PS",
+                    "background_image_alt":"Taurus Lok am Wiener Hauptbahnhof "
+                },
+                "en":{
+                    "name":"Taurus Lok",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"normal",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"Taurus",
+                    "label_1":"Locomotive",
+                    "weight_2":"normal",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "body_2":"8.700",
+                    "label_2":"Power in hp",
+                    "background_image_alt":"Taurus Locomotive at Vienna main station "
+                }
+            },
+            "created_at":"2024-12-06 15:58:42",
+            "updated_at":"2025-06-25 14:47:51",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":2,
+            "image":"\/assets\/uploads\/zugleisten\/DANI\/Speed.png",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"Taurus Speed",
+                    "type_1":"text",
+                    "type_2":"speed",
+                    "weight_1":"normal",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"230 km\/h",
+                    "label_1":"                                               Top Speed",
+                    "weight_2":"normal",
+                    "size_2":"large",
+                    "label_2":"Aktuelle Geschwindigkeit",
+                    "background_image_alt":"Railjet f\u00e4hrt in gr\u00fcner Landschaft "
+                },
+                "en":{
+                    "name":"Taurus Speed",
+                    "type_1":"text",
+                    "type_2":"speed",
+                    "weight_1":"normal",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"230 km\/h",
+                    "label_1":"Top Speed",
+                    "weight_2":"normal",
+                    "size_2":"large",
+                    "label_2":"Current speed",
+                    "background_image_alt":"Railjet travels through green landscape "
+                }
+            },
+            "created_at":"2024-12-06 16:01:29",
+            "updated_at":"2025-06-25 14:58:52",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":3,
+            "image":"\/assets\/uploads\/services\/FZ\/_L3C2567_(c)ZdjelarDijana-Kinderkino_03.jpg",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Neu 2024\/Kinderwagen_H40px_7D7D7D.svg",
+            "translatable":{
+                "de":{
+                    "name":"Kinderkino",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Kinderkino",
+                    "label_1":"Familienzone",
+                    "background_image_alt":"Kinder sitzen vor Kinderkino im Railjet ",
+                    "icon_alt":"Kinderwagen Icon"
+                },
+                "en":{
+                    "name":"Kinderkino",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Children's cinema",
+                    "label_1":"Family zone",
+                    "background_image_alt":"Children sit in front of the children's cinema in the Railjet ",
+                    "icon_alt":"Icon baby carriage "
+                }
+            },
+            "created_at":"2024-12-06 16:03:04",
+            "updated_at":"2025-06-25 14:59:40",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":4,
+            "image":"\/assets\/uploads\/zugleisten\/DANI\/Spieltische.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"Spieltische DANI neu",
+                    "type_1":"text",
+                    "type_2":null,
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Spieltische",
+                    "label_1":"Familienzone",
+                    "background_image_alt":"Familie mit zwei Kindern spielt am Spieltisch "
+                },
+                "en":{
+                    "name":"Spieltische DANI neu",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Gaming tables",
+                    "label_1":"Family Zone",
+                    "background_image_alt":"Family with two children playing at the gaming table"
+                }
+            },
+            "created_at":"2024-12-06 16:16:04",
+            "updated_at":"2025-06-25 15:00:05",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":5,
+            "image":"\/assets\/uploads\/services\/FZ\/FZneu_0029_Kinderwagenabstellplatz_02.jpg",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Neu 2024\/Kinderwagen_H40px_7D7D7D.svg",
+            "translatable":{
+                "de":{
+                    "name":"Kinderwagenabstellplatz",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Kinderwagenabstellplatz",
+                    "label_1":"Familienzone",
+                    "background_image_alt":"Mutter mit Kinderwagen und Kind",
+                    "icon_alt":"Kinderwagen Icon"
+                },
+                "en":{
+                    "name":"Kinderwagenabstellplatz",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Pushchair parking space",
+                    "label_1":"Family zone",
+                    "background_image_alt":"Mother with baby carriage and child ",
+                    "icon_alt":"Icon baby carriage"
+                }
+            },
+            "created_at":"2024-12-06 16:17:50",
+            "updated_at":"2025-06-25 15:00:45",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":6,
+            "image":"\/assets\/uploads\/services\/Railjet_Fahrradabteil_c_OEBB_Wegscheider.png",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Neu 2024\/Fahrrad_H40px_7D7D7D.svg",
+            "translatable":{
+                "de":{
+                    "name":"Fahrradpl\u00e4tze RG",
+                    "type_1":"icon",
+                    "type_2":"text",
+                    "label_1":"Fahrradmitnahme",
+                    "weight_2":"normal",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "body_2":"5",
+                    "label_2":"Abstellpl\u00e4tze",
+                    "background_image_alt":"Zwei Fahrr\u00e4der aufgehangen an Vorrichtung im Railjet ",
+                    "icon_alt":"Fahrrad Icon"
+                },
+                "en":{
+                    "name":"Fahrradpl\u00e4tze RG",
+                    "type_1":"icon",
+                    "label_1":"Bicycle transport",
+                    "type_2":"text",
+                    "weight_2":"normal",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "body_2":"5",
+                    "label_2":"Parking spaces",
+                    "background_image_alt":"Two bicycles hanging on a hook in the Railjet ",
+                    "icon_alt":"Bicycle icon "
+                }
+            },
+            "created_at":"2024-12-10 15:24:34",
+            "updated_at":"2025-06-25 15:04:08",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":7,
+            "image":"\/assets\/uploads\/services\/Storycard_0013_2Klasse02.png",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"Multifunktionstische",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Multifunktionstische",
+                    "label_1":"Ausstattung",
+                    "background_image_alt":"Multifunktionstisch im Railjet mit Laptop und Unterlagen  "
+                },
+                "en":{
+                    "name":"Multifunktionstische",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Multifunctional tables",
+                    "label_1":"Equipment",
+                    "background_image_alt":"Multifunctional table in railjet with laptop and documents"
+                }
+            },
+            "created_at":"2024-12-11 10:18:39",
+            "updated_at":"2025-06-25 15:04:36",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":8,
+            "image":"\/assets\/uploads\/services\/allg. neu\/\u00d6BB_railjet_Gep\u00e4ckablage_(c)ZdjelarDijana_01.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"Gep\u00e4ckablagen",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Gro\u00dfz\u00fcgige Gep\u00e4ckablagen",
+                    "label_1":"Ausstattung",
+                    "background_image_alt":"Gep\u00e4ckablagen mit drei silbernen Koffern "
+                },
+                "en":{
+                    "name":"Gep\u00e4ckablagen",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Luggage racks",
+                    "label_1":"Equipment",
+                    "background_image_alt":"Luggage racks with three silver suitcases "
+                }
+            },
+            "created_at":"2024-12-11 10:20:35",
+            "updated_at":"2025-06-25 15:05:01",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":9,
+            "image":"\/assets\/uploads\/services\/_Q5L8894_Blindenhundeplatz.png",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"Blindenhundsitz",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Blindenhundsitz",
+                    "label_1":"Besonderheiten",
+                    "background_image_alt":"Vierer Sitzgruppe im Railjet "
+                },
+                "en":{
+                    "name":"Blindenhundsitz",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Guide Dog Seat",
+                    "label_1":"special features",
+                    "background_image_alt":"Group of four seats in the Railjet"
+                }
+            },
+            "created_at":"2024-12-11 10:22:58",
+            "updated_at":"2025-06-25 15:05:29",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":10,
+            "image":"\/assets\/uploads\/services\/RZ\/RZneu_0022_2Klasse_02_02.jpg",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Neu 2024\/Ruhezone_INFRA_H40px_7D7D7D.svg",
+            "translatable":{
+                "de":{
+                    "name":"Ruhezone",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Entspannt reisen oder in Ruhe arbeiten",
+                    "label_1":"Ruhezone",
+                    "background_image_alt":"Fahrg\u00e4ste in der Ruhezone"
+                },
+                "en":{
+                    "name":"Ruhezone",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "label_1":"Quiet Zone",
+                    "link_type_1":null,
+                    "body_1":"Relaxed travelling or working in tranquillity",
+                    "background_image_alt":"Passengers in the quiet zone"
+                }
+            },
+            "created_at":"2024-12-11 15:08:38",
+            "updated_at":"2025-06-25 15:05:53",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":11,
+            "image":"\/assets\/uploads\/services\/RZ\/_R0A0297_(c)ZdjelarDijana-Spielregeln RZ_02.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"Ruhezone Spielregeln",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Spielregeln f\u00fcr eine funktionierende Ruhezone",
+                    "label_1":"Ruhezone",
+                    "background_image_alt":"Schild der Ruhezone Spielregeln mit Icons, die die Fahrg\u00e4ste auffordern ruhig zu sein, das Handy auf lautlos zu stellen und Kopfh\u00f6rer leise zu stellen "
+                },
+                "en":{
+                    "name":"Ruhezone Spielregeln",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "label_1":"Quiet zone",
+                    "body_1":"Rules for a functioning quiet zone",
+                    "background_image_alt":"Sign for the quiet zone Rules of the game with icons asking passengers to be quiet, put their cell phones on silent and turn down their headphones"
+                }
+            },
+            "created_at":"2024-12-11 15:20:42",
+            "updated_at":"2025-06-25 15:06:18",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":12,
+            "image":"\/assets\/uploads\/services\/DoNs\/Storycard_DoNs1.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"Bordrestaurant",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Mit Bar und 15 Sitzpl\u00e4tzen",
+                    "label_1":"Bordrestaurant",
+                    "weight_2":"normal",
+                    "size_2":"small",
+                    "link_type_2":"link",
+                    "body_2":"zum Download",
+                    "label_2":"Speisekarte",
+                    "background_image_alt":"Mann und Frau sitzen sich im Bordrestaurant gegen\u00fcber und fr\u00fchsticken "
+                },
+                "en":{
+                    "name":"Bordrestaurant",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"With 15 seats",
+                    "label_1":"On-board restaurant",
+                    "background_image_alt":"Man and woman sitting opposite each other in the on-board restaurant and having breakfast "
+                }
+            },
+            "created_at":"2024-12-11 15:22:40",
+            "updated_at":"2025-06-25 15:06:44",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":13,
+            "image":"\/assets\/uploads\/services\/DoNs\/Storycard_DoNs2.jpg",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Neu 2024\/Restaurant_H40px_7D7D7D.svg",
+            "translatable":{
+                "de":{
+                    "name":"Bordrestaurant 2",
+                    "type_1":"icon",
+                    "type_2":"text",
+                    "label_1":"Boardrestaurant",
+                    "weight_2":"normal",
+                    "size_2":"small",
+                    "link_type_2":"link",
+                    "body_2":"Link zum Men\u00fc",
+                    "label_2":"Speisekarte",
+                    "link_2":"https:\/\/bistro.dons.travel\/",
+                    "body_1":"mit 15 Pl\u00e4tzen ",
+                    "background_image_alt":"Mann und Frau sitzen im Bordrestaurant und bekommen Fr\u00fchst\u00fcck serviert",
+                    "icon_alt":"Gekreuztes Messer und Gabel Icon "
+                },
+                "en":{
+                    "name":"Bordrestaurant 2",
+                    "type_1":"icon",
+                    "label_1":"board restaurant",
+                    "type_2":"text",
+                    "weight_2":"normal",
+                    "size_2":"small",
+                    "link_type_2":"link",
+                    "label_2":"Menu",
+                    "body_2":"Link to menu",
+                    "link_2":"https:\/\/bistro.dons.travel\/",
+                    "background_image_alt":"Man and woman sitting in the on-board restaurant and being served breakfast ",
+                    "icon_alt":"Crossed knife and fork icon"
+                }
+            },
+            "created_at":"2024-12-11 15:28:50",
+            "updated_at":"2025-06-25 15:07:28",
+            "show_icon_on_image":false,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":14,
+            "image":"\/assets\/uploads\/services\/_L3C6601_02_Rollstuhlplatz neu.jpg",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Neu 2024\/Rollstuhl_H40px_7D7D7D.svg",
+            "translatable":{
+                "de":{
+                    "name":"Rollstuhlplatz 1.Klasse",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Rollstuhplatz in der 1.Klasse",
+                    "label_1":"Besonderheiten",
+                    "background_image_alt":"Rollstuhlfahrer sitzt am Rollstuhlplatz in 1. Klasse und schaut aus dem Fenster des Railjets",
+                    "icon_alt":"Rollstuhl Icon "
+                },
+                "en":{
+                    "name":"Rollstuhlplatz 1.Klasse",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Wheelchair Space in 1.Class",
+                    "label_1":"Special features",
+                    "type_2":"icon",
+                    "background_image_alt":"Wheelchair user sitting at the wheelchair seat in 1st class and looking out of the window of the Railjet ",
+                    "icon_alt":"Wheelchair icon"
+                }
+            },
+            "created_at":"2024-12-11 15:31:00",
+            "updated_at":"2025-06-25 15:08:48",
+            "show_icon_on_image":false,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":15,
+            "image":"\/assets\/uploads\/services\/o\u0302BB-railjet-first_Tisch-Kaffee.png",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"Ledersitze",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Individuell verstellbare Ledersitze, angenehme Beinfreiheit, Steckdose an jedem Platz",
+                    "label_1":"Ausstattung",
+                    "background_image_alt":"Zwei Ledersitze im Railjet mit einer Tasse Kaffee auf dem Klapptisch "
+                },
+                "en":{
+                    "name":"Ledersitze",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Individually adjustable leather seats, comfortable legroom, power sockets at every seat",
+                    "label_1":"Equipment",
+                    "background_image_alt":"Two leather seats in the Railjet with a cup of coffee on the folding table "
+                }
+            },
+            "created_at":"2024-12-11 15:33:23",
+            "updated_at":"2025-06-25 15:09:13",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":16,
+            "image":"\/assets\/uploads\/services\/DoNs\/Storycard_DoNs3.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"Bordservice",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Am Platz-Service: Speisen und Getr\u00e4nke werden serviert",
+                    "label_1":"Besonderheiten",
+                    "background_image_alt":"DONs Mitarbeiterin serviert einen Paar Essen in der 1. Klasse "
+                },
+                "en":{
+                    "name":"Bordservice",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"At-Seat Service: Food and drinks are served",
+                    "label_1":"Special features",
+                    "background_image_alt":"DON's employee serving a couple meals in 1st class"
+                }
+            },
+            "created_at":"2024-12-11 15:37:12",
+            "updated_at":"2025-06-25 15:09:38",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":17,
+            "image":"\/assets\/uploads\/zugleisten\/DANI\/DANI Komfortsitze.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"Komfortsitze mit Klapptisch und Ladefunktion",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Komfortsitze mit Klapptisch und Ladefunktion",
+                    "label_1":"Ausstattung",
+                    "background_image_alt":"Sitzr\u00fcckseite mit ausgeklapptem Klapptisch und Ladefunktion"
+                },
+                "en":{
+                    "name":"Comfort seats with folding table and loading function",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Comfort seats with folding table and loading function",
+                    "label_1":"Equipment",
+                    "background_image_alt":"Seat back with fold-out folding table and charging function"
+                }
+            },
+            "created_at":"2024-12-11 17:31:15",
+            "updated_at":"2025-06-25 15:10:05",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":18,
+            "image":"\/assets\/uploads\/zugleisten\/DANI\/Dani Gep\u00e4cksicherung.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"Gep\u00e4ckablagen mit NFC Gep\u00e4cksicherung",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Gep\u00e4ckablagen mit NFC Gep\u00e4cksicherung",
+                    "label_1":"Ausstattung",
+                    "background_image_alt":"Koffer liegt in Gep\u00e4ckablage und ist mit einem Kabel gesichert "
+                },
+                "en":{
+                    "name":"Luggage racks with NFC luggage security",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Luggage racks with NFC luggage security",
+                    "label_1":"Equipment",
+                    "background_image_alt":"Suitcase lies in luggage rack and is secured with a cable "
+                }
+            },
+            "created_at":"2025-01-03 11:02:33",
+            "updated_at":"2025-06-25 15:10:33",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":19,
+            "image":"\/assets\/uploads\/zugleisten\/DANI\/Abteil Familie.jpg",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Smiley_Family_2.png",
+            "translatable":{
+                "de":{
+                    "name":"Familienzone Abteile",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Abteile",
+                    "label_1":"Familienzone",
+                    "background_image_alt":"Familie mit zwei Kindern sitzt in einem Familienabteil und spielt ein Spiel"
+                },
+                "en":{
+                    "name":"Familienzone Abteile",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Compartments",
+                    "label_1":"Family Zone",
+                    "background_image_alt":"Family with two children sitting in a family compartment playing a game "
+                }
+            },
+            "created_at":"2025-01-03 11:06:01",
+            "updated_at":"2025-06-25 15:10:57",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":20,
+            "image":"\/assets\/uploads\/zugleisten\/DANI\/Automat.jpg",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Neu 2024\/Snackautomat_H40px_7D7D7D.svg",
+            "translatable":{
+                "de":{
+                    "name":"Automat",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Automat",
+                    "label_1":"Ausstattung",
+                    "background_image_alt":"Mann steht vor einem Getr\u00e4nkeautomaten und w\u00e4hlt etwas  ",
+                    "icon_alt":"Getr\u00e4nk und Burger Icon"
+                },
+                "en":{
+                    "name":"Automat",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Vending machine",
+                    "label_1":"Equipment",
+                    "background_image_alt":"Man stands in front of a drinks machine and selects a drink ",
+                    "icon_alt":"Drink and burger icon"
+                }
+            },
+            "created_at":"2025-01-03 11:08:48",
+            "updated_at":"2025-06-25 15:11:37",
+            "show_icon_on_image":false,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":21,
+            "image":"\/assets\/uploads\/zugleisten\/DANI\/Fahrradstellplatz.jpg",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Neu 2024\/Fahrrad_H40px_7D7D7D.svg",
+            "translatable":{
+                "de":{
+                    "name":"Fahrradmitnahme 6 Pl\u00e4tze",
+                    "type_1":"icon",
+                    "type_2":"text",
+                    "label_2":"Abstellpl\u00e4tze",
+                    "label_1":"Fahrradmitnahme",
+                    "weight_2":"normal",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "body_2":"6",
+                    "background_image_alt":"Fahrrad steht im Multifunktionsbereich des Railjets ",
+                    "icon_alt":"Fahrrad Icon "
+                },
+                "en":{
+                    "name":"Fahrradmitnahme 6 Pl\u00e4tze",
+                    "type_1":"icon",
+                    "type_2":"text",
+                    "label_1":"Bicycle transport",
+                    "weight_2":"normal",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "body_2":"6",
+                    "label_2":"Parking spaces",
+                    "background_image_alt":"Bicycle is parked in the multifunctional area of the Railjet ",
+                    "icon_alt":"Bicycle icon "
+                }
+            },
+            "created_at":"2025-01-03 11:10:57",
+            "updated_at":"2025-06-25 15:12:25",
+            "show_icon_on_image":false,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":22,
+            "image":"\/assets\/uploads\/zugleisten\/Nightjet\/NJ Skihalterung  3.jpg",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Zugleiste 2023\/Ski_H40px_7D7D7D.svg",
+            "translatable":{
+                "de":{
+                    "name":"Skihalterung separat",
+                    "type_1":"icon",
+                    "label_1":"Skihalterung",
+                    "background_image_alt":"Skihalterung im Railjet ",
+                    "icon_alt":"Ski Icon"
+                },
+                "en":{
+                    "name":"Skihalterung separat",
+                    "type_1":"icon",
+                    "label_1":"Ski rack",
+                    "background_image_alt":"Ski holder in the Railjet ",
+                    "icon_alt":"Ski icon "
+                }
+            },
+            "created_at":"2025-01-03 15:37:57",
+            "updated_at":"2025-06-25 15:13:03",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":23,
+            "image":"\/assets\/uploads\/zugleisten\/DANI\/Dani Rollstuhlpl\u00e4tze.png",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Neu 2024\/Rollstuhl_H40px_7D7D7D.svg",
+            "translatable":{
+                "de":{
+                    "name":"3 Rollstuhlpl\u00e4tze",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"3 Rollstuhl-stellpl\u00e4tze",
+                    "label_1":"Besonderheiten",
+                    "background_image_alt":"Rollstuhlbereich im Railjet ",
+                    "icon_alt":"Rollstuhl Icon "
+                },
+                "en":{
+                    "name":"3 Rollstuhlpl\u00e4tze",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"3 wheelchair spaces",
+                    "label_1":"Special features",
+                    "background_image_alt":"Wheelchair area in the Railjet ",
+                    "icon_alt":"Wheelchair icon "
+                }
+            },
+            "created_at":"2025-01-03 15:40:07",
+            "updated_at":"2025-06-25 15:13:57",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":24,
+            "image":"\/assets\/uploads\/zugleisten\/Nightjet\/PRM WC.jpg",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Neu 2024\/Rollstuhl_H40px_7D7D7D.svg",
+            "translatable":{
+                "de":{
+                    "name":"PRM WC",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Universal WC",
+                    "label_1":"Besonderheiten",
+                    "background_image_alt":"Universal WC mit Piktogramm eines Rollstuhlfahrers auf der T\u00fcr ",
+                    "icon_alt":"Rollstuhl Icon "
+                },
+                "en":{
+                    "name":"PRM WC",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Universal Toilet",
+                    "label_1":"Special features",
+                    "type_2":"icon",
+                    "background_image_alt":"Universal WC with pictogram of a wheelchair user on the door ",
+                    "icon_alt":"Wheelchair icon"
+                }
+            },
+            "created_at":"2025-01-03 15:41:51",
+            "updated_at":"2025-06-25 15:14:43",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":25,
+            "image":"\/assets\/uploads\/zugleisten\/DANI\/Defi.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"DEFI",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Defibrillator",
+                    "label_1":"Besonderheiten",
+                    "background_image_alt":"Gr\u00fcner Defibrillator neben einer T\u00fcr mit Fluchtweg-Symbol im Railjet "
+                },
+                "en":{
+                    "name":"DEFI",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Defibrillator",
+                    "label_1":"Special features",
+                    "background_image_alt":"Green defibrillator next to a door with escape route symbol in the Railjet"
+                }
+            },
+            "created_at":"2025-01-03 15:43:34",
+            "updated_at":"2025-06-25 15:15:08",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":26,
+            "image":"\/assets\/uploads\/zugleisten\/DANI\/Dani Restaurant.jpg",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Neu 2024\/Restaurant_H40px_7D7D7D.svg",
+            "translatable":{
+                "de":{
+                    "name":"Bordrestaurant mit 12 Pl\u00e4tzen neu",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Mit 12 Sitzpl\u00e4tzen",
+                    "label_1":"Bordrestaurant",
+                    "weight_2":"normal",
+                    "size_2":"small",
+                    "link_type_2":"link",
+                    "body_2":"Jetzt ansehen",
+                    "label_2":"Speisekarte",
+                    "link_2":"https:\/\/bistro.dons.travel\/",
+                    "background_image_alt":"Bordrestaurant im Railjet "
+                },
+                "en":{
+                    "name":"Bordrestaurant mit 12 Pl\u00e4tzen neu",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"With 12 seats\n",
+                    "label_1":"On-board restaurant",
+                    "weight_2":"normal",
+                    "size_2":"small",
+                    "link_type_2":"link",
+                    "body_2":"View now",
+                    "label_2":"Menu",
+                    "link_2":"https:\/\/bistro.dons.travel\/",
+                    "background_image_alt":"On-board restaurant in the Railjet "
+                }
+            },
+            "created_at":"2025-01-03 15:45:16",
+            "updated_at":"2025-06-25 15:15:33",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":27,
+            "image":"\/assets\/uploads\/zugleisten\/DANI\/Zugbegleiter.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"Zugbegleiter:innenabteil",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Zugbegleiter:innenabteil",
+                    "label_1":"Ausstattung",
+                    "background_image_alt":"Zugbegleiter steht im Gang des Railjets "
+                },
+                "en":{
+                    "name":"Zugbegleiter:innenabteil",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Train attendant compartment",
+                    "label_1":"Equipment",
+                    "background_image_alt":"Train attendant standing in the aisle of the Railjet "
+                }
+            },
+            "created_at":"2025-01-03 15:47:19",
+            "updated_at":"2025-06-25 15:16:05",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":28,
+            "image":"\/assets\/uploads\/zugleisten\/DANI\/Dani Multifunktionstische.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"Multifunktionstische Dani neu",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Multifunktionstische",
+                    "label_1":"Ausstattung",
+                    "background_image_alt":"Mann und Frau sitzen an einem Multifunktionstisch und lesen gemeinsam ein Buch"
+                },
+                "en":{
+                    "name":"Multifunktionstische Dani neu",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Multifunctional tables",
+                    "label_1":"Equipment",
+                    "background_image_alt":"Man and woman sitting at a multifunctional table reading a book together "
+                }
+            },
+            "created_at":"2025-01-03 16:13:58",
+            "updated_at":"2025-06-25 15:16:30",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":29,
+            "image":"\/assets\/uploads\/zugleisten\/DANI\/Dani Raised Seating.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"Raised Seating Dani neu",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Raised Seating",
+                    "label_1":"Ausstattung",
+                    "background_image_alt":"Koffer liegt unter erh\u00f6htem Sitz"
+                },
+                "en":{
+                    "name":"Raised Seating Dani neu",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Raised Seating",
+                    "label_1":"Equipment",
+                    "background_image_alt":"Suitcase lying under a raised seat "
+                }
+            },
+            "created_at":"2025-01-03 16:15:30",
+            "updated_at":"2025-06-25 15:17:19",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":30,
+            "image":"\/assets\/uploads\/zugleisten\/DANI\/Ruhezone 2. Klasse.jpg",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Neu 2024\/Ruhezone_INFRA_H40px_7D7D7D.svg",
+            "translatable":{
+                "de":{
+                    "name":"DANI Neu Ruhezone",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Entspannt reisen oder in Ruhe arbeiten",
+                    "label_1":"Ruhezone",
+                    "background_image_alt":"Frau sitzt in der Ruhezone des Railjets und schaut aus dem Fenster "
+                },
+                "en":{
+                    "name":"DANI Neu Ruhezone",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Relaxed travelling or working in tranquillity",
+                    "label_1":"Quiet zone",
+                    "background_image_alt":"Woman sitting in the rest area of the Railjet and looking out of the window"
+                }
+            },
+            "created_at":"2025-01-03 16:17:01",
+            "updated_at":"2025-06-25 15:17:42",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":31,
+            "image":"\/assets\/uploads\/zugleisten\/DANI\/Dani Gro\u00dfraum (2).jpg",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Neu 2024\/Sitzwagen_H40px_7D7D7D.svg",
+            "translatable":{
+                "de":{
+                    "name":"Gro\u00dfraum Dani neu",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Gro\u00dfraum",
+                    "label_1":"Ausstattung",
+                    "background_image_alt":"Gro\u00dfraumbereich des Railjets mit Sitzreihen und Multifunktionstischen ",
+                    "icon_alt":"Sitz Icon "
+                },
+                "en":{
+                    "name":"Gro\u00dfraum Dani neu",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Open-plan",
+                    "label_1":"Equipment",
+                    "background_image_alt":"Open-plan area of the Railjet with rows of seats and multifunctional tables ",
+                    "icon_alt":"Seat Icon"
+                }
+            },
+            "created_at":"2025-01-03 16:19:05",
+            "updated_at":"2025-06-25 15:18:25",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":32,
+            "image":"\/assets\/uploads\/zugleisten\/Nightjet\/Kinderwagenabstellplatz DANI.png",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Neu 2024\/Kinderwagen_H40px_7D7D7D.svg",
+            "translatable":{
+                "de":{
+                    "name":"Kinderwagenabstellplatz DANI",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Kinderwagenabstellplatz integriert im Gep\u00e4ckrack ",
+                    "label_1":"Familienzone",
+                    "background_image_alt":"Kinderwagenabstellplatz in dem ein Koffer gelagert ist",
+                    "icon_alt":"Kinderwagen Icon "
+                },
+                "en":{
+                    "name":"Kinderwagenabstellplatz DANI",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Pushchair parking space integrated in luggage rack",
+                    "label_1":"Family Zone",
+                    "background_image_alt":"Baby carriage storage area where a suitcase is stored ",
+                    "icon_alt":"Baby carriage icon "
+                }
+            },
+            "created_at":"2025-01-03 16:20:52",
+            "updated_at":"2025-06-25 15:19:04",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":33,
+            "image":"\/assets\/uploads\/zugleisten\/DANI\/First Class.png",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"1. Klasse Gro\u00dfraum",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Gro\u00dfraum",
+                    "label_1":"Ausstattung",
+                    "background_image_alt":"Frau sitzt mit einem Kaffee in  der 1. Klasse und schaut aus dem Fenster auf einen See "
+                },
+                "en":{
+                    "name":"1. Klasse Gro\u00dfraum",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Open-plan",
+                    "label_1":"Equipment",
+                    "background_image_alt":"Woman sitting in 1st class with a coffee and looking out of the window at a lake "
+                }
+            },
+            "created_at":"2025-01-03 16:23:52",
+            "updated_at":"2025-06-25 15:19:32",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":34,
+            "image":"\/assets\/uploads\/zugleisten\/DANI\/Abteil Business Class.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"Abteile Business Class",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Abteile",
+                    "label_1":"Business Class",
+                    "background_image_alt":"Mann und Frau sitzen in einem Business Class Abteil und lesen beide am Tablet und Handy "
+                },
+                "en":{
+                    "name":"Abteile Business Class",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Compartments",
+                    "label_1":"Business Class",
+                    "background_image_alt":"Man and woman sitting in a Business Class compartment, both reading on a tablet and cell phone "
+                }
+            },
+            "created_at":"2025-01-03 16:24:49",
+            "updated_at":"2025-06-25 15:20:05",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":35,
+            "image":"\/assets\/uploads\/zugleisten\/DANI\/Dani Abteile.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"2. Klasse Abteile",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Abteile",
+                    "label_1":"2. Klasse",
+                    "background_image_alt":"2. Klasse Abteil des Railjets"
+                },
+                "en":{
+                    "name":"2. Klasse Abteile",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Compartments",
+                    "label_1":"2. Class",
+                    "background_image_alt":"2nd class compartment of the Railjet "
+                }
+            },
+            "created_at":"2025-01-03 16:25:44",
+            "updated_at":"2025-06-25 15:20:36",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":36,
+            "image":"\/assets\/uploads\/zugleisten\/DANI\/NJ Lok.png",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"NJ Lok",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"normal",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"Taurus",
+                    "label_1":"Lok",
+                    "weight_2":"normal",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "body_2":"8.700",
+                    "label_2":"Leistung in PS",
+                    "background_image_alt":"Nightjet Lok f\u00e4hrt \u00fcber Gleise bei abendlicher Stimmung "
+                },
+                "en":{
+                    "name":"NJ Lok",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"normal",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"Taurus",
+                    "label_1":"Locomotive",
+                    "weight_2":"normal",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "body_2":"8700",
+                    "label_2":"Power in hp",
+                    "background_image_alt":"Nightjet locomotive runs over tracks in the evening atmosphere "
+                }
+            },
+            "created_at":"2025-01-08 07:49:29",
+            "updated_at":"2025-06-25 15:21:02",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":37,
+            "image":"\/assets\/uploads\/zugleisten\/DANI\/NJ Speed.png",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"NJ Speed",
+                    "type_1":"text",
+                    "type_2":"speed",
+                    "weight_1":"normal",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":" 230 km\/h",
+                    "label_1":"Top Speed",
+                    "weight_2":"normal",
+                    "size_2":"large",
+                    "label_2":"Aktuelle Geschwindigkeit",
+                    "background_image_alt":"Nightjet f\u00e4hrt durch Schneelandschaft mit Bergen im Hintergrund "
+                },
+                "en":{
+                    "name":"NJ Speed",
+                    "type_1":"text",
+                    "type_2":"speed",
+                    "weight_1":"normal",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"230 km\/h",
+                    "label_1":"Top Speed",
+                    "weight_2":"normal",
+                    "size_2":"large",
+                    "label_2":"Current Speed",
+                    "background_image_alt":"Nightjet travels through a snowy landscape with mountains in the background "
+                }
+            },
+            "created_at":"2025-01-08 07:51:12",
+            "updated_at":"2025-06-25 15:21:26",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":38,
+            "image":"\/assets\/uploads\/zugleisten\/DANI\/Dani RIS.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"RIS",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Reisendeninformationssystem",
+                    "label_1":"Ausstattung",
+                    "background_image_alt":"Bildschirm mit Fahrgastinformationen im Gro\u00dfraum"
+                },
+                "en":{
+                    "name":"RIS",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Passenger information system",
+                    "label_1":"Equipment",
+                    "background_image_alt":"Screen with passenger information in the open-plan area"
+                }
+            },
+            "created_at":"2025-01-08 07:52:58",
+            "updated_at":"2025-06-25 15:21:53",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":39,
+            "image":"\/assets\/uploads\/zugleisten\/DANI\/DANI Wlan Gro\u00dfraum.png",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"WLAN",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"WLAN",
+                    "label_1":"Ausstattung",
+                    "background_image_alt":"Frau sitzt im Gro\u00dfraumbereich und surft mit ihrem Handy "
+                },
+                "en":{
+                    "name":"WLAN",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"WIFI",
+                    "label_1":"Equipment",
+                    "background_image_alt":"Woman sitting in the open-plan area and surfing on her cell phone"
+                }
+            },
+            "created_at":"2025-01-08 07:54:34",
+            "updated_at":"2025-06-25 15:22:20",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":40,
+            "image":"\/assets\/uploads\/zugleisten\/Nightjet\/Nj Liegewagen Abteil f\u00fcr Rollstuhlfahrerinnen und Begleitperson.jpg",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Neu 2024\/liegewagen_H40px_7D7D7D.svg",
+            "translatable":{
+                "de":{
+                    "name":"Liegewagen Abteil f\u00fcr Rollstuhlfahrer:innen und Begleitpersonen",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Liegewagen Abteil f\u00fcr Rollstuhlfahrer:innen und Begleitpersonen",
+                    "label_1":"Abteil barrierefrei comfort",
+                    "background_image_alt":"Liegewagenabteil f\u00fcr Rollstuhlfahrer:innen und Begleitpersonen mit Hochbett, Klappsitz und Klapptisch"
+                },
+                "en":{
+                    "name":"Liegewagen Abteil f\u00fcr Rollstuhlfahrer:innen und Begleitpersonen",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Couchette compartment for wheelchair users and accompanying persons",
+                    "label_1":"Barrier-free compartment comfort",
+                    "background_image_alt":"Couchette compartment for wheelchair users and accompanying persons with bunk bed, folding seat and folding table"
+                }
+            },
+            "created_at":"2025-01-08 07:55:41",
+            "updated_at":"2025-06-25 15:22:51",
+            "show_icon_on_image":false,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":41,
+            "image":"\/assets\/uploads\/zugleisten\/Nightjet\/NJ Mini Cabin.jpg",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Neu 2024\/liegewagen_H40px_7D7D7D.svg",
+            "translatable":{
+                "de":{
+                    "name":"Mini Cabin",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Neue innovative Schlafkapseln im Liegewagen f\u00fcr Alleinreisende ",
+                    "label_1":"Mini Cabin",
+                    "background_image_alt":"Mini Cabin mit Gep\u00e4ckf\u00e4chern und Bettzeug"
+                },
+                "en":{
+                    "name":"Mini Cabin",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"New innovative sleeping pods in couchette carriages for solo travellers ",
+                    "label_1":"Mini Cabin",
+                    "background_image_alt":"Mini cabin with luggage compartments and bedding"
+                }
+            },
+            "created_at":"2025-01-08 07:58:16",
+            "updated_at":"2025-06-25 15:23:17",
+            "show_icon_on_image":false,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":42,
+            "image":"\/assets\/uploads\/zugleisten\/Nightjet\/NJ 4er Abteil.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"NJ Liegewagen comfort",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"4er-Abteile f\u00fcr Familien &\nGruppen",
+                    "label_1":"Liegewagen comfort",
+                    "weight_2":"normal",
+                    "size_2":"small",
+                    "link_type_2":null,
+                    "body_2":"Kinderbett und Absturzsicherung\nje Bett",
+                    "label_2":"Option",
+                    "background_image_alt":"Drei Personen liegen im Liegewagen, lachen und zeigen sich etwas am Handy "
+                },
+                "en":{
+                    "name":"NJ Liegewagen comfort",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"4-berth compartments for families & groups",
+                    "label_1":"Couchette car comfort",
+                    "weight_2":"normal",
+                    "size_2":"small",
+                    "link_type_2":null,
+                    "body_2":"Cot and guard rail\nper bed",
+                    "label_2":"Options",
+                    "background_image_alt":"Three people lying in the couchette car, laughing and showing each other something on a cell phone"
+                }
+            },
+            "created_at":"2025-01-08 08:00:16",
+            "updated_at":"2025-06-25 15:23:42",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":43,
+            "image":"\/assets\/uploads\/zugleisten\/Nightjet\/NJ Zwei Toiletten.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"2 Toiletten",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Zwei Toiletten ",
+                    "label_1":"Ausstattung",
+                    "background_image_alt":"Toilette mit Waschbecken und Spiegel "
+                },
+                "en":{
+                    "name":"2 Toiletten",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Two toilets",
+                    "label_1":"Equipment",
+                    "background_image_alt":"Toilet with washbasin and mirror"
+                }
+            },
+            "created_at":"2025-01-08 08:01:45",
+            "updated_at":"2025-06-25 15:24:07",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":44,
+            "image":"\/assets\/uploads\/zugleisten\/Nightjet\/Waschraum.png",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"1 Waschraum",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Waschraum",
+                    "label_1":"Ausstattung",
+                    "background_image_alt":"Waschbecken und Spiegel "
+                },
+                "en":{
+                    "name":"1 Waschraum",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Bathroom",
+                    "label_1":"Equipment",
+                    "background_image_alt":"Washbasin and mirror "
+                }
+            },
+            "created_at":"2025-01-08 08:05:51",
+            "updated_at":"2025-06-25 15:24:39",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":45,
+            "image":"\/assets\/uploads\/zugleisten\/Nightjet\/NJ NFC Zutrittssystem.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"NFC Zutrittssystem",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"NFC Zutrittssystem",
+                    "label_1":"Besonderheiten",
+                    "background_image_alt":"Ein Mann h\u00e4lt NFC-Zutrittskarte an das Leseger\u00e4t vor der Mini Cabin "
+                },
+                "en":{
+                    "name":"NFC Zutrittssystem",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"NFC access system",
+                    "label_1":"special features",
+                    "background_image_alt":"A man holds an NFC access card to the reader in front of the Mini Cabin "
+                }
+            },
+            "created_at":"2025-01-08 08:08:21",
+            "updated_at":"2025-06-25 15:25:04",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":46,
+            "image":"\/assets\/uploads\/zugleisten\/Nightjet\/NJ Gep\u00e4ck-Kapseln f\u00fcr gro\u00dfe Gep\u00e4ckst\u00fccke.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"NJ Gep\u00e4ck-Kapseln f\u00fcr gro\u00dfe Gep\u00e4ckst\u00fccke",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Je Mini Cabin zwei Gep\u00e4ckf\u00e4cher f\u00fcr Handgep\u00e4ckstrolleys und Schuhe",
+                    "label_1":"Ausstattung",
+                    "background_image_alt":"Ein Mann schaut in das Gep\u00e4ckfach vor der Mini Cabin"
+                },
+                "en":{
+                    "name":"NJ Gep\u00e4ck-Kapseln f\u00fcr gro\u00dfe Gep\u00e4ckst\u00fccke",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Two luggage capsules per Mini Cabin for hand luggage trolleys and shoes",
+                    "label_1":"Equipment",
+                    "background_image_alt":"A man looks into the luggage compartment in front of the Mini Cabin"
+                }
+            },
+            "created_at":"2025-01-08 08:09:50",
+            "updated_at":"2025-06-25 15:25:31",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":47,
+            "image":"\/assets\/uploads\/zugleisten\/Nightjet\/NJ Service Ruf.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"NJ Service Ruf",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Service Ruf f\u00fcr individuelle Bestellw\u00fcnsche",
+                    "label_1":"Ausstattung",
+                    "background_image_alt":"Bedienpanel mit verschiedenen Tasten"
+                },
+                "en":{
+                    "name":"NJ Service Ruf",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Service call for individual order requests",
+                    "label_1":"Special features",
+                    "background_image_alt":"Control panel with various buttons"
+                }
+            },
+            "created_at":"2025-01-08 08:12:13",
+            "updated_at":"2025-06-25 15:25:56",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":48,
+            "image":"\/assets\/uploads\/zugleisten\/Nightjet\/NJ Indivieduelle Lichteinstellung.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"NJ Individuelle Licht-, Lautst\u00e4rke- und Temperatursteuerung",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Individuelle Licht-, Lautst\u00e4rke- und Temperatursteuerung",
+                    "label_1":"Ausstattung",
+                    "background_image_alt":"Eine Person dr\u00fcckt einen Knopf auf dem Bedienpanel  "
+                },
+                "en":{
+                    "name":"NJ Individuelle Licht-, Lautst\u00e4rke- und Temperatursteuerung",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Individual light, volume and temperature control",
+                    "label_1":"Equipment",
+                    "background_image_alt":"A person presses a button on the control panel"
+                }
+            },
+            "created_at":"2025-01-08 08:14:11",
+            "updated_at":"2025-06-25 15:26:30",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":49,
+            "image":"\/assets\/uploads\/zugleisten\/Nightjet\/NJ Induktives Laden.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"NJ Induktives Laden",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Induktives Laden, Steckdosen, Leselicht, Tasche f\u00fcr Magazine etc.",
+                    "label_1":"Ausstattung",
+                    "background_image_alt":"Ausschnitt aus der Mini Cabin  "
+                },
+                "en":{
+                    "name":"NJ Induktives Laden",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Inductive charging, sockets, reading light, pocket for magazines etc.",
+                    "label_1":"Equipment",
+                    "background_image_alt":"Details of the Mini Cabin "
+                }
+            },
+            "created_at":"2025-01-08 08:16:17",
+            "updated_at":"2025-06-25 15:26:58",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":50,
+            "image":"\/assets\/uploads\/zugleisten\/Nightjet\/NJ Rollos und Tisch.png",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"NJ Rollos und flexibler Tisch Schlafwagen",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Rollos f\u00fcr Sonnenschutz und Verdunklung sowie flexibler Tisch",
+                    "label_1":"Ausstattung",
+                    "background_image_alt":"Mann und Frau sitzen im Liegewagen und fr\u00fchst\u00fccken am Tisch bei geschlossenem Rollo "
+                },
+                "en":{
+                    "name":"NJ Rollos und flexibler Tisch Schlafwagen",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Roller blinds for sun protection and blackout and flexible table",
+                    "label_1":"Equipment",
+                    "background_image_alt":"Man and woman sitting in the couchette car and having breakfast at the table with the blind closed "
+                }
+            },
+            "created_at":"2025-01-08 08:18:10",
+            "updated_at":"2025-06-25 15:27:22",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":51,
+            "image":"\/assets\/uploads\/zugleisten\/Nightjet\/NJ Sclhafwagencomfort plus.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"NJ Comfort Plus (inkl. Detail zu Dusche\/ Sanit\u00e4rbereich)",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Zwei fix montierte Betten und gem\u00fctliche Sitzm\u00f6glichkeiten ",
+                    "label_1":"Schlafwagen comfort plus",
+                    "background_image_alt":"Schlafwagen mit Bettzeug und Goodies am Tisch"
+                },
+                "en":{
+                    "name":"NJ Comfort Plus (inkl. Detail zu Dusche\/ Sanit\u00e4rbereich)",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Two fixed beds and cosy seating options ",
+                    "label_1":"Sleeping car comfort plus",
+                    "background_image_alt":"Sleeping car with bedding and goodies at the table"
+                }
+            },
+            "created_at":"2025-01-08 08:19:44",
+            "updated_at":"2025-06-25 15:27:48",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":52,
+            "image":"\/assets\/uploads\/zugleisten\/Nightjet\/NJ Badezimmer Comfort Plus.png",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"NJ Badezimmer Comfort Plus",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Privater Sanit\u00e4rbereich mit WC und abgetrennter Dusche",
+                    "label_1":"Schlafwagen Comfort Plus",
+                    "background_image_alt":"Badezimmer mit Dusche Waschbecken und Spiegel "
+                },
+                "en":{
+                    "name":"NJ Badezimmer Comfort Plus",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Private sanitary area with WC and separate shower",
+                    "label_1":"Sleeping car comfort plus",
+                    "background_image_alt":"Bathroom with shower, washbasin and mirror"
+                }
+            },
+            "created_at":"2025-01-08 08:22:03",
+            "updated_at":"2025-06-25 15:28:11",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":53,
+            "image":"\/assets\/uploads\/zugleisten\/Nightjet\/NJ Badezimmer Comfort.png",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"NJ Badezimmer Comfort",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Privater Sanit\u00e4rbereich mit WC und Duschm\u00f6glichkeit",
+                    "label_1":"Schlafwagen Comfort ",
+                    "background_image_alt":"Badezimmer mit WC und Waschbecken"
+                },
+                "en":{
+                    "name":"NJ Badezimmer Comfort",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Private sanitary area with WC and shower facilities",
+                    "label_1":"Sleeping car comfort",
+                    "background_image_alt":"Bathroom with WC and washbasin"
+                }
+            },
+            "created_at":"2025-01-08 08:23:17",
+            "updated_at":"2025-06-25 15:28:38",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":54,
+            "image":"\/assets\/uploads\/zugleisten\/Nightjet\/NJ Garderobenschrank.png",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"Nj Garderobenschrank beim Comfort Plus Abteil",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Garderobenschrank",
+                    "label_1":"Schlafwagen Comfort Plus",
+                    "background_image_alt":"Schlafwagen mit Garderobenschrank, Tisch und Stockbett "
+                },
+                "en":{
+                    "name":"Nj Garderobenschrank beim Comfort Plus Abteil",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Wardrobe",
+                    "label_1":"Sleeping car comfort plus",
+                    "background_image_alt":"Sleeping car with wardrobe, table and bunk bed "
+                }
+            },
+            "created_at":"2025-01-08 08:25:14",
+            "updated_at":"2025-06-25 15:29:03",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":55,
+            "image":"\/assets\/uploads\/zugleisten\/Nightjet\/NJ Schlafwagen comfort.jpg",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Neu 2024\/Schlafwagen_H40px_7D7D7D.svg",
+            "translatable":{
+                "de":{
+                    "name":"NJ Comfort (inkl. Detail zu Dusche\/ Sanit\u00e4rbereich)",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Zwei fix montierte Betten und gem\u00fctliche Sitzm\u00f6glichkeiten ",
+                    "label_1":"Schlafwagen Comfort ",
+                    "background_image_alt":"Schlafwagen mit Stockbett, Bettzeug und Goodies "
+                },
+                "en":{
+                    "name":"NJ Comfort (inkl. Detail zu Dusche\/ Sanit\u00e4rbereich)",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Two fixed beds and cosy seating options ",
+                    "label_1":"Sleeping car comfort",
+                    "background_image_alt":"Sleeping car with bunk bed, bedding and goodies"
+                }
+            },
+            "created_at":"2025-01-08 08:28:47",
+            "updated_at":"2025-06-25 15:29:31",
+            "show_icon_on_image":false,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":56,
+            "image":"\/assets\/uploads\/services\/allg. neu\/_R0A1586_(c)HaraldEisenberger_Business Class_02.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"Business Class Sitzpl\u00e4tze",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"16 Sitzpl\u00e4tze",
+                    "label_1":"Business Class",
+                    "background_image_alt":"Mann sitzt in der Business Class und liest am Tablet"
+                },
+                "en":{
+                    "name":"Business Class Sitzpl\u00e4tze",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"16 seats",
+                    "label_1":"Business Class",
+                    "background_image_alt":"Man sitting in Business Class and reading on a tablet"
+                }
+            },
+            "created_at":"2025-01-08 13:20:52",
+            "updated_at":"2025-06-25 15:30:01",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":57,
+            "image":"\/assets\/uploads\/services\/FZ\/_R0A3517-Spieltische_02.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"Spieltische RG",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Spieltische",
+                    "label_1":"Familienzone",
+                    "weight_2":"normal",
+                    "size_2":"small",
+                    "link_type_2":null,
+                    "body_2":"Erh\u00e4ltlich bei den Zugbegleiter:innen",
+                    "label_2":"Spielsteine",
+                    "background_image_alt":"Spieltisch im Railjet "
+                },
+                "en":{
+                    "name":"Spieltische RG",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Gaming tables",
+                    "label_1":"Family Zone",
+                    "background_image_alt":"Games table in the Railjet "
+                }
+            },
+            "created_at":"2025-01-09 19:09:02",
+            "updated_at":"2025-06-25 15:30:23",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        }
+    ]
+}

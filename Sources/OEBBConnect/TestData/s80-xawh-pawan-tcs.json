@@ -1,0 +1,1841 @@
+// Source: https://railnetregio.oebb.at/api/v1/admin/train-carriage-services
+{
+    "total":44,
+    "per_page":"500",
+    "current_page":1,
+    "last_page":1,
+    "next_page_url":null,
+    "prev_page_url":null,
+    "from":1,
+    "to":44,
+    "data":[
+        {
+            "id":1,
+            "image":"\/assets\/uploads\/zugleisten\/desiroMl\/TriebwagenNEU.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"Triebwagen DML",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"normal",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"4744",
+                    "label_1":"Triebwagen",
+                    "weight_2":"normal",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "body_2":"3.500",
+                    "label_2":"LEISTUNG IN PS",
+                    "background_image_alt":"DML steht am Wiener Hauptbahnhof"
+                },
+                "en":{
+                    "name":"Triebwagen DML",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"normal",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"4744",
+                    "label_1":"Driving car",
+                    "weight_2":"normal",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "label_2":"Power in kw",
+                    "body_2":"3.500",
+                    "background_image_alt":"DML at Vienna Central Station"
+                }
+            },
+            "created_at":"2025-05-13 11:24:12",
+            "updated_at":"2025-06-26 20:20:53",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":2,
+            "image":"\/assets\/uploads\/zugleisten\/desiroMl\/TopSpeed_NEU.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"Speed DML",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"normal",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"160 km\/h",
+                    "label_1":"TOP SPEED",
+                    "weight_2":"normal",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "body_2":"258",
+                    "label_2":"SITZPL\u00c4TZE",
+                    "background_image_alt":"DML f\u00e4hrt in gr\u00fcner Landschaft"
+                },
+                "en":{
+                    "name":"Speed DML",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"normal",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"160 km\/h",
+                    "label_1":"TOP SPEED",
+                    "weight_2":"normal",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "label_2":"Seats",
+                    "body_2":"258",
+                    "background_image_alt":"DML travels through a green landscape"
+                }
+            },
+            "created_at":"2025-05-13 11:25:47",
+            "updated_at":"2025-06-26 20:21:31",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":3,
+            "image":"\/assets\/uploads\/zugleisten\/desiroMl\/Behinderten_WC.jpg",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Neu 2024\/Rollstuhl_H40px_7D7D7D.svg",
+            "translatable":{
+                "de":{
+                    "name":"Barrierefreies WC ",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Universal WC",
+                    "label_1":"Ausstattung",
+                    "background_image_alt":"Universal WC mit Rollstuhl Piktogramm auf der T\u00fcr",
+                    "icon_alt":"Rollstuhl Icon"
+                },
+                "en":{
+                    "name":"Barrierefreies WC ",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Barrier-free WC",
+                    "label_1":"Equipement",
+                    "background_image_alt":"Universal WC with wheelchair pictogram on the door",
+                    "icon_alt":"Wheelchair icon"
+                }
+            },
+            "created_at":"2025-05-13 11:27:24",
+            "updated_at":"2025-06-26 20:22:38",
+            "show_icon_on_image":false,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":4,
+            "image":"\/assets\/uploads\/zugleisten\/desiroMl\/Komfortsitze.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"Komfortsitz",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Verstellbare Komfortsitze",
+                    "label_1":"Ausstattung",
+                    "background_image_alt":"Nahaufnahme eines rot grauen Komfortsitzes mit \u00d6BB-Logo"
+                },
+                "en":{
+                    "name":"Komfortsitz",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"convenience seats",
+                    "label_1":"Equipment",
+                    "background_image_alt":"Close-up of a red and gray comfort seat with \u00d6BB logo"
+                }
+            },
+            "created_at":"2025-05-13 11:29:08",
+            "updated_at":"2025-06-26 20:23:24",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":5,
+            "image":"\/assets\/uploads\/zugleisten\/desiroMl\/Mehrzweckbereich.jpg",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Neu 2024\/Fahrrad_H40px_7D7D7D.svg",
+            "translatable":{
+                "de":{
+                    "name":"Mehrzweckbereich",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Mehrzweckbereich",
+                    "label_1":"Ausstattung",
+                    "background_image_alt":"Rennrad steht im Mehrzweckbereich",
+                    "icon_alt":"Fahrrad Icon"
+                },
+                "en":{
+                    "name":"Mehrzweckbereich",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"multipurpose area",
+                    "label_1":"Equipment",
+                    "background_image_alt":"Racing bike in the multi-purpose area",
+                    "icon_alt":"Bicycle icon"
+                }
+            },
+            "created_at":"2025-05-13 11:30:56",
+            "updated_at":"2025-06-26 20:24:20",
+            "show_icon_on_image":false,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":6,
+            "image":"\/assets\/uploads\/zugleisten\/desiroMl\/WLAN_eng.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"WLAN",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Gratis WLAN",
+                    "label_1":"BESONDERHEITEN",
+                    "background_image_alt":"Wlan Symbol mit Schriftzug free wifi auf schwarzem Hintergrund"
+                },
+                "en":{
+                    "name":"WLAN",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"free WIFI",
+                    "label_1":"special features",
+                    "background_image_alt":"Wifi symbol with the words free wifi on a black background"
+                }
+            },
+            "created_at":"2025-05-13 11:32:43",
+            "updated_at":"2025-06-26 20:25:10",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":7,
+            "image":"\/assets\/uploads\/zugleisten\/desiroMl\/Multifunktionstische_neu.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"Multifunktionstische neu",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Multifunktionstische und Steckdosen",
+                    "label_1":"BESONDERHEITEN",
+                    "background_image_alt":"Mann sitzt in vierter Sitzgruppe und schaut in seinen Laptop"
+                },
+                "en":{
+                    "name":"Multifunktionstische neu",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Multifunctional tables and power sockets",
+                    "label_1":"special features",
+                    "background_image_alt":"Man sitting in fourth seat group looking into his laptop"
+                }
+            },
+            "created_at":"2025-05-13 11:33:51",
+            "updated_at":"2025-06-26 20:26:24",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":8,
+            "image":"\/assets\/uploads\/zugleisten\/desiroMl\/FIS.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"FIS",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Die n\u00e4chsten Halte auf einen Blick",
+                    "label_1":"INFORMATION IM ZUG",
+                    "background_image_alt":"Monitor mit Fahrgastinformationen"
+                },
+                "en":{
+                    "name":"FIS",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"The next stops at a glance",
+                    "label_1":"Information on the train",
+                    "background_image_alt":"Monitor with passenger information"
+                }
+            },
+            "created_at":"2025-05-13 11:34:54",
+            "updated_at":"2025-06-26 20:27:06",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":9,
+            "image":"\/assets\/uploads\/zugleisten\/desiroMl\/small pics\/Niederflureinstieg.jpg",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Neu 2024\/Kinderwagen_H40px_7D7D7D.svg",
+            "translatable":{
+                "de":{
+                    "name":"Einstieg",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Barrierefreier Zustieg",
+                    "label_1":"EINSTIEG",
+                    "background_image_alt":"Nahaufnahme von Zugt\u00fcr mit kn\u00f6pfen und einem Kinderwagen und Fahrrad Piktogramm",
+                    "icon_alt":"Kinderwagen Icon"
+                },
+                "en":{
+                    "name":"Einstieg",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Barrier-free access",
+                    "label_1":"Access",
+                    "background_image_alt":"Close-up of train door with buttons and a baby carriage and bicycle pictogram",
+                    "icon_alt":"Baby carriage icon"
+                }
+            },
+            "created_at":"2025-05-13 11:35:53",
+            "updated_at":"2025-06-26 20:28:06",
+            "show_icon_on_image":false,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":10,
+            "image":"\/assets\/uploads\/zugleisten\/desiroMl\/TriebwagenNEU.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"Triebwagen DML 4746",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"normal",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"4746",
+                    "label_1":"TRIEBWAGEN",
+                    "weight_2":"normal",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "body_2":"3.500",
+                    "label_2":"LEISTUNG IN PS",
+                    "background_image_alt":"DML steht am Wiener Hauptbahnhof"
+                },
+                "en":{
+                    "name":"Triebwagen DML 4746",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"normal",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"4746",
+                    "label_1":"Driving car",
+                    "weight_2":"normal",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "label_2":"Power in kw",
+                    "body_2":"3.500",
+                    "background_image_alt":"DML stands at Vienna Central Station"
+                }
+            },
+            "created_at":"2025-05-13 11:37:28",
+            "updated_at":"2025-06-26 20:28:39",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":11,
+            "image":"\/assets\/uploads\/zugleisten\/desiroMl\/TopSpeed_NEU.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"Speed DML 4746",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"normal",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"160 km\/h",
+                    "label_1":"TOP SPEED",
+                    "weight_2":"normal",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "body_2":"240",
+                    "label_2":"Sitzpl\u00e4tze",
+                    "background_image_alt":"DML f\u00e4hrt in gr\u00fcner Landschaft"
+                },
+                "en":{
+                    "name":"Speed DML 4746",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"normal",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"160 km\/h",
+                    "label_1":"TOP SPEED",
+                    "weight_2":"normal",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "label_2":"Seats",
+                    "body_2":"240",
+                    "background_image_alt":"DML travels through a green landscape"
+                }
+            },
+            "created_at":"2025-05-13 11:46:32",
+            "updated_at":"2025-06-26 20:29:18",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":12,
+            "image":"\/assets\/uploads\/zugleisten\/talent1\/Triebwagen_talent1_v1.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"Triebwagen Talent1",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"normal",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"Talent 1",
+                    "label_1":"TRIEBWAGEN",
+                    "weight_2":"normal",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "body_2":"1.958",
+                    "label_2":"LEISTUNG IN PS",
+                    "background_image_alt":"Talent Triebwagen an einem Bahnhof"
+                },
+                "en":{
+                    "name":"Triebwagen Talent1",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"Talent 1",
+                    "label_1":"Driving car",
+                    "type_2":"text",
+                    "weight_2":"normal",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "body_2":"1.958",
+                    "label_2":"Power in KW",
+                    "background_image_alt":"Talent railcar at a station"
+                }
+            },
+            "created_at":"2025-05-13 13:01:29",
+            "updated_at":"2025-06-26 20:29:57",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":13,
+            "image":"\/assets\/uploads\/zugleisten\/talent1\/speed_talent1.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"Speed Talent1",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"normal",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"140 km\/h",
+                    "label_1":"TOP SPEED",
+                    "weight_2":"normal",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "body_2":"151",
+                    "label_2":"SITZPL\u00c4TZE",
+                    "background_image_alt":"Talent Triebwagen von der Seite"
+                },
+                "en":{
+                    "name":"Speed Talent1",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"normal",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"140 km\/h",
+                    "label_1":"TOP SPEED",
+                    "weight_2":"normal",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "body_2":"151",
+                    "label_2":"Seats",
+                    "background_image_alt":"Talent railcar shown from the side"
+                }
+            },
+            "created_at":"2025-05-13 13:03:36",
+            "updated_at":"2025-06-26 20:30:32",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":14,
+            "image":"\/assets\/uploads\/zugleisten\/talent1\/barrierefreies WC_talent1.jpg",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Neu 2024\/Rollstuhl_H40px_7D7D7D.svg",
+            "translatable":{
+                "de":{
+                    "name":"Barrierefreies WC Talent1",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Barrierefreies WC",
+                    "label_1":"AUSSTATTUNG",
+                    "background_image_alt":"Universal WC und Blick in den Zug",
+                    "icon_alt":"Rollstuhl Icon "
+                },
+                "en":{
+                    "name":"Barrierefreies WC Talent1",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Barrier-free WC",
+                    "label_1":"Equipment",
+                    "background_image_alt":"Universal WC and view into the train",
+                    "icon_alt":"Wheelchair icon"
+                }
+            },
+            "created_at":"2025-05-13 13:05:03",
+            "updated_at":"2025-06-26 20:31:20",
+            "show_icon_on_image":false,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":15,
+            "image":"\/assets\/uploads\/zugleisten\/talent1\/FIS-Monitor_talent1.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"FIS Talent1",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Die n\u00e4chsten Halte auf einen Blick",
+                    "label_1":"INFORMATION IM ZUG",
+                    "background_image_alt":"Monitor mit Fahrgastinformationen "
+                },
+                "en":{
+                    "name":"FIS Talent1",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"The next stops at a glance",
+                    "label_1":"information on the train",
+                    "background_image_alt":"Monitor with passenger information"
+                }
+            },
+            "created_at":"2025-05-13 13:35:14",
+            "updated_at":"2025-06-26 20:31:53",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":16,
+            "image":"\/assets\/uploads\/zugleisten\/talent1\/barrierefreier Zustieg_talent1.jpg",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Neu 2024\/Kinderwagen_H40px_7D7D7D.svg",
+            "translatable":{
+                "de":{
+                    "name":"Einstieg Talent1",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Barrierefreier Zustieg",
+                    "label_1":"EINSTIEG",
+                    "background_image_alt":"Personen steigen in Zug ein",
+                    "icon_alt":"Kinderwagen Icon"
+                },
+                "en":{
+                    "name":"Einstieg Talent1",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Barrier-free access",
+                    "label_1":"Access",
+                    "background_image_alt":"People entering the train",
+                    "icon_alt":"Baby carriage icon"
+                }
+            },
+            "created_at":"2025-05-13 13:50:07",
+            "updated_at":"2025-06-27 07:33:57",
+            "show_icon_on_image":false,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":17,
+            "image":"\/assets\/uploads\/zugleisten\/dosto\/Loks\/Karte_Lokomotive_2016_de_neu2.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"Dosto Lok 2016",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"normal",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"140 km\/h",
+                    "label_1":"Top Speed",
+                    "weight_2":"normal",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "body_2":"2.000",
+                    "label_2":"Leistung in kW",
+                    "background_image_alt":"Lokomotive 2016 steht in gr\u00fcner Landschaft auf Gleisen "
+                },
+                "en":{
+                    "name":"Dosto Lok 2016",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"normal",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"160 km\/h",
+                    "label_1":"Top Speed",
+                    "weight_2":"normal",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "body_2":"2.000",
+                    "label_2":"Power in kw",
+                    "background_image_alt":"Locomotive 2016 standing on tracks in a green landscape"
+                }
+            },
+            "created_at":"2025-05-13 15:30:55",
+            "updated_at":"2025-06-27 07:35:30",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":18,
+            "image":"\/assets\/uploads\/zugleisten\/dosto\/Loks\/Karte_Lokomotive_1144_de_neu2.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"Dosto Lok 1144",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"normal",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"160 km\/h",
+                    "label_1":"Top Speed",
+                    "weight_2":"normal",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "body_2":"5.280",
+                    "label_2":"Leistung in kW",
+                    "background_image_alt":"Lokomotive 1144 auf Gleisen"
+                },
+                "en":{
+                    "name":"Dosto Lok 1144",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"normal",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"160 km\/h",
+                    "label_1":"Top Speed",
+                    "weight_2":"normal",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "body_2":"5.280",
+                    "label_2":"Power in kw",
+                    "background_image_alt":"Locomotive 1144 on tracks"
+                }
+            },
+            "created_at":"2025-05-13 15:46:30",
+            "updated_at":"2025-06-27 07:36:01",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":19,
+            "image":"\/assets\/uploads\/zugleisten\/dosto\/Loks\/Karte_Lokomotive_1142_de_neu2.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"Dosto Lok1142",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"normal",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"150 km\/h",
+                    "label_1":"Top Speed",
+                    "weight_2":"normal",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "body_2":"4.000",
+                    "label_2":"Leistung in kW",
+                    "background_image_alt":"Lokomotive 1142 fahrt in gr\u00fcner Landschaft"
+                },
+                "en":{
+                    "name":"Dosto Lok1142",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"normal",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"150 km\/h",
+                    "label_1":"Top Speed",
+                    "weight_2":"normal",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "body_2":"4.000",
+                    "label_2":"Power in kw",
+                    "background_image_alt":"Locomotive 1142 driving through green landscape"
+                }
+            },
+            "created_at":"2025-05-13 15:47:49",
+            "updated_at":"2025-06-27 07:36:35",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":20,
+            "image":"\/assets\/uploads\/zugleisten\/dosto\/Loks\/Karte_Lokomotive_1016_de_neu2.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"Dosto Lok 1016",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"normal",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"230 km\/h",
+                    "label_1":"Top Speed",
+                    "weight_2":"normal",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "body_2":"6.400",
+                    "label_2":"Leistung in kW",
+                    "background_image_alt":"Lokomotive 1016 am Bahnsteig bei Schnee"
+                },
+                "en":{
+                    "name":"Dosto Lok 1016",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"normal",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"230 km\/h",
+                    "label_1":"Top Speed",
+                    "weight_2":"normal",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "body_2":"6.400",
+                    "label_2":"Power in kw",
+                    "background_image_alt":"Locomotive 1016 on the platform in the snow"
+                }
+            },
+            "created_at":"2025-05-13 15:49:06",
+            "updated_at":"2025-06-27 07:37:04",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":21,
+            "image":"\/assets\/uploads\/zugleisten\/dosto\/Karte_Zwischenwagen_2633_de_neu2.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"Zwischenwagen 2633",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"normal",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"526",
+                    "label_1":"Sitze",
+                    "weight_2":"normal",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "body_2":"140 km\/h",
+                    "label_2":"Top Speed",
+                    "background_image_alt":"Cityjet Doppelstock steht am Gleis. Bild zeigt Schriftzug \u201eZwischenwagen 26 33\u201c "
+                },
+                "en":{
+                    "name":"Zwischenwagen 2633",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"normal",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"526",
+                    "label_1":"Seats",
+                    "weight_2":"normal",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "body_2":"140 km\/h",
+                    "label_2":"Top Speed",
+                    "background_image_alt":"Cityjet double-decker standing on the track. Picture shows lettering \u201cZwischenwagen 26 33\u201d"
+                }
+            },
+            "created_at":"2025-05-13 15:54:20",
+            "updated_at":"2025-06-27 07:37:43",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":22,
+            "image":"\/assets\/uploads\/zugleisten\/dosto\/IMG_15991_neu.jpg",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Neu 2024\/Kinderwagen_H40px_7D7D7D.svg",
+            "translatable":{
+                "de":{
+                    "name":"Einstieg Dosto",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Barrierefreier Zustieg",
+                    "label_1":"Einstieg",
+                    "background_image_alt":"Doppelstock Zug steht am Gleis",
+                    "icon_alt":"Kinderwagen Icon"
+                },
+                "en":{
+                    "name":"Einstieg Dosto",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Barrier-free access",
+                    "label_1":"Access",
+                    "background_image_alt":"Double-decker train standing on the track",
+                    "icon_alt":"Baby carriage icon"
+                }
+            },
+            "created_at":"2025-05-13 15:56:00",
+            "updated_at":"2025-06-27 08:50:42",
+            "show_icon_on_image":false,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":23,
+            "image":"\/assets\/uploads\/zugleisten\/dosto\/IMG_1626_neu.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"Dosto Komfortsitze",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Verstellbare Komfortsitze",
+                    "label_1":"Ausstattung",
+                    "background_image_alt":"Gro\u00dfraumbereich eines Cityjet Doppelstock Zuges"
+                },
+                "en":{
+                    "name":"Dosto Komfortsitze",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"convenience seat",
+                    "label_1":"Equipement",
+                    "background_image_alt":"Spacious area of a Cityjet double-decker train"
+                }
+            },
+            "created_at":"2025-05-13 15:57:25",
+            "updated_at":"2025-06-27 08:51:11",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":24,
+            "image":"\/assets\/uploads\/zugleisten\/dosto\/IMG_1632_neu.jpg",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Neu 2024\/Fahrrad_H40px_7D7D7D.svg",
+            "translatable":{
+                "de":{
+                    "name":"Dosto Mehrzweckbereich",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Mehrzweckbereich",
+                    "label_1":"Ausstattung",
+                    "background_image_alt":"Mehrzweckbereich eines Cityjet Doppelstock Zuges",
+                    "icon_alt":"Fahrrad Icon"
+                },
+                "en":{
+                    "name":"Dosto Mehrzweckbereich",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"multipurpose area",
+                    "label_1":"Equipment",
+                    "background_image_alt":"Multi-purpose area of a Cityjet double-decker train",
+                    "icon_alt":"Bicycle icon"
+                }
+            },
+            "created_at":"2025-05-13 15:58:35",
+            "updated_at":"2025-06-27 08:51:59",
+            "show_icon_on_image":false,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":25,
+            "image":"\/assets\/uploads\/zugleisten\/dosto\/IMG_1641_neu.jpg",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Neu 2024\/Ruhezone_INFRA_H40px_7D7D7D.svg",
+            "translatable":{
+                "de":{
+                    "name":"Dosto Ruhezone",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Ruhezone",
+                    "label_1":"Besonderheiten",
+                    "background_image_alt":"Beschilderung der Ruhezone"
+                },
+                "en":{
+                    "name":"Dosto Ruhezone",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Quiet Zone",
+                    "label_1":"special features",
+                    "background_image_alt":"Signage of the quiet zone"
+                }
+            },
+            "created_at":"2025-05-13 16:00:01",
+            "updated_at":"2025-06-27 08:52:28",
+            "show_icon_on_image":false,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":26,
+            "image":"\/assets\/uploads\/zugleisten\/dosto\/IMG_1582_neu.jpg",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Neu 2024\/Rollstuhl_H40px_7D7D7D.svg",
+            "translatable":{
+                "de":{
+                    "name":"Dosto Barrierefreies WC",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Barrierefreies WC",
+                    "label_1":"Ausstattung",
+                    "type_2":"icon",
+                    "background_image_alt":"Barrierefreies WC mit Beklebung einer Landschaft",
+                    "icon_alt":"Rollstuhl Icon "
+                },
+                "en":{
+                    "name":"Dosto Barrierefreies WC",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Barrier-free WC",
+                    "label_1":"Equipment",
+                    "background_image_alt":"Barrier-free WC with landscape signage"
+                }
+            },
+            "created_at":"2025-05-13 16:01:55",
+            "updated_at":"2025-06-27 08:53:11",
+            "show_icon_on_image":false,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":27,
+            "image":"\/assets\/uploads\/zugleisten\/dosto\/Karte_Steuerwagen_8633_de_neu2.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"Dosto Steuerwagen",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"526",
+                    "label_1":"Sitze",
+                    "weight_2":"normal",
+                    "size_2":"small",
+                    "link_type_2":null,
+                    "body_2":"140 km\/h",
+                    "label_2":"Top Speed",
+                    "background_image_alt":"Steuerwagen eines Doppelstock Zuges mit dem Schriftzug \u201eSteuerwagen 8633\u201c"
+                },
+                "en":{
+                    "name":"Dosto Steuerwagen",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"normal",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"526",
+                    "label_1":"Seats",
+                    "weight_2":"normal",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "body_2":"140 km\/h",
+                    "label_2":"Top Speed",
+                    "background_image_alt":"Control car of a double-decker train with the lettering \u201cControl car 8633\u201d"
+                }
+            },
+            "created_at":"2025-05-13 16:03:06",
+            "updated_at":"2025-06-27 08:53:58",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":28,
+            "image":"\/assets\/uploads\/zugleisten\/dosto\/IMG_1592_neu.jpg",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Neu 2024\/Kinderwagen_H40px_7D7D7D.svg",
+            "translatable":{
+                "de":{
+                    "name":"Dosto Einstieg 2",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Barrierefreier Zustieg",
+                    "label_1":"Einstieg",
+                    "background_image_alt":"\u00c4u\u00dferer Einstiegsbereich eines Doppelstock Zuges",
+                    "icon_alt":"Kinderwagen Icon"
+                },
+                "en":{
+                    "name":"Dosto Einstieg 2",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Barrier-free access",
+                    "label_1":"Access",
+                    "background_image_alt":"Outer boarding area of a double-decker train",
+                    "icon_alt":"Baby carriage icon"
+                }
+            },
+            "created_at":"2025-05-13 16:04:35",
+            "updated_at":"2025-06-27 08:54:50",
+            "show_icon_on_image":false,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":29,
+            "image":"\/assets\/uploads\/zugleisten\/dosto\/IMG_1634_neu.jpg",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Neu 2024\/Fahrrad_H40px_7D7D7D.svg",
+            "translatable":{
+                "de":{
+                    "name":"Dosto Komfortsitze 2",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Verstellbare Komforsitze",
+                    "label_1":"Ausstattung",
+                    "background_image_alt":"Mehrzweckbereich eines Doppelstock Zuges",
+                    "icon_alt":"Fahrrad Icon"
+                },
+                "en":{
+                    "name":"Dosto Komfortsitze 2",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"convenience seat",
+                    "label_1":"Equipment",
+                    "background_image_alt":"Multi-purpose area of a double-decker train",
+                    "icon_alt":"Bicycle icon"
+                }
+            },
+            "created_at":"2025-05-13 16:05:57",
+            "updated_at":"2025-06-27 08:55:40",
+            "show_icon_on_image":false,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":30,
+            "image":"\/assets\/uploads\/zugleisten\/DML West\/DMLW1 Behinderten WC.png",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Neu 2024\/Rollstuhl_H40px_7D7D7D.svg",
+            "translatable":{
+                "de":{
+                    "name":"DMLW 1 Barrierefreies WC",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Universal WC und zwei Rollstuhlpl\u00e4tze",
+                    "label_1":"Ausstattung",
+                    "background_image_alt":"Barrierefreies WC",
+                    "icon_alt":"Rollstuhl Icon "
+                },
+                "en":{
+                    "name":"DMLW 1 Barrierefreies WC",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Barrier-free WC",
+                    "label_1":"Equipment",
+                    "background_image_alt":"Barrier-free WC",
+                    "icon_alt":"Wheelchair icon"
+                }
+            },
+            "created_at":"2025-05-13 16:49:32",
+            "updated_at":"2025-08-28 10:30:25",
+            "show_icon_on_image":false,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":31,
+            "image":"\/assets\/uploads\/zugleisten\/DML West\/DMLW1 verstellbare Komfortsitze.png",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"DMLW 1 Komfortsitz",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Verstellbare Komfortsitze",
+                    "label_1":"Ausstattung",
+                    "background_image_alt":"Reihe von Rot grauen Komfortsitzen"
+                },
+                "en":{
+                    "name":"DMLW 1 Komfortsitz",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Convenience seats",
+                    "label_1":"Equipment",
+                    "background_image_alt":"Row of red and gray comfort seats"
+                }
+            },
+            "created_at":"2025-05-13 16:51:13",
+            "updated_at":"2025-08-27 15:27:50",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":32,
+            "image":"\/assets\/uploads\/zugleisten\/DML West\/DMLW1 Multifunktionstische.png",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"DMLW 1 Multifunktionstische und Steckdosen ",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Multifunktionstische und Steckdosen",
+                    "label_1":"Ausstattung",
+                    "background_image_alt":"Multifunktionstisch in fahrendem Zug"
+                },
+                "en":{
+                    "name":"DMLW 1 Multifunktionstische und Steckdosen ",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "label_1":"Equipment",
+                    "body_1":"Multifunctional tables and power sockets",
+                    "background_image_alt":"Multifunctional table in moving train"
+                }
+            },
+            "created_at":"2025-05-13 16:57:40",
+            "updated_at":"2025-08-27 15:17:05",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":33,
+            "image":"\/assets\/uploads\/zugleisten\/DML West\/DMLW1 Die n\u00e4chsten Halte auf einen Blick.png",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"DMLW 1 Reisendeninformationssystem",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Die n\u00e4chsten Halte auf einen Blick",
+                    "label_1":"INFORMATION IM ZUG",
+                    "background_image_alt":"Monitor mit Fahrgastinformationen"
+                },
+                "en":{
+                    "name":"DMLW 1 Reisendeninformationssystem",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"The next stops at a glance",
+                    "label_1":"Information on the train",
+                    "background_image_alt":"Monitor with passenger information"
+                }
+            },
+            "created_at":"2025-05-13 16:59:23",
+            "updated_at":"2025-06-27 08:58:19",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":34,
+            "image":"\/assets\/uploads\/zugleisten\/DML West\/DMLW1 Barrierfreier Einstieg.png",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Neu 2024\/Kinderwagen_H40px_7D7D7D.svg",
+            "translatable":{
+                "de":{
+                    "name":"DMLW 1 Barrierefreier Einstieg",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Barrierefreier Zustieg",
+                    "label_1":"EINSTIEG",
+                    "background_image_alt":"Frau steigt mit Fahrrad in Cityjet ein",
+                    "icon_alt":"Fahrrad Icon"
+                },
+                "en":{
+                    "name":"DMLW 1 Barrierefreier Einstieg",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Barrier-free access",
+                    "label_1":"Access",
+                    "background_image_alt":"Woman boards Cityjet with bicycle",
+                    "icon_alt":"Baby carriage icon"
+                }
+            },
+            "created_at":"2025-05-13 17:00:36",
+            "updated_at":"2025-06-27 08:59:12",
+            "show_icon_on_image":false,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":35,
+            "image":"\/assets\/uploads\/zugleisten\/DML West\/DMLW1 Multifunktionsbereich.png",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Neu 2024\/Fahrrad_H40px_7D7D7D.svg",
+            "translatable":{
+                "de":{
+                    "name":"DMLW 1 Mehrzweckbereich",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Bicycle and stroller parking spaces",
+                    "label_1":"Multi-purpose area",
+                    "background_image_alt":"Mutter sitzt mit Kind und Kinderwagen im Mehrzweckbereich",
+                    "type_2":"icon"
+                },
+                "en":{
+                    "name":"DMLW 1 Mehrzweckbereich",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Multipurpose area",
+                    "label_1":"Equipment",
+                    "background_image_alt":"Mother sits with child and baby carriage in the multi-purpose area"
+                }
+            },
+            "created_at":"2025-05-13 17:02:34",
+            "updated_at":"2025-08-27 15:14:10",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":36,
+            "image":"\/assets\/uploads\/zugleisten\/DML West\/DMLW Fahrradbereich.png",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Neu 2024\/Fahrrad_H40px_7D7D7D.svg",
+            "translatable":{
+                "de":{
+                    "name":"DMLW 1 Fahrradabteil",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"Fahrrad-Bereich f\u00fcr bis zu 24 R\u00e4der",
+                    "label_1":"Fahrradabteil",
+                    "background_image_alt":"Frau steigt mit Fahrrad aus Cityjet aus",
+                    "icon_alt":"Frau schiebt Fahrrad aus dem Zug"
+                },
+                "en":{
+                    "name":"DMLW 1 Fahrradabteil",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"X",
+                    "label_1":"Bicycle parking spaces",
+                    "background_image_alt":"Woman gets off Cityjet with bicycle",
+                    "icon_alt":"Woman pushes bicycle off train"
+                }
+            },
+            "created_at":"2025-05-13 17:03:58",
+            "updated_at":"2025-08-28 10:29:44",
+            "show_icon_on_image":false,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":37,
+            "image":"\/assets\/uploads\/zugleisten\/DML West\/DMLW1 Triebwagen.png",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"DMLW 1 Lok 4748",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"bold",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"4748",
+                    "label_1":"Triebwagen",
+                    "weight_2":"bold",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "body_2":"3.500",
+                    "label_2":"LEISTUNG IN PS",
+                    "background_image_alt":"DML f\u00e4hrt durch eine Landschaft"
+                },
+                "en":{
+                    "name":"DMLW 1 Lok 4748",
+                    "type_1":"text",
+                    "weight_1":"bold",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"4748",
+                    "label_1":"Driving Car",
+                    "type_2":"text",
+                    "weight_2":"bold",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "body_2":"3.500",
+                    "label_2":"Power in kw",
+                    "background_image_alt":"DML travels through a landscape"
+                }
+            },
+            "created_at":"2025-05-13 17:07:17",
+            "updated_at":"2025-06-27 09:26:56",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":38,
+            "image":"\/assets\/uploads\/zugleisten\/DML West\/DMLW 1 Speed.png",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"DMLW Vlbg 1 Speed",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"bold",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"160 km\/h",
+                    "label_1":"TOP SPEED",
+                    "weight_2":"bold",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "body_2":"288",
+                    "label_2":"Sitzpl\u00e4tze",
+                    "background_image_alt":"DML f\u00e4hrt durch Landschaft mit Rapsfeld und Bergen"
+                },
+                "en":{
+                    "name":"DMLW Vlbg 1 Speed",
+                    "type_1":"text",
+                    "weight_1":"bold",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"160 km\/h",
+                    "label_1":"TOP SPEED",
+                    "type_2":"text",
+                    "weight_2":"bold",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "body_2":"288",
+                    "label_2":"Seats",
+                    "background_image_alt":"DML travels through landscape with rape field and mountains"
+                }
+            },
+            "created_at":"2025-05-13 17:08:58",
+            "updated_at":"2025-08-27 15:25:34",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":39,
+            "image":"\/assets\/uploads\/zugleisten\/DML West\/DMLW1 WLAN.png",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"DMLW 1 WLAN",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"WLAN",
+                    "label_1":"Besonderheiten ",
+                    "background_image_alt":"Frau sitzt in Vierer Sitzgruppe und schaut in ihr Handy"
+                },
+                "en":{
+                    "name":"DMLW 1 WLAN",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "link_type_1":null,
+                    "body_1":"WIFI",
+                    "label_1":"special features",
+                    "background_image_alt":"Woman sits in a four-seater and looks at her cell phone"
+                }
+            },
+            "created_at":"2025-05-13 17:12:51",
+            "updated_at":"2025-06-27 09:22:17",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":40,
+            "image":"\/assets\/uploads\/zugleisten\/Skihalterung DML West Voralberg.jpg",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Zugleiste 2023\/Ski_H40px_7D7D7D.svg",
+            "translatable":{
+                "de":{
+                    "name":"DML West Skihalter Vlbg",
+                    "type_1":"text",
+                    "background_image_alt":"Mehrzweckbereich mit Skihalterung",
+                    "label_1":"Ausstattung",
+                    "type_2":"icon",
+                    "body_1":"Skihalterung"
+                },
+                "en":{
+                    "name":"DML West Skihalter Vlbg",
+                    "background_image_alt":"Multi-purpose area with ski holder",
+                    "icon_alt":"Ski rack",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "label_1":"Equipment",
+                    "weight_2":"normal",
+                    "size_2":"small",
+                    "body_2":"Ski rack",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "body_1":"Ski rack"
+                }
+            },
+            "created_at":"2025-05-13 17:14:15",
+            "updated_at":"2025-08-27 15:15:57",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":41,
+            "image":"\/assets\/uploads\/zugleisten\/DML West\/DMLW 1 Speed.png",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"DMLW Salzburg\/Tirol Speed 1",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"bold",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"160 km\/h",
+                    "label_1":"TOP SPEED",
+                    "weight_2":"bold",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "body_2":"290",
+                    "label_2":"Sitzpl\u00e4tze",
+                    "background_image_alt":"DML f\u00e4hrt durch Landschaft mit Rapsfeld und Bergen"
+                },
+                "en":{
+                    "name":"DMLW Salzburg\/Tirol Speed 1",
+                    "type_1":"text",
+                    "weight_1":"bold",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "label_1":"TOP SPEED",
+                    "body_1":"160 km\/h",
+                    "type_2":"text",
+                    "weight_2":"bold",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "body_2":"290",
+                    "label_2":"Seats",
+                    "background_image_alt":"DML rides through landscape with rape field and mountains"
+                }
+            },
+            "created_at":"2025-05-13 17:16:29",
+            "updated_at":"2025-06-27 09:16:35",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":42,
+            "image":"\/assets\/uploads\/zugleisten\/Hublift DML West.png",
+            "highlight_color":null,
+            "icon":"\/assets\/uploads\/icons\/Zugleiste 2023\/Rollstuhl_H40px_7D7D7D.svg",
+            "translatable":{
+                "de":{
+                    "name":"DML West Hublift ",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "body_1":"Hublift mit Klapprampe",
+                    "label_1":"Ausstattung",
+                    "type_2":"icon",
+                    "background_image_alt":"Hublift im inneren des Zuges vor Zugt\u00fcr"
+                },
+                "en":{
+                    "name":"DML West Hublift ",
+                    "type_1":"text",
+                    "type_2":"icon",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "body_1":"Lift with folding ramp",
+                    "label_1":"Equipment",
+                    "background_image_alt":"Lift inside the train in front of the train door"
+                }
+            },
+            "created_at":"2025-08-27 14:22:29",
+            "updated_at":"2025-08-28 10:31:46",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":43,
+            "image":"\/assets\/uploads\/zugleisten\/DML West\/DMLW1 Triebwagen.png",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"DML West Voralberg Lok 4648",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"bold",
+                    "size_1":"large",
+                    "body_1":"4648",
+                    "label_1":"Triebwagen",
+                    "weight_2":"bold",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "body_2":"3.500",
+                    "label_2":"LEISTUNG IN PS",
+                    "background_image_alt":"DML f\u00e4hrt durch eine Landschaft"
+                },
+                "en":{
+                    "name":"DML West Voralberg Lok 4648",
+                    "type_1":"text",
+                    "type_2":"text",
+                    "weight_1":"bold",
+                    "size_1":"large",
+                    "link_type_1":null,
+                    "body_1":"4648",
+                    "label_1":"Driving Car",
+                    "weight_2":"bold",
+                    "size_2":"large",
+                    "link_type_2":null,
+                    "body_2":"3.500",
+                    "label_2":"Power in kw",
+                    "background_image_alt":"DML drives through landscape"
+                }
+            },
+            "created_at":"2025-08-27 15:03:15",
+            "updated_at":"2025-08-28 10:32:17",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        },
+        {
+            "id":44,
+            "image":"\/assets\/uploads\/zugleisten\/DML West\/Multifunktionstische DML Alpin.jpg",
+            "highlight_color":null,
+            "icon":null,
+            "translatable":{
+                "de":{
+                    "name":"Multifunktionstische DML Alipn",
+                    "background_image_alt":"Mutlifunktionstisch",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "body_1":"Multifunktionstische und Steckdosen",
+                    "label_1":"Ausstattung"
+                },
+                "en":{
+                    "name":"DML Alpin",
+                    "background_image_alt":"Multifunctional table",
+                    "type_1":"text",
+                    "weight_1":"normal",
+                    "size_1":"small",
+                    "body_1":"Multifunctional tables and power sockets",
+                    "label_1":"Equipment"
+                }
+            },
+            "created_at":"2025-08-28 10:45:33",
+            "updated_at":"2025-08-28 10:53:35",
+            "show_icon_on_image":true,
+            "order":null,
+            "show_on_train":null,
+            "show_on_train_config":{
+                "position":0
+            }
+        }
+    ]
+}
