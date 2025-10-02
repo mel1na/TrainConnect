@@ -137,11 +137,11 @@ public struct ICETrainType: TrainType {
     public var trainIcon: NSImage? {
         switch self.triebZugNummer.extractedNumber {
         case 304:
-            return Bundle.module.image(forResource: "403-Regenbogen")
+            return Bundle.module.image(forResource: "BR403-Regenbogen")!
         case 8029:
-            return Bundle.module.image(forResource: "408-Europa")
+            return Bundle.module.image(forResource: "BR408-Europa")!
         case 9457:
-            return Bundle.module.image(forResource: "412-Deutschland")
+            return Bundle.module.image(forResource: "BR412-Deutschland")!
         default:
             break
         }
