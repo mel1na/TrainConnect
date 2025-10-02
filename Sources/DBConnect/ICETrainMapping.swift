@@ -79,7 +79,20 @@ public struct ICETrainType: TrainType {
     }
     
     public var trainModel: String {
-        "\(self.humanReadableTrainType) (TZN: \(self.triebZugNummer))"
+        var formattedTrainType: String = self.humanReadableTrainType
+        switch self.triebZugNummer.extractedNumber {
+        case 304:
+            formattedTrainType += " 🏳️‍🌈"
+        case 8029:
+            formattedTrainType += " 🇪🇺"
+        case 9457:
+            formattedTrainType += " 🇩🇪"
+        case .none:
+            break
+        case .some(_):
+            break
+        }
+        return "\(formattedTrainType) (TZN: \(self.triebZugNummer.extractedNumber ?? 99999))"
     }
     
     #if os(iOS)
@@ -156,5 +169,15 @@ private extension String {
         let range = NSRange(startIndex..<endIndex, in: self)
         return try? NSRegularExpression(pattern: pattern, options: .caseInsensitive)
             .firstMatch(in: self, range: range)
+    }
+    
+    var extractedNumber: Int? {
+        guard let match = self.match(pattern: "^(tz|ice) ?(\\d+)?$"),
+              let range = Range(match.range(at: 2), in: self),
+              let number = Int(self[range]) else {
+            return nil
+        }
+
+        return number
     }
 }
