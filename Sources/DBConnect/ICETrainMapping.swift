@@ -98,6 +98,16 @@ public struct ICETrainType: TrainType {
     #if os(iOS)
     @available(iOS 13.0, *)
     public var trainIcon: Image? {
+        switch self.triebZugNummer.extractedNumber {
+        case 304:
+            return Image("BR403-Regenbogen", bundle: Bundle.module)
+        case 8029:
+            return Image("BR408-Europa", bundle: Bundle.module)
+        case 9457:
+            return Image("BR412-Deutschland", bundle: Bundle.module)
+        default:
+            break
+        }
         switch self.model {
         case .BR401:
             return Image("BR401", bundle: Bundle.module)
@@ -125,6 +135,16 @@ public struct ICETrainType: TrainType {
     
     #if os(macOS)
     public var trainIcon: NSImage? {
+        switch self.triebZugNummer.extractedNumber {
+        case 304:
+            return Bundle.module.image(forResource: "403-Regenbogen")
+        case 8029:
+            return Bundle.module.image(forResource: "408-Europa")
+        case 9457:
+            return Bundle.module.image(forResource: "412-Deutschland")
+        default:
+            break
+        }
         switch self.model {
         case .BR401:
             return Bundle.module.image(forResource: "BR401")!
