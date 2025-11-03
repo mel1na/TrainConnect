@@ -217,6 +217,16 @@ public struct ICERestaurantData: TrainRestaurantData {
     public let status: String?
     public let installed: Bool?
     public let availabilities: [BapAvailability]?
+    public var availableProducts: Int? {
+        var count: Int = 0
+        for availability in (self.availabilities ?? []) where availability.status.contains("AVAILABLE") {
+            count += 1
+        }
+        return count
+    }
+    public var totalProducts: Int? {
+        self.availabilities?.count
+    }
 
     public init(status: String?, installed: Bool?, availabilities: [BapAvailability]?) {
         self.status = status
@@ -279,14 +289,4 @@ public struct BapAvailability: Decodable {
 
 public struct BapAvailabilityResponse: Decodable {
     public let availabilities: [BapAvailability]
-    public var availableItemsCount: Int {
-        var count: Int = 0
-        for availability in self.availabilities where availability.status.contains("AVAILABLE") {
-            count += 1
-        }
-        return count
-    }
-    public var totalItemsCount: Int {
-        self.availabilities.count
-    }
 }
