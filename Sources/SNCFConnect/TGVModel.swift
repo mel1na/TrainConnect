@@ -179,6 +179,10 @@ struct Status: TrainStatus {
     var restaurant: TrainRestaurantData? {
         nil
     }
+    
+    public var wagonClass: String? {
+        nil
+    }
 }
 
 struct TVGTrainType: TrainType {

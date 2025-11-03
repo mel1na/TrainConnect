@@ -321,6 +321,10 @@ public struct Status: Codable, TrainStatus {
     public var restaurant: TrainRestaurantData? {
         nil
     }
+    
+    public var wagonClass: String? {
+        nil
+    }
 }
 
 struct OEBBTrainType: TrainType {

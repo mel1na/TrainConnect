@@ -63,6 +63,7 @@ public protocol TrainStatus {
     var connectedDevices: Int? { get }
     var restaurant: TrainRestaurantData? { get }
     var trainType: TrainType { get }
+    var wagonClass: String? { get }
 }
 
 public protocol TrainType {

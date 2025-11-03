@@ -206,6 +206,10 @@ public struct Status: TrainStatus {
         )
     }
     
+    public var wagonClass: String? {
+        status.wagonClass
+    }
+    
 }
 
 public struct ICERestaurantData: TrainRestaurantData {
