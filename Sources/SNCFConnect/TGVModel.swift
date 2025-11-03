@@ -175,6 +175,10 @@ struct Status: TrainStatus {
     var trainType: TrainType {
         TVGTrainType(trainId: self.trainId)
     }
+    
+    var restaurant: TrainRestaurantData? {
+        nil
+    }
 }
 
 struct TVGTrainType: TrainType {

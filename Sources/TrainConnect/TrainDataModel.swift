@@ -61,6 +61,7 @@ public protocol TrainStatus {
     var currentSpeed: Measurement<UnitSpeed> { get }
     var currentConnectivity: String? { get }
     var connectedDevices: Int? { get }
+    var restaurant: TrainRestaurantData? { get }
     var trainType: TrainType { get }
 }
 
@@ -77,6 +78,11 @@ public protocol TrainConnectivity {
     var currentState: String? { get }
     var nextState: String? { get }
     var remainingTimeSeconds: Int? { get }
+}
+
+public protocol TrainRestaurantData {
+    var installed: Bool? { get }
+    var status: String? { get }
 }
 
 public extension Array where Element == TrainStop {

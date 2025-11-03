@@ -172,7 +172,7 @@ public struct Coordinate: Decodable {
 
 public struct Status: TrainStatus {
     public let status: StatusResponse
-    public let bap: BapResponse
+    public let bap: BapStatusResponse
     //public let availabilities: AvailabilitiesResponse
     
     public var latitude: Double {
@@ -195,11 +195,27 @@ public struct Status: TrainStatus {
         status.connectedDevices
     }
     
-    public var trainType: any TrainConnect.TrainType {
+    public var trainType: TrainType {
         status.trainType
     }
     
+    public var restaurant: TrainRestaurantData? {
+        ICERestaurantData(
+            status: bap.bapServiceStatus.rawValue,
+            installed: status.bapInstalled
+        )
+    }
     
+}
+
+public struct ICERestaurantData: TrainRestaurantData {
+    public let status: String?
+    public let installed: Bool?
+
+    public init(status: String?, installed: Bool?) {
+        self.status = status
+        self.installed = installed
+    }
 }
 
 public struct StatusResponse: Decodable {
@@ -239,7 +255,7 @@ public struct Connectivity: Decodable {
     public let remainingTimeSeconds: Int?
 }
 
-public struct BapResponse: Decodable {
+public struct BapStatusResponse: Decodable {
     public let bapServiceStatus: BapServiceStatus //ACTIVE, PAUSED or INACTIVE
 }
 
@@ -248,3 +264,4 @@ public enum BapServiceStatus: String, Decodable {
     case paused = "PAUSED"
     case inactive = "INACTIVE"
 }
+

@@ -317,6 +317,10 @@ public struct Status: Codable, TrainStatus {
     public var currentSpeed: Measurement<UnitSpeed> {
         Measurement<UnitSpeed>(value: Double(self.speed), unit: .kilometersPerHour)
     }
+    
+    public var restaurant: TrainRestaurantData? {
+        nil
+    }
 }
 
 struct OEBBTrainType: TrainType {
