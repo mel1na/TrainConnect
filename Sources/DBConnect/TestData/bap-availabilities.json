@@ -1,0 +1,508 @@
+[ {
+  "ecmId" : 13409740,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10563746,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10579368,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 13578692,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10563758,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 13356996,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 13417438,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10564018,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 13417432,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 13133020,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10564020,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10579380,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 13149662,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10564022,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10579382,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10563512,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10579384,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10563770,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 13417424,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10579388,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10649788,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 12997348,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10579330,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10579332,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 13500138,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10579334,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 13133028,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10579340,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10579342,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 12691440,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 13010418,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10637716,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 12868348,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 12868350,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10506138,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10506140,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 13578482,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10506142,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 13409676,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10505952,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10564064,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 12691840,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10564066,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10563812,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10505958,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 13294220,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 13578376,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10637290,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 13578370,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 12948360,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 13294212,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10579182,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10637810,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10579184,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10637808,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10637300,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10564342,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 13294226,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10564344,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 13578390,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10564346,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10505982,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 13409708,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10563776,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10579392,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10579394,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10564038,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 12697254,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10579398,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 12697256,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10579400,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10579402,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10563788,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 13578686,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10564050,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10505940,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10564052,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 13409722,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10564054,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 13008318,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 12691896,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10563546,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10563806,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 13034824,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 13417308,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 13417296,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10637318,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10579212,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10579214,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 13578360,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 13294196,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10508128,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 12691458,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10508132,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10559076,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10559078,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10559080,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10564202,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10559084,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10564204,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10564206,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10559086,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10508144,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10559088,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10508146,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10559090,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10508148,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10559092,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10508150,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10559094,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10579318,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10579320,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10563704,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 12623132,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 13251880,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 12691746,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10563652,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10612806,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10563398,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10579276,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10579278,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10579280,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10562898,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10579286,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10579290,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10579292,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10563164,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10508126,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10562910,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 13500140,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 12697154,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10637718,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10563700,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 12697158,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10563514,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 12691850,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 13034826,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 13409742,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 13579788,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10559014,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 13417540,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 13579782,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10649544,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 13417504,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10637710,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 12691980,
+  "status" : "AVAILABLE"
+}, {
+  "ecmId" : 10612846,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10559120,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 13578716,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10559154,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 13579770,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 13417562,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 13585368,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 13579794,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 13417810,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10506144,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10579328,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10564200,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10579274,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10579210,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10579338,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10579180,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10564016,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10564048,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10637776,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10564340,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10579316,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10579288,
+  "status" : "UNAVAILABLE"
+}, {
+  "ecmId" : 10564062,
+  "status" : "UNAVAILABLE"
+} ]

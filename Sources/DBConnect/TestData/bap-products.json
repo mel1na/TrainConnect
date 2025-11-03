@@ -1,0 +1,3180 @@
+[ {
+  "productType" : "ARTICLE",
+  "ecmId" : 13409740,
+  "vzn" : "29",
+  "category" : "Aktion",
+  "title" : "Rotes Thai Curry mit Shiitake-Pilzen",
+  "description" : "Gemüse & Basmatireis",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/00_Aktion/2025_07_Juli-Oktober/Rotes_Thai_Curry_mit_Shiitake-Pilze/Bild_Rotes_Thai_Curry_mit_Shiitake-Pilze.data.jpg",
+  "declarations" : [ {
+    "shortDescription" : "1",
+    "description" : "mit Farbstoff"
+  } ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 16.7
+  }, {
+    "currency" : "EUR",
+    "price" : 13.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10563746,
+  "vzn" : "29",
+  "category" : "Süß & salzig",
+  "title" : "Apfelkuchen",
+  "description" : "mit Butterstreusel",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/06_Suess__Salzig/Apfelkuchen/Bild_Apfelkuchen.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 5.8
+  }, {
+    "currency" : "EUR",
+    "price" : 4.8
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10579368,
+  "vzn" : "29",
+  "category" : "Kaltgetränke",
+  "title" : "Adelholzener Apfelschorle",
+  "description" : "0,5 l Flasche",
+  "checked" : true,
+  "available" : true,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/08_Kaltgetraenke/Adelholzener_Apfelschorle/Bild_Adelholzener_Apfelschorle.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 5.0
+  }, {
+    "currency" : "EUR",
+    "price" : 4.2
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 13578692,
+  "vzn" : "29",
+  "category" : "Snacks",
+  "title" : "Vegetarisches Vollkorn-Haferbrot",
+  "description" : "belegt mit Bergkäse, Kräuterfrischkäse und eingelegten Zwiebeln",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/03_Snacks/Vegetarisches_Vollkorn-Haferbrot/Bild_Vegetarisches_Vollkorn-Haferbrot.data.jpg",
+  "declarations" : [ {
+    "shortDescription" : "1",
+    "description" : "mit Farbstoff"
+  } ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 7.8
+  }, {
+    "currency" : "EUR",
+    "price" : 6.5
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10563758,
+  "vzn" : "29",
+  "category" : "Süß & salzig",
+  "title" : "Twix Xtra",
+  "description" : "75g",
+  "checked" : true,
+  "available" : true,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/06_Suess__Salzig/Twix_Xtra/Bild_Twix_Xtra.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 3.0
+  }, {
+    "currency" : "EUR",
+    "price" : 2.5
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 13356996,
+  "vzn" : "29",
+  "category" : "Suppen & Salate",
+  "title" : "Vegane Tomatensuppe",
+  "description" : "mit BIO Brötchen",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/04_Suppen__Salate/Vegane_Tomatensuppe/Bild_Tomatensuppe.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 9.5
+  }, {
+    "currency" : "EUR",
+    "price" : 7.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 13417438,
+  "vzn" : "29",
+  "category" : "Aktion",
+  "title" : "Vegetarische BIO Kürbissuppe",
+  "description" : "mit Kürbiskern-Crouton-Crunch & BIO Brötchen",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/00_Aktion/2025_07_Juli-Oktober/Vegetarische_BIO_Kuerbissuppe/Bild_Vegetarische_BIO_Kuerbissuppe.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 9.5
+  }, {
+    "currency" : "EUR",
+    "price" : 7.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10564018,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Filterkaffee Oatly Größe L",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 5.3
+  }, {
+    "currency" : "EUR",
+    "price" : 4.4
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 13417432,
+  "vzn" : "29",
+  "category" : "Aktion",
+  "title" : "Spaten Oktoberfestbier",
+  "description" : "0,5 l Flasche",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/00_Aktion/2025_07_Juli-Oktober/Spaten_Oktoberfestbier/Bild_Spaten_Oktoberfestbier.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 6.2
+  }, {
+    "currency" : "EUR",
+    "price" : 5.2
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 13133020,
+  "vzn" : "29",
+  "category" : "Snacks",
+  "title" : "Focaccia Hähnchen-Mozzarella",
+  "description" : "mit Tomaten-Kräuter-Aufstrich",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/03_Snacks/Focaccia_Haehnchen-Mozzarella/Bild_Focaccia_Haehnchen-Mozzarella.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 9.0
+  }, {
+    "currency" : "EUR",
+    "price" : 7.5
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10564020,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Filterkaffee Oatly Größe M",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 5.0
+  }, {
+    "currency" : "EUR",
+    "price" : 4.2
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10579380,
+  "vzn" : "29",
+  "category" : "Alkoholische Getränke",
+  "title" : "Bitburger Radler naturtrüb",
+  "description" : "0,33 l Flasche",
+  "checked" : true,
+  "available" : true,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/11_Alkoholische_Getraenke/Bitburger_Radler_naturtrueb/Bild_Bitburger_Radler_naturtrueb.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 5.0
+  }, {
+    "currency" : "EUR",
+    "price" : 4.2
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 13149662,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Bionella",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 1.4
+  }, {
+    "currency" : "EUR",
+    "price" : 1.2
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10564022,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Filterkaffee Oatly Größe S",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 4.7
+  }, {
+    "currency" : "EUR",
+    "price" : 3.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10579382,
+  "vzn" : "29",
+  "category" : "Kaltgetränke",
+  "title" : "Coca-Cola",
+  "description" : "0,5 l Flasche",
+  "checked" : true,
+  "available" : true,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/08_Kaltgetraenke/Coca-Cola/Bild_Coca-Cola.data.jpg",
+  "declarations" : [ {
+    "shortDescription" : "1",
+    "description" : "mit Farbstoff"
+  }, {
+    "shortDescription" : "12",
+    "description" : "koffeinhaltig"
+  } ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 5.0
+  }, {
+    "currency" : "EUR",
+    "price" : 4.2
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10563512,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Buttercroissant",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 4.2
+  }, {
+    "currency" : "EUR",
+    "price" : 3.5
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10579384,
+  "vzn" : "29",
+  "category" : "Kaltgetränke",
+  "title" : "Coca-Cola Zero",
+  "description" : "0,5 l Flasche",
+  "checked" : true,
+  "available" : true,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/08_Kaltgetraenke/Coca-Cola_Zero/Bild_Coca-Cola_Zero.data.jpg",
+  "declarations" : [ {
+    "shortDescription" : "1",
+    "description" : "mit Farbstoff"
+  }, {
+    "shortDescription" : "10",
+    "description" : "mit Süßungsmittel"
+  }, {
+    "shortDescription" : "11",
+    "description" : "enthält eine Phenylalaninquelle"
+  }, {
+    "shortDescription" : "12",
+    "description" : "koffeinhaltig"
+  } ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 5.0
+  }, {
+    "currency" : "EUR",
+    "price" : 4.2
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10563770,
+  "vzn" : "29",
+  "category" : "Süß & salzig",
+  "title" : "BIO Black Forest Ice Cream Vanille",
+  "description" : "100ml",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/06_Suess__Salzig/BIO_Black_Forest_Ice_Cream_Vanille/Bild_BIO_Black_Forest_Ice_Cream_Vanille.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 4.6
+  }, {
+    "currency" : "EUR",
+    "price" : 3.8
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 13417424,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Frikadellenbrötchen",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/00_Aktion/2025_07_Juli-Oktober/Frikadellenbroetchen/Bild_Frikadellenbroetchen.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 6.2
+  }, {
+    "currency" : "EUR",
+    "price" : 5.2
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10579388,
+  "vzn" : "29",
+  "category" : "Alkoholische Getränke",
+  "title" : "ERDINGER Alkoholfrei",
+  "description" : "0,5 l Flasche",
+  "checked" : true,
+  "available" : true,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/11_Alkoholische_Getraenke/Erdinger_Weissbier_alkoholfrei/Bild_Erdinger_Weissbier_alkoholfrei.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 6.2
+  }, {
+    "currency" : "EUR",
+    "price" : 5.2
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10649788,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Spielfigur Sally S-Bahn",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 0.01
+  }, {
+    "currency" : "EUR",
+    "price" : 0.01
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 12997348,
+  "vzn" : "29",
+  "category" : "Frühstück",
+  "title" : "Warmes Croissant Brötchen mit Gouda",
+  "description" : "Tomaten, Zwiebeln und Gurkenaufstrich",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/05_Fruehstueck/Croissant_Broetchen_Kaese/Bild_Croissant_Broetchen_Kaese.data.jpg",
+  "declarations" : [ {
+    "shortDescription" : "4",
+    "description" : "konserviert"
+  } ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 8.3
+  }, {
+    "currency" : "EUR",
+    "price" : 6.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10579330,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Latte Macchiato Größe S",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 5.0
+  }, {
+    "currency" : "EUR",
+    "price" : 4.2
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10579332,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Latte Macchiato Größe M",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 5.5
+  }, {
+    "currency" : "EUR",
+    "price" : 4.6
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 13500138,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Bio Bauernbrötchen mit Saaten",
+  "checked" : true,
+  "available" : false,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 1.9
+  }, {
+    "currency" : "EUR",
+    "price" : 1.6
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10579334,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Latte Macchiato Größe L",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 6.0
+  }, {
+    "currency" : "EUR",
+    "price" : 5.0
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 13133028,
+  "vzn" : "29",
+  "category" : "Snacks",
+  "title" : "Vegetarisches Vollkorn-Haferbrötchen",
+  "description" : "belegt mit Edamer & Kräuterfrischkäse",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/03_Snacks/Vegetarisches_Vollkorn-Haferbroetchen_Edamer/Bild_Vegetarisches_Vollkorn-Haferbroetchen_Edamer.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 7.8
+  }, {
+    "currency" : "EUR",
+    "price" : 6.5
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10579340,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "EILLES Tee Spearminze Größe L",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 5.2
+  }, {
+    "currency" : "EUR",
+    "price" : 4.3
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10579342,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "EILLES Tee Spearminze Größe S",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 4.7
+  }, {
+    "currency" : "EUR",
+    "price" : 3.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 12691440,
+  "vzn" : "29",
+  "category" : "Süß & salzig",
+  "title" : "Haribo Goldbären",
+  "description" : "100g",
+  "checked" : true,
+  "available" : true,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/06_Suess__Salzig/Haribo_Goldbaeren/Bild_Haribo_Goldbaeren.data.jpg",
+  "declarations" : [ {
+    "shortDescription" : "8",
+    "description" : "gewachst"
+  } ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 3.1
+  }, {
+    "currency" : "EUR",
+    "price" : 2.6
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 13010418,
+  "vzn" : "29",
+  "category" : "Snacks",
+  "title" : "Falafel Wrap Oriental",
+  "description" : "mit eingelegten Karottenstreifen und Spinat",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/03_Snacks/Falafel_Wrap_Oriental/Bild_Falafel_Wrap_Oriental.data.jpg",
+  "declarations" : [ {
+    "shortDescription" : "9",
+    "description" : "mit Phosphat"
+  } ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 8.3
+  }, {
+    "currency" : "EUR",
+    "price" : 6.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10637716,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Veganes BIO Haferkater Porridge Blaubeere im Menü",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 5.9
+  }, {
+    "currency" : "EUR",
+    "price" : 4.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 12868348,
+  "vzn" : "29",
+  "category" : "Alkoholische Getränke",
+  "title" : "Jever Fun Alkoholfrei",
+  "description" : "0,33 l Flasche",
+  "checked" : true,
+  "available" : true,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/11_Alkoholische_Getraenke/Jever_Fun_Alkoholfrei/Bild_Jever_Fun_Alkoholfrei.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 5.0
+  }, {
+    "currency" : "EUR",
+    "price" : 4.2
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 12868350,
+  "vzn" : "29",
+  "category" : "Alkoholische Getränke",
+  "title" : "Starnberger Hell",
+  "description" : "0,5 l Flasche",
+  "checked" : true,
+  "available" : true,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/11_Alkoholische_Getraenke/Starnberger_Hell/Bild_Starnberger_Hell.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 6.2
+  }, {
+    "currency" : "EUR",
+    "price" : 5.2
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10506138,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Filterkaffee Größe L",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 5.3
+  }, {
+    "currency" : "EUR",
+    "price" : 4.4
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10506140,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Filterkaffee Größe M",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 5.0
+  }, {
+    "currency" : "EUR",
+    "price" : 4.2
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 13578482,
+  "vzn" : "29",
+  "category" : "Aktion",
+  "title" : "Baumkuchen",
+  "description" : "mit Zartbitterschokolade, 50g",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/00_Aktion/2025_11_12_Nov-Dez/Baumkuchen/Bild__Baumkuchen.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 5.4
+  }, {
+    "currency" : "EUR",
+    "price" : 4.5
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10506142,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Filterkaffee Größe S",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 4.7
+  }, {
+    "currency" : "EUR",
+    "price" : 3.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 13409676,
+  "vzn" : "29",
+  "category" : "Alkoholische Getränke",
+  "title" : "König Pilsener",
+  "description" : "0,33 l Flasche",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/11_Alkoholische_Getraenke/Koenig_Pilsener/Bild_Koenig_Pilsener.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 5.0
+  }, {
+    "currency" : "EUR",
+    "price" : 4.2
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10505952,
+  "vzn" : "29",
+  "category" : "Hauptgerichte",
+  "title" : "Bolognese vom Rind",
+  "description" : "mit Fusilli",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/01_Hauptgerichte/Fusilli_mit_Bolognese/Bild_Fusilli_mit_Bolognese.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 17.0
+  }, {
+    "currency" : "EUR",
+    "price" : 14.2
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10564064,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "BIO Earl Grey Tea Größe L",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 5.2
+  }, {
+    "currency" : "EUR",
+    "price" : 4.3
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 12691840,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Veganer schwarzer Reissalat ",
+  "description" : "mit Edamame, Erdnüssen und Bambusstreifen",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 10.2
+  }, {
+    "currency" : "EUR",
+    "price" : 8.5
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10564066,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "BIO Earl Grey Tea Größe S",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 4.7
+  }, {
+    "currency" : "EUR",
+    "price" : 3.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10563812,
+  "vzn" : "29",
+  "category" : "Süß & salzig",
+  "title" : "Veganer BIO KoRo Haferriegel",
+  "description" : "mit Schokostückchen & Erdnusscrunch, 60g",
+  "checked" : true,
+  "available" : true,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/06_Suess__Salzig/Veganer_KoRo_Flapjack_Muesliriegel/Bild_Veganer_KoRo_Flapjack_Muesliriegel.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 3.5
+  }, {
+    "currency" : "EUR",
+    "price" : 2.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10505958,
+  "vzn" : "29",
+  "category" : "Hauptgerichte",
+  "title" : "Vegane Gemüsebolognese",
+  "description" : "mit Fusilli ",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/01_Hauptgerichte/Vegane_Gemuesebolognese/Bild_Vegane_Gemuesebolognese.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 15.0
+  }, {
+    "currency" : "EUR",
+    "price" : 12.5
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 13294220,
+  "vzn" : "29",
+  "category" : "Kaltgetränke",
+  "title" : "BIO Adelholzener Zitronen Limonade",
+  "description" : "0,5 l Flasche",
+  "checked" : true,
+  "available" : true,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/08_Kaltgetraenke/BIO_Adelholzener_Zitronen_Limonade/Bild_BIO_Adelholzener_Zitronen_Limonade.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 5.0
+  }, {
+    "currency" : "EUR",
+    "price" : 4.2
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 13578376,
+  "vzn" : "29",
+  "category" : "Aktion",
+  "title" : "Voelkel Ingwershot mit Kurkuma",
+  "description" : "95ml",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/00_Aktion/2025_11_12_Nov-Dez/Voelkel_Ingwershot_mit_Kurkuma/Bild_Voelkel_Ingwershot_mit_Kurkuma.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 4.2
+  }, {
+    "currency" : "EUR",
+    "price" : 3.5
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10637290,
+  "vzn" : "29",
+  "category" : "Alkoholische Getränke",
+  "title" : "Grauburgunder von Stefan Winter",
+  "description" : "QbA, trocken, Rheinhessen, vegan, 0,25 l Flasche ",
+  "checked" : true,
+  "available" : true,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/11_Alkoholische_Getraenke/Grauburgunder_Stefan_Winter/Bild_Grauburgunder_Stefan_Winter.data.jpg",
+  "declarations" : [ {
+    "shortDescription" : "16",
+    "description" : "enthält Sulfite"
+  } ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 10.7
+  }, {
+    "currency" : "EUR",
+    "price" : 8.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 13578370,
+  "vzn" : "29",
+  "category" : "Aktion",
+  "title" : "Pastrami Sandwich",
+  "description" : "mit Krautsalat und Senf-Meerrettich-Aufstrich",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/00_Aktion/2025_11_12_Nov-Dez/Pastrami_Sandwich/Bild_Pastrami_Sandwich.data.jpg",
+  "declarations" : [ {
+    "shortDescription" : "5",
+    "description" : "mit Konservierungsstoff Nitritpökelsalz"
+  }, {
+    "shortDescription" : "16",
+    "description" : "enthält Sulfite"
+  } ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 9.5
+  }, {
+    "currency" : "EUR",
+    "price" : 7.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 12948360,
+  "vzn" : "29",
+  "category" : "Süß & salzig",
+  "title" : "BIO Black Forest ICE-Cream",
+  "description" : "Weiße Schokolade & rote Früchte, 100ml",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/06_Suess__Salzig/BIO_Black_Forest_ICE-Cream/Bild_BIO_Black_Forest_ICE-Cream.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 4.6
+  }, {
+    "currency" : "EUR",
+    "price" : 3.8
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 13294212,
+  "vzn" : "29",
+  "category" : "Hauptgerichte",
+  "title" : "Gelbes Linsencurry",
+  "description" : "mit Basmatireis",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/01_Hauptgerichte/Gelbes_Linsencurry/Bild_Gelbes_Linsencurry.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 17.4
+  }, {
+    "currency" : "EUR",
+    "price" : 14.5
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10579182,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "BIO English Breakfast Tea Größe L",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 5.2
+  }, {
+    "currency" : "EUR",
+    "price" : 4.3
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10637810,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "BIO Herbal Refresh Kräutertee Größe S",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 4.7
+  }, {
+    "currency" : "EUR",
+    "price" : 3.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10579184,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "BIO English Breakfast Tea Größe S",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 4.7
+  }, {
+    "currency" : "EUR",
+    "price" : 3.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10637808,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "BIO Herbal Refresh Kräutertee Größe L",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 5.2
+  }, {
+    "currency" : "EUR",
+    "price" : 4.3
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10637300,
+  "vzn" : "29",
+  "category" : "Alkoholische Getränke",
+  "title" : "Riesling von David Spies",
+  "description" : "QbA, trocken, Rheinhessen, vegan 0,25 l Flasche",
+  "checked" : true,
+  "available" : true,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/11_Alkoholische_Getraenke/Riesling_David_Spies/Bild_Riesling_David_Spies.data.jpg",
+  "declarations" : [ {
+    "shortDescription" : "16",
+    "description" : "enthält Sulfite"
+  } ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 10.7
+  }, {
+    "currency" : "EUR",
+    "price" : 8.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10564342,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Café Crème Oatly Größe S",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 4.8
+  }, {
+    "currency" : "EUR",
+    "price" : 4.0
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 13294226,
+  "vzn" : "29",
+  "category" : "Kaltgetränke",
+  "title" : "Krombacher Spezi",
+  "description" : "0,33 l Flasche",
+  "checked" : true,
+  "available" : true,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/08_Kaltgetraenke/Krombacher_Spezi/Bild_Krombacher_Spezi.data.jpg",
+  "declarations" : [ {
+    "shortDescription" : "1",
+    "description" : "mit Farbstoff"
+  }, {
+    "shortDescription" : "12",
+    "description" : "koffeinhaltig"
+  } ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 4.7
+  }, {
+    "currency" : "EUR",
+    "price" : 3.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10564344,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Café Crème Oatly Größe M",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 5.3
+  }, {
+    "currency" : "EUR",
+    "price" : 4.4
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 13578390,
+  "vzn" : "29",
+  "category" : "Aktion",
+  "title" : "Siegfried Rheinland Winter Gin",
+  "description" : "Alc. 41 Vol.-%, 4 cl Flasche",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/00_Aktion/2025_11_12_Nov-Dez/Siegfried_Rheinland_Winter_Gin/Bild_Siegfried_Rheinland_Winter_Gin_16-5.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 8.3
+  }, {
+    "currency" : "EUR",
+    "price" : 6.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10564346,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Café Crème Oatly Größe L",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 5.8
+  }, {
+    "currency" : "EUR",
+    "price" : 4.8
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10505982,
+  "vzn" : "29",
+  "category" : "Hauptgerichte",
+  "title" : "Veganes Chili sin Carne",
+  "description" : "mit BIO Brötchen",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/01_Hauptgerichte/Veganes_Chili_sin_Carne/Bild_Veganes_Chili_sin_Carne.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 15.0
+  }, {
+    "currency" : "EUR",
+    "price" : 12.5
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 13409708,
+  "vzn" : "29",
+  "category" : "Süß & salzig",
+  "title" : "Treets Erdnüsse",
+  "description" : "im Schokomantel, 100g",
+  "checked" : true,
+  "available" : true,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/06_Suess__Salzig/Treets_Erdnuesse_im_Schokomantel/Bild_Treets_Erdnuesse_im_Schokomantel.data.jpg",
+  "declarations" : [ {
+    "shortDescription" : "1",
+    "description" : "mit Farbstoff"
+  }, {
+    "shortDescription" : "8",
+    "description" : "gewachst"
+  } ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 4.3
+  }, {
+    "currency" : "EUR",
+    "price" : 3.6
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10563776,
+  "vzn" : "29",
+  "category" : "Süß & salzig",
+  "title" : "Tony's Chocolonely Vollmilchschokolade",
+  "description" : "mit Karamell & Meersalz, 47g",
+  "checked" : true,
+  "available" : true,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/06_Suess__Salzig/Tonys_Chocolonely_Vollmilchschokolade/Bild_Tonys_Chocolonely_Vollmilchschokolade.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 3.5
+  }, {
+    "currency" : "EUR",
+    "price" : 2.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10579392,
+  "vzn" : "29",
+  "category" : "Alkoholische Getränke",
+  "title" : "ERDINGER Weißbier",
+  "description" : "0,5 l Flasche",
+  "checked" : true,
+  "available" : true,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/11_Alkoholische_Getraenke/Erdinger_Weissbier_hell/Bild_Erdinger_Weissbier_hell.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 6.2
+  }, {
+    "currency" : "EUR",
+    "price" : 5.2
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10579394,
+  "vzn" : "29",
+  "category" : "Kaltgetränke",
+  "title" : "Fever Tree Mediterranean Tonic Water",
+  "description" : "0,2 l Flasche",
+  "checked" : true,
+  "available" : true,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/08_Kaltgetraenke/Fever_Tree_Mediterranean_Tonic_Water/Bild_Fever_Tree_Mediterranean_Tonic_Water.data.jpg",
+  "declarations" : [ {
+    "shortDescription" : "17",
+    "description" : "chininhaltig"
+  } ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 5.3
+  }, {
+    "currency" : "EUR",
+    "price" : 4.4
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10564038,
+  "vzn" : "29",
+  "category" : "Heißgetränke",
+  "title" : "Kaffee löslich, entkoffeiniert",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/07_Heissgetraenke/Kaffee_loeslich_entkoffeiniert/Bild_Kaffee_loeslich_entkoffeiniert.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 4.7
+  }, {
+    "currency" : "EUR",
+    "price" : 3.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 12697254,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Currywurst mit Pommes frites",
+  "checked" : true,
+  "available" : true,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/03_Snacks/Currywurst_mit_Pommes_frites/Bild_Currywurst_mit_Pommes_frites.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 13.1
+  }, {
+    "currency" : "EUR",
+    "price" : 10.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10579398,
+  "vzn" : "29",
+  "category" : "Alkoholische Getränke",
+  "title" : "Rotkäppchen Sekt Tradition",
+  "description" : "Cuvée, trocken,  0,2 l Flasche",
+  "checked" : true,
+  "available" : true,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/11_Alkoholische_Getraenke/Rotkaeppchen_Sekt/Bild_Rotkaeppchen_Sekt.data.jpg",
+  "declarations" : [ {
+    "shortDescription" : "16",
+    "description" : "enthält Sulfite"
+  } ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 8.3
+  }, {
+    "currency" : "EUR",
+    "price" : 6.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 12697256,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Vegane Currywurst mit Pommes frites",
+  "checked" : true,
+  "available" : true,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/03_Snacks/Vegane_Currywurst_mit_Pommes_frites/Bild_Vegane_Currywurst_mit_Pommes_frites.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 13.1
+  }, {
+    "currency" : "EUR",
+    "price" : 10.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10579400,
+  "vzn" : "29",
+  "category" : "Kaltgetränke",
+  "title" : "share Mineralwasser sprudelnd",
+  "description" : "0,5 l Flasche",
+  "checked" : true,
+  "available" : true,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/08_Kaltgetraenke/share_Mineralwasser_sprudelnd/Bild_share_Mineralwasser_sprudelnd.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 4.6
+  }, {
+    "currency" : "EUR",
+    "price" : 3.8
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10579402,
+  "vzn" : "29",
+  "category" : "Kaltgetränke",
+  "title" : "share Mineralwasser still",
+  "description" : "0,5 l Flasche",
+  "checked" : true,
+  "available" : true,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/08_Kaltgetraenke/share_Mineralwasser_still/Bild_share_Mineralwasser_still.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 4.6
+  }, {
+    "currency" : "EUR",
+    "price" : 3.8
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10563788,
+  "vzn" : "29",
+  "category" : "Süß & salzig",
+  "title" : "Snickers Doppelpack",
+  "description" : "80g",
+  "checked" : true,
+  "available" : true,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/06_Suess__Salzig/Snickers_Doppelpack/Bild_Snickers_Doppelpack.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 3.0
+  }, {
+    "currency" : "EUR",
+    "price" : 2.5
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 13578686,
+  "vzn" : "29",
+  "category" : "Hauptgerichte",
+  "title" : "Linseneintopf",
+  "description" : "mit Mettenden in Scheiben & BIO Brötchen",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/04_Suppen__Salate/Linseneintopf/Bild_Linseneintopf.data.jpg",
+  "declarations" : [ {
+    "shortDescription" : "5",
+    "description" : "mit Konservierungsstoff Nitritpökelsalz"
+  } ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 15.8
+  }, {
+    "currency" : "EUR",
+    "price" : 13.2
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10564050,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Café Crème Größe S",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 4.8
+  }, {
+    "currency" : "EUR",
+    "price" : 4.0
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10505940,
+  "vzn" : "29",
+  "category" : "Hauptgerichte",
+  "title" : "Chili con Carne",
+  "description" : "vom Rind, mit Sour Cream & BIO Brötchen",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/01_Hauptgerichte/Chili_con_Carne/Bild_Chili_con_Carne.data.jpg",
+  "declarations" : [ {
+    "shortDescription" : "2",
+    "description" : "mit Antioxidationsmittel"
+  } ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 15.0
+  }, {
+    "currency" : "EUR",
+    "price" : 12.5
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10564052,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Café Crème Größe M",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 5.3
+  }, {
+    "currency" : "EUR",
+    "price" : 4.4
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 13409722,
+  "vzn" : "29",
+  "category" : "Kindermenü",
+  "title" : "BIO MOGLi Quetschie",
+  "description" : "Erdbeere mit Apfel & Banane 100g",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/02_Kindermenue/BIO_MOGLi_Quetschie/Bild_BIO_MOGLi_Quetschie.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 3.8
+  }, {
+    "currency" : "EUR",
+    "price" : 3.2
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10564054,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Café Crème Größe L",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 5.8
+  }, {
+    "currency" : "EUR",
+    "price" : 4.8
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 13008318,
+  "vzn" : "29",
+  "category" : "Heißgetränke",
+  "title" : "Kaffee löslich, entkoffeiniert mit OATLY",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/07_Heissgetraenke/Kaffee_loeslich_entkoffeiniert_mit_OATLY_Haferdrink/Bild_Kaffee_loeslich_entkoffeiniert.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 4.7
+  }, {
+    "currency" : "EUR",
+    "price" : 3.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 12691896,
+  "vzn" : "29",
+  "category" : "Alkoholische Getränke",
+  "title" : "Siegfried Rheinland Dry Gin",
+  "description" : "Alc. 41 Vol.-%, 4 cl Flasche",
+  "checked" : true,
+  "available" : true,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/11_Alkoholische_Getraenke/Siegfried_Rheinland_Dry_Gin/Bild_Siegfried_Rheinland_Dry_Gin.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 8.3
+  }, {
+    "currency" : "EUR",
+    "price" : 6.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10563546,
+  "vzn" : "29",
+  "category" : "Frühstück",
+  "title" : "Französisch",
+  "description" : "BIO Brötchen, Croissant, Butter, Bionella, Honig & Konfitüre",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/05_Fruehstueck/Franzoesisch/Bild_Franzoesisch.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 9.5
+  }, {
+    "currency" : "EUR",
+    "price" : 7.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10563806,
+  "vzn" : "29",
+  "category" : "Süß & salzig",
+  "title" : "Vegane Lisas BIO-Kesselchips",
+  "description" : "Meersalz, 50g",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/06_Suess__Salzig/Lisas_BIO-Kesselchips_Meersalz/Bild_Lisas_BIO-Kesselchips_Meersalz.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 4.2
+  }, {
+    "currency" : "EUR",
+    "price" : 3.5
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 13034824,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "BIO Bauernbrötchen",
+  "checked" : true,
+  "available" : false,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 1.9
+  }, {
+    "currency" : "EUR",
+    "price" : 1.6
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 13417308,
+  "vzn" : "29",
+  "category" : "Aktion",
+  "title" : "Bánh mì Sandwich",
+  "description" : "mit Pulled Pork, Karotten & Bambussprossen",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/00_Aktion/2025_07_Juli-Oktober/Bnh_m_Sandwich/Bild_Bnh_m_Sandwich.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 9.5
+  }, {
+    "currency" : "EUR",
+    "price" : 7.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 13417296,
+  "vzn" : "29",
+  "category" : "Aktion",
+  "title" : "Hähnchen Tikka Masala",
+  "description" : "mit Basmatireis",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/00_Aktion/2025_07_Juli-Oktober/Haehnchen_Tikka_Masala/Bild_Haehnchen_Tikka_Masala.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 17.9
+  }, {
+    "currency" : "EUR",
+    "price" : 14.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10637318,
+  "vzn" : "29",
+  "category" : "Alkoholische Getränke",
+  "title" : "Cabernet Sauvignon Rotwein von Heinrich Gies",
+  "description" : "QbA, trocken, Pfalz, 0,25 l Flasche",
+  "checked" : true,
+  "available" : true,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/11_Alkoholische_Getraenke/Cabernet_Sauvignon_Rotwein_Heinrich_Gies/Bild_Cabernet_Sauvignon_Rotwein_Heinrich_Gies.data.jpg",
+  "declarations" : [ {
+    "shortDescription" : "16",
+    "description" : "enthält Sulfite"
+  } ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 10.7
+  }, {
+    "currency" : "EUR",
+    "price" : 8.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10579212,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "BIO Grüntee Jingshen Größe L",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 5.2
+  }, {
+    "currency" : "EUR",
+    "price" : 4.3
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10579214,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "BIO Grüntee Jingshen Größe S",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 4.7
+  }, {
+    "currency" : "EUR",
+    "price" : 3.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 13578360,
+  "vzn" : "29",
+  "category" : "Aktion",
+  "title" : "Szegediner Gulasch",
+  "description" : " mit Kartoffelstampf",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/00_Aktion/2025_11_12_Nov-Dez/Szegediner_Gulasch/Bild_Szegediner_Gulasch.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 19.1
+  }, {
+    "currency" : "EUR",
+    "price" : 15.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 13294196,
+  "vzn" : "29",
+  "category" : "Frühstück",
+  "title" : "Egg Drop Sandwich",
+  "description" : "mit Putenbacon, Cheddar & Sriracha Sauce",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/00_Aktion/2025_05_Mai/Egg_Drop_Sandwich/Bild_Egg_Drop_Sandwich.data.jpg",
+  "declarations" : [ {
+    "shortDescription" : "1",
+    "description" : "mit Farbstoff"
+  }, {
+    "shortDescription" : "5",
+    "description" : "mit Konservierungsstoff Nitritpökelsalz"
+  }, {
+    "shortDescription" : "9",
+    "description" : "mit Phosphat"
+  } ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 8.6
+  }, {
+    "currency" : "EUR",
+    "price" : 7.2
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10508128,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Honig",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 1.4
+  }, {
+    "currency" : "EUR",
+    "price" : 1.2
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 12691458,
+  "vzn" : "29",
+  "category" : "Süß & salzig",
+  "title" : "Vegane ültje Erdnüsse",
+  "description" : "geröstet & gesalzen, 50 g",
+  "checked" : true,
+  "available" : true,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/06_Suess__Salzig/Vegane_ueltje_Erdnuesse/Bild_Vegane_ueltje_Erdnuesse.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 3.0
+  }, {
+    "currency" : "EUR",
+    "price" : 2.5
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10508132,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Konfitüre",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 1.4
+  }, {
+    "currency" : "EUR",
+    "price" : 1.2
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10559076,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Spielfigur \"Benni IC Bus\"",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 0.01
+  }, {
+    "currency" : "EUR",
+    "price" : 0.01
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10559078,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Spielfigur Nick Nachtzug",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 0.01
+  }, {
+    "currency" : "EUR",
+    "price" : 0.01
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10559080,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Spielfigur IC-IDA",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 0.01
+  }, {
+    "currency" : "EUR",
+    "price" : 0.01
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10564202,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Café au Lait Größe S",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 5.0
+  }, {
+    "currency" : "EUR",
+    "price" : 4.2
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10559084,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Spielfigur \"Robbi Regio\"",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 0.01
+  }, {
+    "currency" : "EUR",
+    "price" : 0.01
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10564204,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Café au Lait Größe L",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 6.0
+  }, {
+    "currency" : "EUR",
+    "price" : 5.0
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10564206,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Café au Lait Größe M",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 5.5
+  }, {
+    "currency" : "EUR",
+    "price" : 4.6
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10559086,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Kartenspiel Kinder",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 0.01
+  }, {
+    "currency" : "EUR",
+    "price" : 0.01
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10508144,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Ketchup",
+  "checked" : true,
+  "available" : true,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/Z_Extras/10_Bild_Ketchup.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 1.4
+  }, {
+    "currency" : "EUR",
+    "price" : 1.2
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10559088,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Günni Güterzug",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 0.01
+  }, {
+    "currency" : "EUR",
+    "price" : 0.01
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10508146,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Mayonnaise",
+  "checked" : true,
+  "available" : true,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/Z_Extras/11_Bild_Mayo.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 1.4
+  }, {
+    "currency" : "EUR",
+    "price" : 1.2
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10559090,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Spielfigur Opa Adler",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 0.01
+  }, {
+    "currency" : "EUR",
+    "price" : 0.01
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10508148,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Senf",
+  "checked" : true,
+  "available" : true,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/Z_Extras/11_Bild_Senf.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 1.4
+  }, {
+    "currency" : "EUR",
+    "price" : 1.2
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10559092,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Simsala Sum",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 0.01
+  }, {
+    "currency" : "EUR",
+    "price" : 0.01
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10508150,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Veganes BIO Topping Haselnuss-Cashew",
+  "checked" : true,
+  "available" : true,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/Z_Extras/13_Bild_Topping_Haselnuss_Cashew.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 2.2
+  }, {
+    "currency" : "EUR",
+    "price" : 1.8
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10559094,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Kleiner ICE RD",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 0.01
+  }, {
+    "currency" : "EUR",
+    "price" : 0.01
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10579318,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Espresso Macchiato Größe S",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 4.2
+  }, {
+    "currency" : "EUR",
+    "price" : 3.5
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10579320,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Espresso Macchiato Größe M",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 4.7
+  }, {
+    "currency" : "EUR",
+    "price" : 3.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10563704,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Veganes BIO Haferkater Porridge Apfel-Zimt im Menü",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 5.9
+  }, {
+    "currency" : "EUR",
+    "price" : 4.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 12623132,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Puffreisriegel",
+  "description" : "Süßigkeit zum Kindermenü",
+  "checked" : true,
+  "available" : true,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/02_Kindermenue/Puffreisriegel/Bild_Puffreisriegel.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 0.01
+  }, {
+    "currency" : "EUR",
+    "price" : 0.01
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 13251880,
+  "vzn" : "29",
+  "category" : "Alkoholische Getränke",
+  "title" : "Bitburger Premium Pils groß",
+  "description" : "0,5 l Flasche",
+  "checked" : true,
+  "available" : true,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/11_Alkoholische_Getraenke/Bitburger_Premium_Pils/Bild_Bitburger_Premium_Pils_gross.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 6.2
+  }, {
+    "currency" : "EUR",
+    "price" : 5.2
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 12691746,
+  "vzn" : "29",
+  "category" : "Frühstück",
+  "title" : "Zimtschnecke",
+  "description" : "90g",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/06_Suess__Salzig/Zimtschnecke/Bild_Zimtschnecke.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 5.0
+  }, {
+    "currency" : "EUR",
+    "price" : 4.2
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10563652,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Pommes frites im Menü",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 5.9
+  }, {
+    "currency" : "EUR",
+    "price" : 4.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10612806,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Eisstick",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 1.2
+  }, {
+    "currency" : "EUR",
+    "price" : 1.0
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10563398,
+  "vzn" : "29",
+  "category" : "Snacks",
+  "title" : "Warmes Schinken-Käse-Baguette",
+  "description" : "mit Frischkäse-Senf-Aufstrich",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/03_Snacks/Warmes_Schinken-Kaese-Baguette/Bild_Warmes_Schinken-Kaese-Baguette.data.jpg",
+  "declarations" : [ {
+    "shortDescription" : "2",
+    "description" : "mit Antioxidationsmittel"
+  }, {
+    "shortDescription" : "5",
+    "description" : "mit Konservierungsstoff Nitritpökelsalz"
+  }, {
+    "shortDescription" : "9",
+    "description" : "mit Phosphat"
+  } ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 9.5
+  }, {
+    "currency" : "EUR",
+    "price" : 7.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10579276,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Cappuccino Größe S",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 4.8
+  }, {
+    "currency" : "EUR",
+    "price" : 4.0
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10579278,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Cappuccino Größe M",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 5.3
+  }, {
+    "currency" : "EUR",
+    "price" : 4.4
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10579280,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Cappuccino Größe L",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 5.8
+  }, {
+    "currency" : "EUR",
+    "price" : 4.8
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10562898,
+  "vzn" : "29",
+  "category" : "Snacks",
+  "title" : "Currywurst mit BIO Brötchen",
+  "description" : "& Tortilla-Crunch",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/03_Snacks/Currywurst/Bild_Currywurst.data.jpg",
+  "declarations" : [ {
+    "shortDescription" : "9",
+    "description" : "mit Phosphat"
+  } ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 9.5
+  }, {
+    "currency" : "EUR",
+    "price" : 7.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10579286,
+  "vzn" : "29",
+  "category" : "Heißgetränke",
+  "title" : "COCAYA Heiße Schokolade",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/07_Heissgetraenke/COCAYA_Heisse_Schokolade/Bild_COCAYA_Heisse_Schokolade.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 4.8
+  }, {
+    "currency" : "EUR",
+    "price" : 4.0
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10579290,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Espresso Größe S",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 4.0
+  }, {
+    "currency" : "EUR",
+    "price" : 3.3
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10579292,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Espresso Größe M",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 4.3
+  }, {
+    "currency" : "EUR",
+    "price" : 3.6
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10563164,
+  "vzn" : "29",
+  "category" : "Snacks",
+  "title" : "Vegane Currywurst mit BIO Brötchen",
+  "description" : "& Tortilla-Crunch ",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/03_Snacks/Vegane_Currywurst/Bild_Vegane_Currywurst.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 9.5
+  }, {
+    "currency" : "EUR",
+    "price" : 7.9
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10508126,
+  "vzn" : "29",
+  "category" : "",
+  "title" : "Butter",
+  "checked" : true,
+  "available" : true,
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 1.4
+  }, {
+    "currency" : "EUR",
+    "price" : 1.2
+  } ]
+}, {
+  "productType" : "ARTICLE",
+  "ecmId" : 10562910,
+  "vzn" : "29",
+  "category" : "Snacks",
+  "title" : "Ditsch Butterbrezel ",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/03_Snacks/Ditsch_Butterbrezel/Bild_Ditsch_Butterbrezel.data.jpg",
+  "declarations" : [ ],
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 4.7
+  }, {
+    "currency" : "EUR",
+    "price" : 3.9
+  } ]
+}, {
+  "productType" : "ARTICLE_WITH_EXTRAS",
+  "ecmId" : 13500140,
+  "vzn" : "29",
+  "category" : "Frühstück",
+  "title" : "BIO Bauernbrötchen mit Saaten",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/05_Fruehstueck/BIO_Bauernbroetchen_mit_Saaten/Bild_Bio_Bauernbroetchen_mit_Saaten.data.jpg",
+  "declarations" : [ ],
+  "articleId" : 13500138,
+  "extraChoice" : {
+    "articleIds" : [ 10508126, 10508128, 13149662, 10508132 ],
+    "textBeforeChoice" : "Wählen Sie Ihre Extras aus",
+    "textAfterChoice" : "Ihre ausgewählten Extras"
+  }
+}, {
+  "productType" : "ARTICLE_WITH_EXTRAS",
+  "ecmId" : 12697154,
+  "vzn" : "29",
+  "category" : "Snacks",
+  "title" : "Vegane Currywurst mit Pommes frites",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/03_Snacks/Vegane_Currywurst_mit_Pommes_frites/Bild_Vegane_Currywurst_mit_Pommes_frites.data.jpg",
+  "declarations" : [ ],
+  "articleId" : 12697256,
+  "extraChoice" : {
+    "articleIds" : [ 10508144, 10508146 ],
+    "textBeforeChoice" : "Wählen Sie Ihre Extras aus",
+    "textAfterChoice" : "Ihre ausgewählten Extras"
+  }
+}, {
+  "productType" : "ARTICLE_WITH_EXTRAS",
+  "ecmId" : 10637718,
+  "vzn" : "29",
+  "category" : "Frühstück",
+  "title" : "Veganes BIO Haferkater Porridge Blaubeere",
+  "description" : "auf Wunsch mit Haferkater Haselnuss-Cashew Topping",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/05_Fruehstueck/Veganes_BIO_Porridge_Blaubeere/Bild_Veganes_BIO_Porridge_Blaubeere.data.jpg",
+  "declarations" : [ ],
+  "articleId" : 10637716,
+  "extraChoice" : {
+    "articleIds" : [ 10508150 ],
+    "textBeforeChoice" : "Wählen Sie Ihre Extras aus",
+    "textAfterChoice" : "Ihre ausgewählten Extras"
+  }
+}, {
+  "productType" : "ARTICLE_WITH_EXTRAS",
+  "ecmId" : 10563700,
+  "vzn" : "29",
+  "category" : "Frühstück",
+  "title" : "Veganes BIO Haferkater Porridge Apfel-Zimt",
+  "description" : "auf Wunsch mit Haferkater Haselnuss-Cashew Topping",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/05_Fruehstueck/Porridge_Apfel-Zimt/Bild_Porridge_Apfel-Zimt_Fruehstueck_neu.data.jpg",
+  "declarations" : [ ],
+  "articleId" : 10563704,
+  "extraChoice" : {
+    "articleIds" : [ 10508150 ],
+    "textBeforeChoice" : "Wählen Sie Ihre Extras aus",
+    "textAfterChoice" : "Ihre ausgewählten Extras"
+  }
+}, {
+  "productType" : "ARTICLE_WITH_EXTRAS",
+  "ecmId" : 12697158,
+  "vzn" : "29",
+  "category" : "Snacks",
+  "title" : "Currywurst mit Pommes frites",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/03_Snacks/Currywurst_mit_Pommes_frites/Bild_Currywurst_mit_Pommes_frites.data.jpg",
+  "declarations" : [ ],
+  "articleId" : 12697254,
+  "extraChoice" : {
+    "articleIds" : [ 10508144, 10508146 ],
+    "textBeforeChoice" : "Wählen Sie Ihre Extras aus",
+    "textAfterChoice" : "Ihre ausgewählten Extras"
+  }
+}, {
+  "productType" : "ARTICLE_WITH_EXTRAS",
+  "ecmId" : 10563514,
+  "vzn" : "29",
+  "category" : "Frühstück",
+  "title" : "Buttercroissant",
+  "checked" : true,
+  "available" : true,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/05_Fruehstueck/Buttercroissant/Bild_Buttercroissant.data.jpg",
+  "declarations" : [ ],
+  "articleId" : 10563512,
+  "extraChoice" : {
+    "articleIds" : [ 10508126, 10508128, 13149662, 10508132 ],
+    "textBeforeChoice" : "Wählen Sie Ihre Extras aus",
+    "textAfterChoice" : "Ihre ausgewählten Extras"
+  }
+}, {
+  "productType" : "ARTICLE_WITH_EXTRAS",
+  "ecmId" : 12691850,
+  "vzn" : "29",
+  "category" : "Suppen & Salate",
+  "title" : "Veganer schwarzer Reissalat",
+  "description" : "mit Edamame, Erdnüssen und Bambusstreifen",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/04_Suppen__Salate/Veganer_schwarzer_Reissalat/Bild_Veganer_schwarzer_Reissalat.data.jpg",
+  "declarations" : [ ],
+  "articleId" : 12691840,
+  "extraChoice" : {
+    "articleIds" : [ 13034824, 13500138 ],
+    "textBeforeChoice" : "Wählen Sie Ihre Extras aus",
+    "textAfterChoice" : "Ihre ausgewählten Extras"
+  }
+}, {
+  "productType" : "ARTICLE_WITH_EXTRAS",
+  "ecmId" : 13034826,
+  "vzn" : "29",
+  "category" : "Frühstück",
+  "title" : "BIO Bauernbrötchen ",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/05_Fruehstueck/BIO_Bauernbroetchen/Bild_Bio_Broetchen.data.jpg",
+  "declarations" : [ ],
+  "articleId" : 13034824,
+  "extraChoice" : {
+    "articleIds" : [ 10508126, 10508128, 13149662, 10508132 ],
+    "textBeforeChoice" : "Wählen Sie Ihre Extras aus",
+    "textAfterChoice" : "Ihre ausgewählten Extras"
+  }
+}, {
+  "productType" : "MENU",
+  "ecmId" : 13409742,
+  "vzn" : "29",
+  "category" : "Aktion",
+  "title" : "Menü: Hähnchen Tikka Masala",
+  "description" : "und Basmatireis dazu Krombacher Spezi oder König Pilsener, 0,33 l Flasche",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/00_Aktion/2025_07_Juli-Oktober/Menue_Haehnchen_Tikka_Masala_mit_Spezi_oder_Bier/Bild_Menue_Haehnchen_Tikka_Masala_dazu_ein_Spezi_oder_Bier.data.jpg",
+  "declarations" : [ ],
+  "articleIds" : [ 13417296 ],
+  "optionChoices" : [ {
+    "articleIds" : [ 13294226, 13409676 ],
+    "textBeforeChoice" : "Bitte wählen Sie ein Getränk",
+    "textAfterChoice" : "Ihr ausgewähltes Getränk"
+  } ],
+  "extraChoice" : {
+    "articleIds" : [ ]
+  },
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 20.6
+  }, {
+    "currency" : "EUR",
+    "price" : 17.2
+  } ]
+}, {
+  "productType" : "MENU",
+  "ecmId" : 13579788,
+  "vzn" : "29",
+  "category" : "Aktion",
+  "title" : "Menü: Szegediner Gulasch mit Kartoffelstampf",
+  "description" : "dazu Starnberger Hell, 0,5 l Flasche",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/00_Aktion/2025_11_12_Nov-Dez/Menue_Szegediner_Gulasch_mit_Kartoffelstampf_und_Bier/Bild_Szegediner_Gulasch_mit_Kartoffelstampf_und_Bier.data.jpg",
+  "declarations" : [ ],
+  "articleIds" : [ 13578360, 12868350 ],
+  "optionChoices" : [ ],
+  "extraChoice" : {
+    "articleIds" : [ ]
+  },
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 22.7
+  }, {
+    "currency" : "EUR",
+    "price" : 18.9
+  } ]
+}, {
+  "productType" : "MENU",
+  "ecmId" : 10559014,
+  "vzn" : "29",
+  "category" : "Kindermenü",
+  "title" : "Kindermenü (bis 14 J.): Pasta Bolognese",
+  "description" : "dazu ein Getränk, eine kleine Süßigkeit, einen Smoothie sowie ein Spielzeug",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/02_Kindermenue/Kindermenue_bis_14_J._Pasta_Bolognese/Bild_NEU_Kindermenue_bis_14_J._Pasta_Bolognese.data.jpg",
+  "declarations" : [ ],
+  "articleIds" : [ 10505952, 13409722, 12623132 ],
+  "optionChoices" : [ {
+    "articleIds" : [ 10579402, 10579400, 10579368 ],
+    "textBeforeChoice" : "Bitte wählen Sie ein Getränk",
+    "textAfterChoice" : "Ihr ausgewähltes Getränk"
+  }, {
+    "articleIds" : [ 10559076, 10559078, 10559080, 10559084, 10559086, 10559088, 10559090, 10559092, 10559094, 10649788 ],
+    "textBeforeChoice" : "Bitte wählen Sie ein Spielzeug (n. Verfügbarkeit)",
+    "textAfterChoice" : "Ihre Auswahl"
+  } ],
+  "extraChoice" : {
+    "articleIds" : [ ]
+  },
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 11.9
+  }, {
+    "currency" : "EUR",
+    "price" : 9.9
+  } ]
+}, {
+  "productType" : "MENU",
+  "ecmId" : 13417540,
+  "vzn" : "29",
+  "category" : "Aktion",
+  "title" : "Menü: Bánh mì Sandwich",
+  "description" : "dazu Krombacher Spezi oder König Pilsener,  0,33 l Flasche",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/00_Aktion/2025_07_Juli-Oktober/Menue_Bnh_m_Sandwich/Bild_Menue_Bnh_m_Sandwich_dazu_ein_Getraenk.data.jpg",
+  "declarations" : [ ],
+  "articleIds" : [ 13417308 ],
+  "optionChoices" : [ {
+    "articleIds" : [ 13294226, 13409676 ],
+    "textBeforeChoice" : "Bitte wählen Sie ein Getränk",
+    "textAfterChoice" : "Ihr ausgewähltes Getränk"
+  } ],
+  "extraChoice" : {
+    "articleIds" : [ ]
+  },
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 12.6
+  }, {
+    "currency" : "EUR",
+    "price" : 10.5
+  } ]
+}, {
+  "productType" : "MENU",
+  "ecmId" : 13579782,
+  "vzn" : "29",
+  "category" : "Aktion",
+  "title" : "Menü: Vegetarisches Vollkorn-Haferbrot",
+  "description" : "dazu Voelkel Ingwershot mit Kurkuma",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/00_Aktion/2025_11_12_Nov-Dez/Menue_Vollkorn_Haferbrot_mit_Ingwershot/Bild_Vollkornhaferbrot_mit_Ingewershot.data.jpg",
+  "declarations" : [ {
+    "shortDescription" : "1",
+    "description" : "mit Farbstoff"
+  } ],
+  "articleIds" : [ 13578692, 13578376 ],
+  "optionChoices" : [ ],
+  "extraChoice" : {
+    "articleIds" : [ ]
+  },
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 10.7
+  }, {
+    "currency" : "EUR",
+    "price" : 8.9
+  } ]
+}, {
+  "productType" : "MENU",
+  "ecmId" : 10649544,
+  "vzn" : "29",
+  "category" : "Kindermenü",
+  "title" : "Kindermenü (bis 14 J.): Porridge Apfel-Zimt",
+  "description" : "dazu ein Getränk, eine kleine Süßigkeit, einen Smoothie sowie ein Spielzeug",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/02_Kindermenue/Kindermenue_bis_14_J._Porridge_Apfel-Zimt/Bild_NEU_Kindermenue_bis_14_J._Porridge_Apfel-Zimt.data.jpg",
+  "declarations" : [ ],
+  "articleIds" : [ 10563704, 13409722, 12623132 ],
+  "optionChoices" : [ {
+    "articleIds" : [ 10579402, 10579400, 10579368 ],
+    "textBeforeChoice" : "Bitte wählen Sie ein Getränk",
+    "textAfterChoice" : "Ihr ausgewähltes Getränk"
+  }, {
+    "articleIds" : [ 10559076, 10559078, 10559080, 10559084, 10559086, 10559088, 10559090, 10559092, 10559094, 10649788 ],
+    "textBeforeChoice" : "Bitte wählen Sie ein Spielzeug (n. Verfügbarkeit)",
+    "textAfterChoice" : "Ihre Auswahl"
+  } ],
+  "extraChoice" : {
+    "articleIds" : [ ]
+  },
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 9.5
+  }, {
+    "currency" : "EUR",
+    "price" : 7.9
+  } ]
+}, {
+  "productType" : "MENU",
+  "ecmId" : 13417504,
+  "vzn" : "29",
+  "category" : "Aktion",
+  "title" : "Menü: Zimtschnecke",
+  "description" : "dazu ein Heißgetränk nach Wahl Größe M",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/00_Aktion/2025_07_Juli-Oktober/Menue_Zimtschnecke_mit_Heissgetraenk/Bild_Geburtstagsmenue_Zimtschnecke_dazu_ein_Heissgetraenk.data.jpg",
+  "declarations" : [ ],
+  "articleIds" : [ 12691746 ],
+  "optionChoices" : [ {
+    "articleIds" : [ 10506140, 10564020, 10564052, 10564344, 10579278, 10564206, 10579332, 10579292, 10579320, 10579286, 10564038, 10564064, 10579182, 10579212, 10637808, 10579340 ],
+    "textBeforeChoice" : "Bitte wählen Sie ein Heißgetränk",
+    "textAfterChoice" : "Ihr ausgewähltes Heißgetränk"
+  } ],
+  "extraChoice" : {
+    "articleIds" : [ ]
+  },
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 9.2
+  }, {
+    "currency" : "EUR",
+    "price" : 7.7
+  } ]
+}, {
+  "productType" : "MENU",
+  "ecmId" : 10637710,
+  "vzn" : "29",
+  "category" : "Kindermenü",
+  "title" : "Kindermenü (bis 14 J.): Porridge Blaubeere",
+  "description" : "dazu ein Getränk, eine kleine Süßigkeit, einen Smoothie sowie ein Spielzeug",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/02_Kindermenue/Kindermenue_bis_14_J._Porridge_Blaubeere/Bild_neu_Kindermenue_bis_14_J._Porridge_Blaubeere.data.jpg",
+  "declarations" : [ ],
+  "articleIds" : [ 10637716, 13409722, 12623132 ],
+  "optionChoices" : [ {
+    "articleIds" : [ 10579402, 10579400, 10579368 ],
+    "textBeforeChoice" : "Bitte wählen Sie ein Getränk",
+    "textAfterChoice" : "Ihr ausgewähltes Getränk"
+  }, {
+    "articleIds" : [ 10559076, 10559078, 10559080, 10559084, 10559086, 10559088, 10559090, 10559092, 10559094, 10649788 ],
+    "textBeforeChoice" : "Bitte wählen Sie ein Spielzeug (n. Verfügbarkeit)",
+    "textAfterChoice" : "Ihre Auswahl"
+  } ],
+  "extraChoice" : {
+    "articleIds" : [ ]
+  },
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 9.5
+  }, {
+    "currency" : "EUR",
+    "price" : 7.9
+  } ]
+}, {
+  "productType" : "MENU",
+  "ecmId" : 12691980,
+  "vzn" : "29",
+  "category" : "Alkoholische Getränke",
+  "title" : "Siegfried Gin Tonic",
+  "description" : "mit Fever-Tree Mediterranean Tonic Water, 0,24 l, Alc. 41 Vol.-%",
+  "checked" : true,
+  "available" : true,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/11_Alkoholische_Getraenke/Siegfried_Gin_Tonic/Bild_Siegfried_Gin_Tonic.data.jpg",
+  "declarations" : [ {
+    "shortDescription" : "17",
+    "description" : "chininhaltig"
+  } ],
+  "articleIds" : [ 12691896, 10579394, 10612806 ],
+  "optionChoices" : [ ],
+  "extraChoice" : {
+    "articleIds" : [ ]
+  },
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 13.2
+  }, {
+    "currency" : "EUR",
+    "price" : 11.0
+  } ]
+}, {
+  "productType" : "MENU",
+  "ecmId" : 10612846,
+  "vzn" : "29",
+  "category" : "Snacks",
+  "title" : "Pommes frites",
+  "description" : "mit Ketchup oder Mayonnaise",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/03_Snacks/Pommes_frites/Bild_Pommes_frites.data.jpg",
+  "declarations" : [ ],
+  "articleIds" : [ 10563652 ],
+  "optionChoices" : [ {
+    "articleIds" : [ 10508144, 10508146 ],
+    "textBeforeChoice" : "Bitte wählen Sie eine Soße",
+    "textAfterChoice" : "Ihre ausgewählte Soße"
+  } ],
+  "extraChoice" : {
+    "articleIds" : [ ]
+  },
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 5.9
+  }, {
+    "currency" : "EUR",
+    "price" : 4.9
+  } ]
+}, {
+  "productType" : "MENU",
+  "ecmId" : 10559120,
+  "vzn" : "29",
+  "category" : "Kindermenü",
+  "title" : "Kindermenü (bis 14 J.): Vegane Gemüsebolognese",
+  "description" : "dazu ein Getränk, eine kleine Süßigkeit, einen Smoothie sowie ein Spielzeug",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/02_Kindermenue/Kindermenue_bis_14_J._Vegane_Gemuesebolognese/Bild_Kindermenue_NEU_bis_14_J._Vegane_Gemuesebolognese.data.jpg",
+  "declarations" : [ ],
+  "articleIds" : [ 10505958, 13409722, 12623132 ],
+  "optionChoices" : [ {
+    "articleIds" : [ 10579402, 10579400, 10579368 ],
+    "textBeforeChoice" : "Bitte wählen Sie ein Getränk",
+    "textAfterChoice" : "Ihr ausgewähltes Getränk"
+  }, {
+    "articleIds" : [ 10559076, 10559078, 10559080, 10559084, 10559086, 10559088, 10559090, 10559092, 10559094, 10649788 ],
+    "textBeforeChoice" : "Bitte wählen Sie ein Spielzeug (n. Verfügbarkeit)",
+    "textAfterChoice" : "Ihre Auswahl"
+  } ],
+  "extraChoice" : {
+    "articleIds" : [ ]
+  },
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 11.9
+  }, {
+    "currency" : "EUR",
+    "price" : 9.9
+  } ]
+}, {
+  "productType" : "MENU",
+  "ecmId" : 13578716,
+  "vzn" : "29",
+  "category" : "Aktion",
+  "title" : "Menü: Baumkuchen dazu ein Heißgetränk ",
+  "description" : "nach Wahl Größe M",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/00_Aktion/2025_11_12_Nov-Dez/Menue_Baumkuchen_mit_Heissgetraenk/Bild_Menue_Baumkuchen_dazu_ein_Heissgetraenk.data.jpg",
+  "declarations" : [ ],
+  "articleIds" : [ 13578482 ],
+  "optionChoices" : [ {
+    "articleIds" : [ 10506140, 10564020, 10564052, 10564344, 10579278, 10564206, 10579332, 10579292, 10579320, 10579286, 10564038, 10564064, 10579182, 10579212, 10637808, 10579340 ],
+    "textBeforeChoice" : "Bitte wählen Sie ein Heißgetränk",
+    "textAfterChoice" : "Ihr ausgewähltes Heißgetränk"
+  } ],
+  "extraChoice" : {
+    "articleIds" : [ ]
+  },
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 9.5
+  }, {
+    "currency" : "EUR",
+    "price" : 7.9
+  } ]
+}, {
+  "productType" : "MENU",
+  "ecmId" : 10559154,
+  "vzn" : "29",
+  "category" : "Kindermenü",
+  "title" : "Kindermenü (bis 14 J.): Pommes frites",
+  "description" : "dazu ein Getränk, eine kleine Süßigkeit, einen Smoothie sowie ein Spielzeug",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/02_Kindermenue/Kindermenue_bis_14_J._Pommes_frites/NEU_Bild_Kindermenue_Pommes_16-5.data.jpg",
+  "declarations" : [ ],
+  "articleIds" : [ 10563652, 13409722, 12623132 ],
+  "optionChoices" : [ {
+    "articleIds" : [ 10508144, 10508146 ],
+    "textBeforeChoice" : "Bitte wählen Sie eine Soße",
+    "textAfterChoice" : "Ihre ausgewählte Soße"
+  }, {
+    "articleIds" : [ 10579402, 10579400, 10579368 ],
+    "textBeforeChoice" : "Bitte wählen Sie ein Getränk",
+    "textAfterChoice" : "Ihr ausgewähltes Getränk"
+  }, {
+    "articleIds" : [ 10559076, 10559078, 10559080, 10559084, 10559086, 10559088, 10559090, 10559092, 10559094, 10649788 ],
+    "textBeforeChoice" : "Bitte wählen Sie ein Spielzeug (n. Verfügbarkeit)",
+    "textAfterChoice" : "Ihre Auswahl"
+  } ],
+  "extraChoice" : {
+    "articleIds" : [ ]
+  },
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 9.5
+  }, {
+    "currency" : "EUR",
+    "price" : 7.9
+  } ]
+}, {
+  "productType" : "MENU",
+  "ecmId" : 13579770,
+  "vzn" : "29",
+  "category" : "Aktion",
+  "title" : "Siegfried Winter Gin Tonic",
+  "description" : "mit Fever-Tree Mediterranean Tonic Water, 0,24 l, Alc. 41 Vol.-%",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/00_Aktion/2025_11_12_Nov-Dez/Siegfried_Winter_Gin_Tonic/Bild_Siegfried_Winter_Gin_Tonic.data.jpg",
+  "declarations" : [ {
+    "shortDescription" : "17",
+    "description" : "chininhaltig"
+  } ],
+  "articleIds" : [ 13578390, 10579394, 10612806 ],
+  "optionChoices" : [ ],
+  "extraChoice" : {
+    "articleIds" : [ ]
+  },
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 13.2
+  }, {
+    "currency" : "EUR",
+    "price" : 11.0
+  } ]
+}, {
+  "productType" : "MENU",
+  "ecmId" : 13417562,
+  "vzn" : "29",
+  "category" : "Aktion",
+  "title" : "Menü: Rotes Thai Curry mit Shiitake-Pilzen",
+  "description" : "Gemüse und Basmatireis, dazu Krombacher Spezi oder König Pilsener, 0,33 l Flasche",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/00_Aktion/2025_07_Juli-Oktober/Menue_Rotes_Thai_Curry_mit_Spezi_oder_Bier_1/Bild_Menue_Rotes_Thai_Curry_dazu_ein_Spezi_oder_Bier.data.jpg",
+  "declarations" : [ {
+    "shortDescription" : "1",
+    "description" : "mit Farbstoff"
+  } ],
+  "articleIds" : [ 13409740 ],
+  "optionChoices" : [ {
+    "articleIds" : [ 13294226, 13409676 ],
+    "textBeforeChoice" : "Bitte wählen Sie ein Getränk",
+    "textAfterChoice" : "Ihr ausgewähltes Getränk"
+  } ],
+  "extraChoice" : {
+    "articleIds" : [ ]
+  },
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 19.4
+  }, {
+    "currency" : "EUR",
+    "price" : 16.2
+  } ]
+}, {
+  "productType" : "MENU",
+  "ecmId" : 13585368,
+  "vzn" : "29",
+  "category" : "Aktion",
+  "title" : "Menü: Frikadellenbrötchen mit Starnberger Hell",
+  "description" : "0,5 l Flasche, dazu Ketchup oder Senf",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/00_Aktion/2025_11_12_Nov-Dez/Menue_Frikadellenbroetchen_mit_Starnberger_Hell/Bild_Menue_Frikadellenbroetchen_mit_Starnberger_Hell.data.jpg",
+  "declarations" : [ ],
+  "articleIds" : [ 13417424, 12868350 ],
+  "optionChoices" : [ {
+    "articleIds" : [ 10508144, 10508148 ],
+    "textBeforeChoice" : "Bitte wählen Sie eine Soße",
+    "textAfterChoice" : "Ihre ausgewählte Soße"
+  } ],
+  "extraChoice" : {
+    "articleIds" : [ ]
+  },
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 11.9
+  }, {
+    "currency" : "EUR",
+    "price" : 9.9
+  } ]
+}, {
+  "productType" : "MENU",
+  "ecmId" : 13579794,
+  "vzn" : "29",
+  "category" : "Aktion",
+  "title" : "Menü: Lisas Kesselchips mit Siegfried Winter Gin",
+  "description" : "und Fever-Tree Tonic",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/00_Aktion/2025_11_12_Nov-Dez/Menue_Lisas_Kesselchips_mit_Siegfried_Winter_Gin/Bild_Lisas_Kesselchips_mit_Siegfried_Winter_Gin.data.jpg",
+  "declarations" : [ {
+    "shortDescription" : "17",
+    "description" : "chininhaltig"
+  } ],
+  "articleIds" : [ 10563806, 13578390, 10579394 ],
+  "optionChoices" : [ ],
+  "extraChoice" : {
+    "articleIds" : [ ]
+  },
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 15.5
+  }, {
+    "currency" : "EUR",
+    "price" : 12.9
+  } ]
+}, {
+  "productType" : "MENU",
+  "ecmId" : 13417810,
+  "vzn" : "29",
+  "category" : "Aktion",
+  "title" : "Frikadellenbrötchen",
+  "description" : "mit Ketchup oder Senf ",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/00_Aktion/2025_07_Juli-Oktober/Frikadellenbroetchen/Bild_Frikadellenbroetchen.data.jpg",
+  "declarations" : [ ],
+  "articleIds" : [ 13417424 ],
+  "optionChoices" : [ {
+    "articleIds" : [ 10508144, 10508148 ],
+    "textBeforeChoice" : "Bitte wählen Sie eine Soße",
+    "textAfterChoice" : "Ihre ausgewählte Soße"
+  } ],
+  "extraChoice" : {
+    "articleIds" : [ ]
+  },
+  "prices" : [ {
+    "currency" : "CHF",
+    "price" : 7.1
+  }, {
+    "currency" : "EUR",
+    "price" : 5.9
+  } ]
+}, {
+  "productType" : "OPTION_ARTICLE",
+  "ecmId" : 10506144,
+  "vzn" : "29",
+  "category" : "Heißgetränke",
+  "title" : "Filterkaffee",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/07_Heissgetraenke/Filterkaffee/Bild_Kaffee.data.jpg",
+  "declarations" : [ ],
+  "optionChoice" : {
+    "articleIds" : [ 10506142, 10506140, 10506138 ],
+    "textBeforeChoice" : "Bitte wählen Sie eine Größe",
+    "textAfterChoice" : "Ihre ausgewählte Größe"
+  },
+  "extraChoice" : {
+    "articleIds" : [ ]
+  }
+}, {
+  "productType" : "OPTION_ARTICLE",
+  "ecmId" : 10579328,
+  "vzn" : "29",
+  "category" : "Heißgetränke",
+  "title" : "Latte Macchiato",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/07_Heissgetraenke/Latte_Macchiato/Bild_Latte_Macchiato.data.jpg",
+  "declarations" : [ ],
+  "optionChoice" : {
+    "articleIds" : [ 10579330, 10579332, 10579334 ],
+    "textBeforeChoice" : "Bitte wählen Sie eine Größe",
+    "textAfterChoice" : "Ihre ausgewählte Größe"
+  },
+  "extraChoice" : {
+    "articleIds" : [ ]
+  }
+}, {
+  "productType" : "OPTION_ARTICLE",
+  "ecmId" : 10564200,
+  "vzn" : "29",
+  "category" : "Heißgetränke",
+  "title" : "Café au Lait",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/07_Heissgetraenke/Caf_au_Lait/Bild_Caf_au_Lait.data.jpg",
+  "declarations" : [ ],
+  "optionChoice" : {
+    "articleIds" : [ 10564202, 10564206, 10564204 ],
+    "textBeforeChoice" : "Bitte wählen Sie eine Größe",
+    "textAfterChoice" : "Ihre ausgewählte Größe"
+  },
+  "extraChoice" : {
+    "articleIds" : [ ]
+  }
+}, {
+  "productType" : "OPTION_ARTICLE",
+  "ecmId" : 10579274,
+  "vzn" : "29",
+  "category" : "Heißgetränke",
+  "title" : "Cappuccino",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/07_Heissgetraenke/Cappuccino/Bild_Cappuccino.data.jpg",
+  "declarations" : [ ],
+  "optionChoice" : {
+    "articleIds" : [ 10579276, 10579278, 10579280 ],
+    "textBeforeChoice" : "Bitte wählen Sie eine Größe",
+    "textAfterChoice" : "Ihre ausgewählte Größe"
+  },
+  "extraChoice" : {
+    "articleIds" : [ ]
+  }
+}, {
+  "productType" : "OPTION_ARTICLE",
+  "ecmId" : 10579210,
+  "vzn" : "29",
+  "category" : "Heißgetränke",
+  "title" : "BIO Grüntee Jingshen",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/07_Heissgetraenke/BIO-Gruentee_Jingshen/Bild_BIO-Gruentee_Jingshen.data.jpg",
+  "declarations" : [ ],
+  "optionChoice" : {
+    "articleIds" : [ 10579214, 10579212 ],
+    "textBeforeChoice" : "Bitte wählen Sie eine Größe",
+    "textAfterChoice" : "Ihre ausgewählte Größe"
+  },
+  "extraChoice" : {
+    "articleIds" : [ ]
+  }
+}, {
+  "productType" : "OPTION_ARTICLE",
+  "ecmId" : 10579338,
+  "vzn" : "29",
+  "category" : "Heißgetränke",
+  "title" : "Spearminze",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/07_Heissgetraenke/Spearminze/Bild_Spearminze.data.jpg",
+  "declarations" : [ ],
+  "optionChoice" : {
+    "articleIds" : [ 10579342, 10579340 ],
+    "textBeforeChoice" : "Bitte wählen Sie eine Größe",
+    "textAfterChoice" : "Ihre ausgewählte Größe"
+  },
+  "extraChoice" : {
+    "articleIds" : [ ]
+  }
+}, {
+  "productType" : "OPTION_ARTICLE",
+  "ecmId" : 10579180,
+  "vzn" : "29",
+  "category" : "Heißgetränke",
+  "title" : "BIO English Breakfast",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/07_Heissgetraenke/BIO-English_Breakfast/Bild_BIO-English_Breakfast.data.jpg",
+  "declarations" : [ ],
+  "optionChoice" : {
+    "articleIds" : [ 10579184, 10579182 ],
+    "textBeforeChoice" : "Bitte wählen Sie eine Größe",
+    "textAfterChoice" : "Ihre ausgewählte Größe"
+  },
+  "extraChoice" : {
+    "articleIds" : [ ]
+  }
+}, {
+  "productType" : "OPTION_ARTICLE",
+  "ecmId" : 10564016,
+  "vzn" : "29",
+  "category" : "Heißgetränke",
+  "title" : "Filterkaffee mit OATLY ",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/07_Heissgetraenke/Filterkaffee_mit_Oatly/Bild_Filterkaffee_Oatly.data.jpg",
+  "declarations" : [ ],
+  "optionChoice" : {
+    "articleIds" : [ 10564022, 10564020, 10564018 ],
+    "textBeforeChoice" : "Bitte wählen Sie eine Größe",
+    "textAfterChoice" : "Ihre ausgewählte Größe"
+  },
+  "extraChoice" : {
+    "articleIds" : [ ]
+  }
+}, {
+  "productType" : "OPTION_ARTICLE",
+  "ecmId" : 10564048,
+  "vzn" : "29",
+  "category" : "Heißgetränke",
+  "title" : "Café Crème",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/07_Heissgetraenke/Caf_Crme/Bild_Caf_Crme.data.jpg",
+  "declarations" : [ ],
+  "optionChoice" : {
+    "articleIds" : [ 10564050, 10564052, 10564054 ],
+    "textBeforeChoice" : "Bitte wählen Sie eine Größe",
+    "textAfterChoice" : "Ihre ausgewählte Größe"
+  },
+  "extraChoice" : {
+    "articleIds" : [ ]
+  }
+}, {
+  "productType" : "OPTION_ARTICLE",
+  "ecmId" : 10637776,
+  "vzn" : "29",
+  "category" : "Heißgetränke",
+  "title" : "BIO Herbal Refresh Kräutertee",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/07_Heissgetraenke/BIO_Herbal_Refresh_Kraeutertee_Fairtrade/Bild_BIO_Herbal_Refresh_Kraeutertee_Fairtrade.data.jpg",
+  "declarations" : [ ],
+  "optionChoice" : {
+    "articleIds" : [ 10637810, 10637808 ],
+    "textBeforeChoice" : "Bitte wählen Sie eine Größe",
+    "textAfterChoice" : "Ihre ausgewählte Größe"
+  },
+  "extraChoice" : {
+    "articleIds" : [ ]
+  }
+}, {
+  "productType" : "OPTION_ARTICLE",
+  "ecmId" : 10564340,
+  "vzn" : "29",
+  "category" : "Heißgetränke",
+  "title" : "Café Crème mit OATLY ",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/07_Heissgetraenke/Caf_Crme_mit_Oatly/Bild_Caf_Crme_Oatly.data.jpg",
+  "declarations" : [ ],
+  "optionChoice" : {
+    "articleIds" : [ 10564342, 10564344, 10564346 ],
+    "textBeforeChoice" : "Bitte wählen Sie eine Größe",
+    "textAfterChoice" : "Ihre ausgewählte Größe"
+  },
+  "extraChoice" : {
+    "articleIds" : [ ]
+  }
+}, {
+  "productType" : "OPTION_ARTICLE",
+  "ecmId" : 10579316,
+  "vzn" : "29",
+  "category" : "Heißgetränke",
+  "title" : "Espresso Macchiato",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/07_Heissgetraenke/Espresso_Macchiato/Bild_Espresso_Macchiato.data.jpg",
+  "declarations" : [ ],
+  "optionChoice" : {
+    "articleIds" : [ 10579318, 10579320 ],
+    "textBeforeChoice" : "Bitte wählen Sie eine Größe",
+    "textAfterChoice" : "Ihre ausgewählte Größe"
+  },
+  "extraChoice" : {
+    "articleIds" : [ ]
+  }
+}, {
+  "productType" : "OPTION_ARTICLE",
+  "ecmId" : 10579288,
+  "vzn" : "29",
+  "category" : "Heißgetränke",
+  "title" : "Espresso",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/07_Heissgetraenke/Espresso/Bild_Espresso.data.jpg",
+  "declarations" : [ ],
+  "optionChoice" : {
+    "articleIds" : [ 10579290, 10579292 ],
+    "textBeforeChoice" : "Bitte wählen Sie eine Größe",
+    "textAfterChoice" : "Ihre ausgewählte Größe"
+  },
+  "extraChoice" : {
+    "articleIds" : [ ]
+  }
+}, {
+  "productType" : "OPTION_ARTICLE",
+  "ecmId" : 10564062,
+  "vzn" : "29",
+  "category" : "Heißgetränke",
+  "title" : "BIO Earl Grey Tea",
+  "checked" : true,
+  "available" : false,
+  "imageUrl" : "img/grains/Sites/ICE-Portal/Germany/de/Release_2.0/Startseite_3.0/BaP_-_Bestellen_am_Platz/Speisekarte/07_Heissgetraenke/BIO-Earl_Grey_Tea/Bild_BIO-Earl_Grey_Tea.data.jpg",
+  "declarations" : [ ],
+  "optionChoice" : {
+    "articleIds" : [ 10564066, 10564064 ],
+    "textBeforeChoice" : "Bitte wählen Sie eine Größe",
+    "textAfterChoice" : "Ihre ausgewählte Größe"
+  },
+  "extraChoice" : {
+    "articleIds" : [ ]
+  }
+} ]

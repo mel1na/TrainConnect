@@ -8,25 +8,35 @@
 import Foundation
 import Moya
 
-// URL: https://iceportal.de/api1/rs/tripInfo/trip
-// https://iceportal.de/api1/rs/status
+// trip info: https://iceportal.de/api1/rs/tripInfo/trip
+// trip status: https://iceportal.de/api1/rs/status
+// bordbistro status: https://iceportal.de/bap/api/bap-service-status
 
 public enum ICEPortalAPI {
     case trip
     case status
+    case bap_status
+    case bap_availabilities
+    case bap_products
 }
 
 extension ICEPortalAPI: TargetType {
     public var baseURL: URL {
-        URL(string: "https://iceportal.de/api1/rs")!
+        URL(string: "https://iceportal.de")!
     }
     
     public var path: String {
         switch self {
         case .trip:
-            return "/tripInfo/trip"
+            return "/api1/rs/tripInfo/trip"
         case .status:
-            return "/status"
+            return "/api1/rs/status"
+        case .bap_status:
+            return "/bap/api/bap-service-status"
+        case .bap_availabilities:
+            return "/bap/api/availabilities"
+        case .bap_products:
+            return "/bap/api/products"
         }
     }
     
@@ -55,6 +65,12 @@ extension ICEPortalAPI: TargetType {
             return self.data(for: "tripInfo1")
         case .status:
             return self.data(for: "status")
+        case .bap_status:
+            return self.data(for: "bap-status")
+        case .bap_availabilities:
+            return self.data(for: "bap-availabilities")
+        case .bap_products:
+            return self.data(for: "bap-products")
         }
     }
     

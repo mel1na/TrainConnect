@@ -76,12 +76,21 @@ public final class ICEDataController: NSObject, TrainDataController {
     
     
     public func loadTrainStatus(demoMode: Bool, completionHandler: @escaping (TrainStatus?, Error?) -> ()) {
-        self.loadStatus(demoMode: demoMode, completionHandler: {
-            completionHandler($0, $1)
-        })
+        //self.loadStatus(demoMode: demoMode, completionHandler: {
+        //    completionHandler($0, $1)
+        //})
+        self.loadStatus(demoMode: demoMode) { status, error in
+            if let status = status {
+                self.loadBapStatus(demoMode: demoMode) { bap, error in
+                    if let bap = bap {
+                        completionHandler(Status(status: status, bap: bap), nil)
+                    }
+                }
+            }
+        }
     }
     
-    public func loadStatus(demoMode: Bool = false, completionHandler: @escaping (Status?, Error?) -> ()) {
+    public func loadStatus(demoMode: Bool = false, completionHandler: @escaping (StatusResponse?, Error?) -> ()) {
         let provider = getProvider(demoMode: demoMode)
         provider.session.session.configuration.timeoutIntervalForRequest = 2
         provider.session.session.configuration.timeoutIntervalForResource = 2
@@ -91,7 +100,7 @@ public final class ICEDataController: NSObject, TrainDataController {
                 do {
                     let response = try response.filterSuccessfulStatusCodes()
                     let decoder = JSONDecoder()
-                    let status = try decoder.decode(Status.self, from: response.data)
+                    let status = try decoder.decode(StatusResponse.self, from: response.data)
                     completionHandler(status, nil)
                 } catch DecodingError.dataCorrupted(let context) {
                     if response.data.count == 0 {
@@ -121,6 +130,46 @@ public final class ICEDataController: NSObject, TrainDataController {
             }
         }
     }
+    
+    public func loadBapStatus(demoMode: Bool, completionHandler: @escaping (BapResponse?, Error?) -> ()) {
+        let provider = getProvider(demoMode: demoMode)
+        provider.session.session.configuration.timeoutIntervalForRequest = 2
+        provider.session.session.configuration.timeoutIntervalForResource = 2
+        provider.request(.bap_status) { result in
+            switch result {
+            case .success(let response):
+                do {
+                    let response = try response.filterSuccessfulStatusCodes()
+                    let decoder = JSONDecoder()
+                    let status = try decoder.decode(BapResponse.self, from: response.data)
+                    completionHandler(status, nil)
+                } catch DecodingError.dataCorrupted(let context) {
+                    print(context)
+                } catch DecodingError.keyNotFound(let key, let context) {
+                    print("Key '\(key)' not found:", context.debugDescription)
+                    print("codingPath:", context.codingPath)
+                } catch DecodingError.valueNotFound(let value, let context) {
+                    print("Value '\(value)' not found:", context.debugDescription)
+                    print("codingPath:", context.codingPath)
+                } catch DecodingError.typeMismatch(let type, let context) {
+                    print("Type '\(type)' mismatch:", context.debugDescription)
+                    print("codingPath:", context.codingPath)
+                } catch {
+                    print(error.localizedDescription)
+                    completionHandler(nil, error)
+                }
+                break
+            case .failure(let error):
+                print(error.localizedDescription)
+                completionHandler(nil, error)
+                break
+            }
+        }
+    }
+    
+    /*public func loadBapAvailabilities(demoMode: Bool, completionHandler: @escaping (BapAvailabilitiesResponse?, Error?) -> ()) {
+        
+    }*/
 }
 
 extension ICEDataController {

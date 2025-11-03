@@ -170,16 +170,49 @@ public struct Coordinate: Decodable {
     public let longitude: Double
 }
 
+public struct Status: TrainStatus {
+    public let status: StatusResponse
+    public let bap: BapResponse
+    //public let availabilities: AvailabilitiesResponse
+    
+    public var latitude: Double {
+        status.latitude
+    }
+    
+    public var longitude: Double {
+        status.longitude
+    }
+    
+    public var currentSpeed: Measurement<UnitSpeed> {
+        status.currentSpeed
+    }
+    
+    public var currentConnectivity: String? {
+        status.currentConnectivity
+    }
+    
+    public var connectedDevices: Int? {
+        status.connectedDevices
+    }
+    
+    public var trainType: any TrainConnect.TrainType {
+        status.trainType
+    }
+    
+    
+}
 
-public struct Status: Decodable, TrainStatus {
+public struct StatusResponse: Decodable {
     
     public let latitude: Double
     public let longitude: Double
     public let series: String
     public let speed: Double
     public let tzn: String
+    public let wagonClass: String
     
     public let connectivity: Connectivity
+    
     
     public var currentConnectivity: String? {
         self.connectivity.currentState
@@ -196,10 +229,22 @@ public struct Status: Decodable, TrainStatus {
     public var currentSpeed: Measurement<UnitSpeed> {
         Measurement<UnitSpeed>(value: self.speed, unit: .kilometersPerHour)
     }
+    
+    public let bapInstalled: Bool
 }
 
 public struct Connectivity: Decodable {
     public let currentState: String?
     public let nextState: String?
     public let remainingTimeSeconds: Int?
+}
+
+public struct BapResponse: Decodable {
+    public let bapServiceStatus: BapServiceStatus //ACTIVE, PAUSED or INACTIVE
+}
+
+public enum BapServiceStatus: String, Decodable {
+    case active = "ACTIVE"
+    case paused = "PAUSED"
+    case inactive = "INACTIVE"
 }
