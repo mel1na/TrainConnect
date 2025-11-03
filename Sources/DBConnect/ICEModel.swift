@@ -173,7 +173,7 @@ public struct Coordinate: Decodable {
 public struct Status: TrainStatus {
     public let status: StatusResponse
     public let bap: BapStatusResponse
-    //public let availabilities: AvailabilitiesResponse
+    public let availability: BapAvailabilityResponse
     
     public var latitude: Double {
         status.latitude
@@ -202,7 +202,8 @@ public struct Status: TrainStatus {
     public var restaurant: TrainRestaurantData? {
         ICERestaurantData(
             status: bap.bapServiceStatus.rawValue,
-            installed: status.bapInstalled
+            installed: status.bapInstalled,
+            availabilities: availability.availabilities
         )
     }
     
@@ -215,10 +216,12 @@ public struct Status: TrainStatus {
 public struct ICERestaurantData: TrainRestaurantData {
     public let status: String?
     public let installed: Bool?
+    public let availabilities: [BapAvailability]?
 
-    public init(status: String?, installed: Bool?) {
+    public init(status: String?, installed: Bool?, availabilities: [BapAvailability]?) {
         self.status = status
         self.installed = installed
+        self.availabilities = availabilities
     }
 }
 
@@ -269,3 +272,21 @@ public enum BapServiceStatus: String, Decodable {
     case inactive = "INACTIVE"
 }
 
+public struct BapAvailability: Decodable {
+    public let ecmId: String
+    public let status: String
+}
+
+public struct BapAvailabilityResponse: Decodable {
+    public let availabilities: [BapAvailability]
+    public var availableItemsCount: Int {
+        var count: Int = 0
+        for availability in self.availabilities where availability.status.contains("AVAILABLE") {
+            count += 1
+        }
+        return count
+    }
+    public var totalItemsCount: Int {
+        self.availabilities.count
+    }
+}
