@@ -32,6 +32,9 @@ class ICE_BuddyTests: XCTestCase {
         XCTAssertEqual(ICE0334, .BR403)
 
         let ICE1159 = ICETrainType(tzn: "ICE1159").model
-        XCTAssertEqual(ICE1159, .BR411)
+        XCTAssertEqual(ICE1159, .BR411_2)
+        
+        let ICE1806 = ICETrainType(tzn: "ICE1806").model
+        XCTAssertEqual(ICE1806, .ICE_L)
     }
 }

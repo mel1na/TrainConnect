@@ -19,7 +19,7 @@ import UIKit
 public struct ICETrainType: TrainType {
   
     enum Model: CaseIterable {
-        case BR401, BR402, BR403, BR407, BR408, BR411_1, BR411_2, BR412, BR415, unknown
+        case BR401, BR402, BR403, BR407, BR408, BR411_1, BR411_2, BR412, BR415, ICE_L, unknown
         
         var triebZugNummern: [Int] {
             switch self {
@@ -41,6 +41,8 @@ public struct ICETrainType: TrainType {
                 return [Int](9001...9999)
             case .BR415:
                 return [Int](1501...1599)
+            case .ICE_L:
+                return [Int](1800...1899)
             case .unknown:
                 return []
             }
@@ -73,6 +75,8 @@ public struct ICETrainType: TrainType {
             return "ICE T"
         case .BR412:
             return "ICE 4"
+        case .ICE_L:
+            return "ICE L"
         case .unknown:
             return "Unknown Train Type"
         }
@@ -164,6 +168,8 @@ public struct ICETrainType: TrainType {
             return Bundle.module.image(forResource: "BR412")!
         case .BR415:
             return Bundle.module.image(forResource: "BR415")!
+        case .ICE_L:
+            return Bundle.module.image(forResource: "BR401")!
         case .unknown:
             return Bundle.module.image(forResource: "BR401")!
         }
