@@ -192,7 +192,7 @@ public final class ICEDataController: NSObject, TrainDataController {
         }
     }
     
-    public func loadBapAvailabilities(demoMode: Bool, completionHandler: @escaping (BapAvailabilityResponse?, Error?) -> ()) {
+    public func loadBapAvailabilities(demoMode: Bool, completionHandler: @escaping ([BapAvailability]?, Error?) -> ()) {
         let provider = getProvider(demoMode: demoMode)
         provider.session.session.configuration.timeoutIntervalForRequest = 2
         provider.session.session.configuration.timeoutIntervalForResource = 2
@@ -202,8 +202,8 @@ public final class ICEDataController: NSObject, TrainDataController {
                 do {
                     let response = try response.filterSuccessfulStatusCodes()
                     let decoder = JSONDecoder()
-                    let availability = try decoder.decode(BapAvailabilityResponse.self, from: response.data)
-                    completionHandler(availability, nil)
+                    let availabilities = try decoder.decode([BapAvailability].self, from: response.data)
+                    completionHandler(availabilities, nil)
                 } catch DecodingError.dataCorrupted(let context) {
                     print(context)
                     completionHandler(nil, DecodingError.dataCorrupted(context))

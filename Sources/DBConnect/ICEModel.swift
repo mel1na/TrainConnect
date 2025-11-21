@@ -283,7 +283,7 @@ public enum BapServiceStatus: String, Decodable {
 }
 
 public struct BapAvailability: Decodable {
-    public let ecmId: String
+    public let ecmId: Int
     public let status: String
 }
 
