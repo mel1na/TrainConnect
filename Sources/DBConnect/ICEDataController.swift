@@ -52,15 +52,23 @@ public final class ICEDataController: NSObject, TrainDataController {
                         break
                     }
                     print(context)
+                    completionHandler(nil, DecodingError.dataCorrupted(context))
                 } catch DecodingError.keyNotFound(let key, let context) {
                     print("Key '\(key)' not found:", context.debugDescription)
                     print("codingPath:", context.codingPath)
+                    completionHandler(nil, DecodingError.keyNotFound(key, context))
                 } catch DecodingError.valueNotFound(let value, let context) {
                     print("Value '\(value)' not found:", context.debugDescription)
                     print("codingPath:", context.codingPath)
+                    completionHandler(nil, DecodingError.valueNotFound(value, context))
                 } catch DecodingError.typeMismatch(let type, let context) {
                     print("Type '\(type)' mismatch:", context.debugDescription)
                     print("codingPath:", context.codingPath)
+                    print("Type mismatch error. Expected type: \(type). Coding path: \(context.codingPath)")
+                    if let dataStr = String(data: response.data, encoding: .utf8) {
+                        print("Raw response data: \(dataStr)")
+                    }
+                    completionHandler(nil, DecodingError.typeMismatch(type, context))
                 } catch {
                     print(error.localizedDescription)
                     completionHandler(nil, error)
@@ -110,15 +118,23 @@ public final class ICEDataController: NSObject, TrainDataController {
                         break
                     }
                     print(context)
+                    completionHandler(nil, DecodingError.dataCorrupted(context))
                 } catch DecodingError.keyNotFound(let key, let context) {
                     print("Key '\(key)' not found:", context.debugDescription)
                     print("codingPath:", context.codingPath)
+                    completionHandler(nil, DecodingError.keyNotFound(key, context))
                 } catch DecodingError.valueNotFound(let value, let context) {
                     print("Value '\(value)' not found:", context.debugDescription)
                     print("codingPath:", context.codingPath)
+                    completionHandler(nil, DecodingError.valueNotFound(value, context))
                 } catch DecodingError.typeMismatch(let type, let context) {
                     print("Type '\(type)' mismatch:", context.debugDescription)
                     print("codingPath:", context.codingPath)
+                    print("Type mismatch error. Expected type: \(type). Coding path: \(context.codingPath)")
+                    if let dataStr = String(data: response.data, encoding: .utf8) {
+                        print("Raw response data: \(dataStr)")
+                    }
+                    completionHandler(nil, DecodingError.typeMismatch(type, context))
                 } catch {
                     print(error.localizedDescription)
                     completionHandler(nil, error)
@@ -146,15 +162,23 @@ public final class ICEDataController: NSObject, TrainDataController {
                     completionHandler(status, nil)
                 } catch DecodingError.dataCorrupted(let context) {
                     print(context)
+                    completionHandler(nil, DecodingError.dataCorrupted(context))
                 } catch DecodingError.keyNotFound(let key, let context) {
                     print("Key '\(key)' not found:", context.debugDescription)
                     print("codingPath:", context.codingPath)
+                    completionHandler(nil, DecodingError.keyNotFound(key, context))
                 } catch DecodingError.valueNotFound(let value, let context) {
                     print("Value '\(value)' not found:", context.debugDescription)
                     print("codingPath:", context.codingPath)
+                    completionHandler(nil, DecodingError.valueNotFound(value, context))
                 } catch DecodingError.typeMismatch(let type, let context) {
                     print("Type '\(type)' mismatch:", context.debugDescription)
                     print("codingPath:", context.codingPath)
+                    print("Type mismatch error. Expected type: \(type). Coding path: \(context.codingPath)")
+                    if let dataStr = String(data: response.data, encoding: .utf8) {
+                        print("Raw response data: \(dataStr)")
+                    }
+                    completionHandler(nil, DecodingError.typeMismatch(type, context))
                 } catch {
                     print(error.localizedDescription)
                     completionHandler(nil, error)
@@ -182,15 +206,23 @@ public final class ICEDataController: NSObject, TrainDataController {
                     completionHandler(availability, nil)
                 } catch DecodingError.dataCorrupted(let context) {
                     print(context)
+                    completionHandler(nil, DecodingError.dataCorrupted(context))
                 } catch DecodingError.keyNotFound(let key, let context) {
                     print("Key '\(key)' not found:", context.debugDescription)
                     print("codingPath:", context.codingPath)
+                    completionHandler(nil, DecodingError.keyNotFound(key, context))
                 } catch DecodingError.valueNotFound(let value, let context) {
                     print("Value '\(value)' not found:", context.debugDescription)
                     print("codingPath:", context.codingPath)
+                    completionHandler(nil, DecodingError.valueNotFound(value, context))
                 } catch DecodingError.typeMismatch(let type, let context) {
                     print("Type '\(type)' mismatch:", context.debugDescription)
                     print("codingPath:", context.codingPath)
+                    print("Type mismatch error. Expected type: \(type). Coding path: \(context.codingPath)")
+                    if let dataStr = String(data: response.data, encoding: .utf8) {
+                        print("Raw response data: \(dataStr)")
+                    }
+                    completionHandler(nil, DecodingError.typeMismatch(type, context))
                 } catch {
                     print(error.localizedDescription)
                     completionHandler(nil, error)
