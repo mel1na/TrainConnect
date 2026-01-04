@@ -90,7 +90,8 @@ public final class ICEDataController: NSObject, TrainDataController {
                     if let bap = bap {
                         self.loadBapAvailabilities(demoMode: demoMode) { availabilities, error in
                             if let availabilities = availabilities {
-                                completionHandler(Status(status: status, bap: bap, availability: availabilities), nil)
+                                let availabilityResponse = BapAvailabilityResponse(availabilities: availabilities)
+                                completionHandler(Status(status: status, bap: bap, availability: availabilityResponse), nil)
                             }
                         }
                     }
