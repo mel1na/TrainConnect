@@ -56,7 +56,8 @@ public class RJDataController: NSObject, TrainDataController {
                     let trip = try decoder.decode(CombinedResponse.self, from: response.data)
                     completionHandler(trip, nil)
                 } catch DecodingError.dataCorrupted(let context) {
-                    if response.response?.allHeaderFields["Content-Type"] as! String != "application/octet-stream" {
+                    let contentType = response.response?.allHeaderFields["Content-Type"] as? String
+                    if contentType != "application/octet-stream" {
                         completionHandler(nil, TrainConnectionError.notConnected)
                         break
                     }
@@ -91,3 +92,4 @@ public class RJDataController: NSObject, TrainDataController {
         }
     }
 }
+

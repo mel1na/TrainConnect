@@ -303,7 +303,7 @@ public struct Status: Codable, TrainStatus {
     public let speed: Int
     
     public var currentConnectivity: String? {
-        return "Unknown"
+        return nil
     }
     
     public var connectedDevices: Int? {
