@@ -263,7 +263,7 @@ public struct StatusResponse: Decodable {
         Measurement<UnitSpeed>(value: self.speed, unit: .kilometersPerHour)
     }
     
-    public let bapInstalled: Bool
+    public let bapInstalled: Bool?
 }
 
 public struct Connectivity: Decodable {
