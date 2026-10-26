@@ -244,11 +244,11 @@ public struct StatusResponse: Decodable {
     public let tzn: String
     public let wagonClass: String
     
-    public let connectivity: Connectivity
+    public let connectivity: Connectivity?
     
     
     public var currentConnectivity: String? {
-        self.connectivity.currentState
+        self.connectivity?.currentState
     }
     
     public var connectedDevices: Int? {
