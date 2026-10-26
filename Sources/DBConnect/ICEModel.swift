@@ -202,7 +202,6 @@ public struct Status: TrainStatus {
     public var restaurant: TrainRestaurantData? {
         ICERestaurantData(
             status: bap.bapServiceStatus.rawValue,
-            installed: status.bapInstalled,
             availabilities: availability.availabilities
         )
     }
@@ -215,7 +214,6 @@ public struct Status: TrainStatus {
 
 public struct ICERestaurantData: TrainRestaurantData {
     public let status: String?
-    public let installed: Bool?
     public let availabilities: [BapAvailability]?
     public var availableProducts: Int? {
         var count: Int = 0
@@ -230,7 +228,6 @@ public struct ICERestaurantData: TrainRestaurantData {
 
     public init(status: String?, installed: Bool?, availabilities: [BapAvailability]?) {
         self.status = status
-        self.installed = installed
         self.availabilities = availabilities
     }
 }
@@ -262,8 +259,6 @@ public struct StatusResponse: Decodable {
     public var currentSpeed: Measurement<UnitSpeed> {
         Measurement<UnitSpeed>(value: self.speed, unit: .kilometersPerHour)
     }
-    
-    public let bapInstalled: Bool?
 }
 
 public struct Connectivity: Decodable {

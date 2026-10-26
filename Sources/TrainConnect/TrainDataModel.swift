@@ -82,7 +82,6 @@ public protocol TrainConnectivity {
 }
 
 public protocol TrainRestaurantData {
-    var installed: Bool? { get }
     var status: String? { get }
     var availableProducts: Int? { get }
     var totalProducts: Int? { get }

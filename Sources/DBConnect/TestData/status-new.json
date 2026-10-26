@@ -1,0 +1,8 @@
+{"bapServiceStatus":"PAUSED","connection":true,"serviceLevel":"AVAILABLE_SERVICE","gpsStatus":"VALID","internet":"HIGH","latitude":50.0528065,"longitude":8.5689121667,"series":"412","serverTime":1793016705002,"speed":18.8,"trainType":"ICE","tzn":"ICE9041","vzn":517,"launchTime":"2026-10-26T06:26:00","wagonClass":"FIRST","ecmVersion":"2026-10-23T21:31:59"}
+
+old: connection,serviceLevel,gpsStatus,internet,latitude,longitude,tileY,tileX,series,serverTime,speed,trainType,tzn,wagonClass,connectivity,bapInstalled
+y,y,y,y,y,y,y,y,y,y,y,y,n,n
+
+
+new:
+bapServiceStatus,connection,serviceLevel,gpsStatus,internet,latitude,longitude,series,serverTime,speed,trainType,tzn,vzn,launchTime,wagonClass,ecmVersion
