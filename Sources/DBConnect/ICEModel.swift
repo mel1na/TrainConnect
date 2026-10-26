@@ -226,7 +226,7 @@ public struct ICERestaurantData: TrainRestaurantData {
         self.availabilities?.count
     }
 
-    public init(status: String?, installed: Bool?, availabilities: [BapAvailability]?) {
+    public init(status: String?, availabilities: [BapAvailability]?) {
         self.status = status
         self.availabilities = availabilities
     }
