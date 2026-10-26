@@ -45,7 +45,18 @@ public final class ICEDataController: NSObject, TrainDataController {
                     decoder.dateDecodingStrategy = .formatted(DateFormatter.yyyyMMdd)
                     let trip = try decoder.decode(TripResponse.self, from: response.data)
                     completionHandler(trip, nil)
-                } catch DecodingError.dataCorrupted(let context) {
+                } catch {
+                    if let decodingError = error as? DecodingError {
+                        print("DecodingError: \(decodingError)")
+                    } else {
+                        print("Unknown decode error: \(error)")
+                    }
+                    if let raw = String(data: response.data, encoding: .utf8) {
+                        print("Raw payload (truncated): \(raw.prefix(2000))")
+                    }
+                    completionHandler(nil, error)
+                }
+                /*} catch DecodingError.dataCorrupted(let context) {
                     if response.data.count == 0 {
                         // iceportal.de outside WiFi returns 200 with an empty body.
                         completionHandler(nil, TrainConnectionError.notConnected)
@@ -72,7 +83,7 @@ public final class ICEDataController: NSObject, TrainDataController {
                 } catch {
                     print(error.localizedDescription)
                     completionHandler(nil, error)
-                }
+                }*/
                 break
             case .failure(let error):
                 print(error.localizedDescription)
